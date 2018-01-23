@@ -1,5 +1,5 @@
 ---
-title: CREATE TABLE permissions denied
+title: Number of processed servers during the scan is incorrect.
 description: Number of processed servers during the scan is incorrect.
 author: Tomislav Sirovec
 date: 17/01/2018
