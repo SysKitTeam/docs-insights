@@ -7,6 +7,8 @@ private: true
 Check out the new SPDocKit Insights version delights. See the changes in the latest version and upgrade. 
 # [Requirements](requirements.md)
 Make sure that your environment and the account used for the application meet SPDocKit Insights requirements.
+# [Configuration](configuration.md)
+placehodler
 # [Activation](activation.md)
 Activate your fully featured version.
 # [How To](how-to.md)
