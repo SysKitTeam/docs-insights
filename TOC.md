@@ -17,5 +17,5 @@ When you get stuck trying to make magic happen, these guides will tell you the s
 These are some of the most common questions and answers about SPDocKit Insights. If you cannot find the answer to your problem, please contact us.
 # [Known Issues](known-issues.md)
 Even the best of us fail sometimes. We are working on it! 
-# [Troubleshooting](troubleshootin.md)
+# [Troubleshooting](troubleshooting.md)
 Placeholder
