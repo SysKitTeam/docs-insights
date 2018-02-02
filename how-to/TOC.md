@@ -4,4 +4,5 @@ slug: how-to
 private: true
 ---
 
-# [How To](how-to.md)
+# [Configure Syskit Insights](configure-insights.md)
+# [Write search queries](search.md)
