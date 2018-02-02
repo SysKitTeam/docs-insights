@@ -1,6 +1,6 @@
 ---
 title: Performance Counters help
-description: Performance Counters help page offers you a list of all the counters
+description: Performance Counters help page offers you a list of all the available counters along with their thresholds. 
 author: Tomislav Sirovec
 date: 02/02/2018
 ---
@@ -55,6 +55,30 @@ The rate HTTP requests using the POST method are made.
 
 ## Total Application Pool Recycles
 The number of times that the application pool has been recycled since Windows Process Activation Service (WAS) started.
+
+## Requests Queued
+The number of requests waiting to be processed.
+
+Warning when the value is above 400.
+Critical when the value is above 1000.
+
+## Requests Rejected
+The number of requests rejected because the request queue was full.
+
+Warning when the value is above 2.
+Critical when the value is above 5.
+
+## Worker Process Restarts
+Number of times a worker process has restarted on the machine.
+
+Warning when the value is above 1.
+Critical when the value is above 5.
+
+## Request Wait Time
+The number of milliseconds the most recent request was waiting in the queue.
+
+Warning when the value is above 800.
+Critical when the value is above 1200.
 
 # SQL
 SQL template enables you to efficiently monitor your SQL servers. With specified counters you can quickly find possible bottlenecks and performance issues.
@@ -211,4 +235,26 @@ This counter displays the number of times the generation 2 objects (older) are g
 % Time in GC
 % Time in GC is the percentage of elapsed time that was spent in performing a garbage collection (GC) since the last GC cycle. This counter is usually an indicator of the work done by the Garbage Collector on behalf of the application to collect and compact memory. This counter is updated only at the end of every GC and the counter value reflects the last observed value its not an average.
 
+# Search
+Search templates helps you track a number of 'search' relevant counters on servers in SharePoint farm. Diagnose various problems and performance issues with ease.
 
+## Retries
+The total number of times a document access has been retried. Having this number high may indicate a problem with accessing the data.
+
+## Crawls in progress
+Number of crawls in progress.
+
+## Transactions Completed
+The number of elements in the complete transactions queue.
+
+## Transactions Waiting
+The number of documents waiting to be processed. When this number goes to zero the catalogue is idle. This number indicates the total queue size of unprocessed documents in the gatherer.
+
+## Transactions In Progress
+The number of documents in progress.
+
+## Documents Processed Rate
+The number of documents processed per second.
+
+## Documents Success Rate
+The number of successfully filtered documents per second.
