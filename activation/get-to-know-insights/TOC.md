@@ -5,4 +5,5 @@ private: true
 ---
 
 # [Home Dashboard](insights-home.md)
+# [Performance Screen](performance-screen.md)
 # [Performance Counters help](performance-counters.md)

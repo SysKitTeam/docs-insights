@@ -245,7 +245,7 @@ The total number of times a document access has been retried. Having this number
 Number of crawls in progress.
 
 ## Transactions Completed
-The number of elements in the complete transactions queue.
+Shows the current number of completed documents in the transactions queue.
 
 ## Transactions Waiting
 The number of documents waiting to be processed. When this number goes to zero the catalogue is idle. This number indicates the total queue size of unprocessed documents in the gatherer.
