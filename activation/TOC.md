@@ -4,4 +4,4 @@ slug: activation
 private: true
 ---
 
-# [Online Activation](online-activation.md)
+# [Activation - Online and Offline](online-offline-activation.md)
