@@ -15,6 +15,10 @@ Make sure that your environment and the account used for the application meet SP
 # [Configuration](configuration)
 placehodler
 
+# [Installation](installation)
+Placeholder
+## [Install Insights](install-insights.md)
+
 # [Activation](activation)
 Activate your fully featured version.
 ## [Activation - Online and Offline](online-offline-activation.md)
@@ -28,6 +32,7 @@ Activate your fully featured version.
 When you get stuck trying to make magic happen, these guides will tell you the secret. 
 ## [Configure Syskit Insights](configure-insights.md)
 ## [Write search queries](search.md)
+## [Customize Settings](customize-settings.md)
 
 # [FAQ](faq)
 These are some of the most common questions and answers about SPDocKit Insights. If you cannot find the answer to your problem, please contact us.
