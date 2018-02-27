@@ -9,7 +9,7 @@ SysKit Insights provides continuous load of the SharePoint ULS, Windows Event lo
 
 Use SysKit Insights to keep multiple farms under control and find problems more easily.  
 
-Before we get started __please note!__ We recommend installing the application on a server (or a workstation) outside of the SharePoint farm/s you wish to monitor. 
+Before we get started __please note!__ We recommend installing the application on a machine outside of the SharePoint farm/s you wish to monitor. 
 
 
 1. [Download](https://www.syskit.com/products/insights/) Application.
@@ -33,7 +33,7 @@ After the installation is done, SysKit Insights  - Configuration Wizard will aut
 3. On the __Service Settings__ type the service account details. The service account needs to have the [following privileges](#internal/requirements/user-permissions-requirements) to be able to collect all the data from the desired servers.
 4. __Insights Configuration__
     - **Index Location** – you need to ensure that the provided service account has write access to the index location directory. The directory for the index must be empty or contain an existing index.  It is recommended not to place the index on the system drive. Be careful if you plan to use the system drive for index location, as it can be quickly filled up.
-    - **Port To Use** - this is the port that the SPDocKit Insight Agent will use to communicate with the SPDocKit Insights application. By default, port 7890 is set, but you can change it to suit your needs.
+    - **Port To Use** - this is the port that the Syskit Insight Agent will use to communicate with the Syskit Insights application. By default, port 7890 is set, but you can change it to suit your needs.
     - **Max Index Size** – by default we set this value to 200GB with a maximum of 1TB. Feel free to change it to suit your needs and hardware capabilities.
     If the service determines that the index exceeds the maximum index size, it will stop the data collection. Note that the actual size of the index can vary because of index reorganization and can require up to 3 times the amount of disk space specified here.
     

@@ -13,7 +13,7 @@ To customize SysKit Insights settings click the **Settings button** located in t
 
 ## Available general settings
 - **Email settings**
-    - A list of  settings required to send email notifications when alert occurs.
+    - A list of settings required to send email notifications when alert occurs.
 
 ## Available farm settings:
 - **Assigned agent**
@@ -38,7 +38,7 @@ To customize SysKit Insights settings click the **Settings button** located in t
 - **Collection interval**
     - How often to collect log data (default is 15 seconds).
 - **Data retention period** 
-    - How long do you wish to keep the data (default is 7 days).
+    - How long do you wish to keep the data (default is 7 days for both Search and Performance).
 - **Max index size**
     - Data collection will stop when this limit is reached. 
 - **Performance data collection interval**
