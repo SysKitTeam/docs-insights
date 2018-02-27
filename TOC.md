@@ -32,7 +32,7 @@ Explore all possible configuration scenarios and choose the right one for your e
 ## [Home Dashboard](insights-home.md)
 ## [Event Viewer Dashboard](event-viewer.md)
 ## [Performance Screen](performance-screen.md)
-##  [Alerts Dashboard](insights-alerts.md)
+## [Alerts Dashboard](insights-alerts.md)
 ## [Performance Counters help](performance-counters.md)
 
 # [Known Issues](known-issues)
