@@ -14,6 +14,8 @@ Learn how to install SysKit Insights or update it to the latest version.
 # [Activation](activation)
 Activate your fully featured version.
 ## [Activation - Online and Offline](online-offline-activation.md)
+## [Activation Privacy Statement](activation-privacy-statement.md)
+## [Activation FAQ](activation-faq.md)
 
 # [Requirements](requirements)
 Make sure that your environment and the account used for the application meet Syskit Insights requirements.
@@ -28,7 +30,9 @@ Explore all possible configuration scenarios and choose the right one for your e
 
 # [Get to know Syskit Insights](get-to-know-insights)
 ## [Home Dashboard](insights-home.md)
+## [Event Viewer Dashboard](event-viewer.md)
 ## [Performance Screen](performance-screen.md)
+##  [Alerts Dashboard](insights-alerts.md)
 ## [Performance Counters help](performance-counters.md)
 
 # [Known Issues](known-issues)
