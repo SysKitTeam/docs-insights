@@ -29,16 +29,12 @@ Customers that have no internet access on their machines will need to activate S
         2. Company name
         3. Server Name - is NETBIOS name (network server name) of your server. To check your server name go to Control Panel > System > Computer name (tab). Computer name is listed next to the full computer name label. Trailing dot(.) is not a part of your server name.
 
-
     - Click the __Generate license file!__ button and download the __license file (.lic)__.
 
 3. Return to the SysKit Insights application and import the license file by clicking the __Browse...__ button, locating your license file and opening it.
 
 4. Click the Activate button to start the activation process. Activation takes a couple of seconds and is a one time process..
    
-    > __Please note!__ The __license file (.lic)__ is only valid for the user account and server where the __License Details (.dlic)__ file was generated in step 2.
-
-
 At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.  
 If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
 

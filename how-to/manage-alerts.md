@@ -29,17 +29,17 @@ If you want to edit an already existing alert navigate to aforementioned list of
 ## SharePoint Status
 
 ### Check SharePoint Timer Service status
-Status of the SharePoint Timer Service is checked for every server in the farm. You will be alerted if the status is stopped or stopping. By default you will receive an alert every 30 minutes. 
+- Status of the SharePoint Timer Service is checked for every server in the farm. You will be alerted if the status is stopped or stopping. By default you will receive an alert every 30 minutes. 
 
 ### Check Central Administration status
 - We will continuously ping the Central Administration site and notify you if it is not accessible. By default you will receive an alert every 30 minutes. 
 
 ### Check the status of the following SharePoint site
 * Check this if you wish SysKit Insights to periodically check if the given site is online. SysKit Insights will try to access the site using the Service Account credentials.  
-* If you wish to monitor more than one additional SharePoint site, or any additional SharePoint service - please [Contact us.](https://www.syskit.com/company/contact-us/)
- By default this is not possible in SysKit Insights v1, but we can show you a trick ;).
+* If you wish to monitor more than one additional SharePoint site, or any additional SharePoint service - please [Contact us.](https://www.syskit.com/company/contact-us/)  
+By default this is not possible in SysKit Insights v1, but we can show you a trick ;).   
 
- #### Email notifications
+#### Email notifications
 
 - Send to __default email__ address will send a notification (email) to addresses given in Settings -> Email Settings.
 - Send to __alternate email__ address - here you can define extra emails of people that you wish to receive the notification.

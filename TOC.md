@@ -29,6 +29,7 @@ Explore all possible configuration scenarios and choose the right one for your e
 ## [Search Query](search-query.md)
 
 # [Get to know Syskit Insights](get-to-know-insights)
+Dive into a detailed overview of what Insights has to offer. Check out the available features. 
 ## [Home Dashboard](insights-home.md)
 ## [Event Viewer Dashboard](event-viewer.md)
 ## [Performance Screen](performance-screen.md)
