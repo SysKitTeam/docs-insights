@@ -16,7 +16,7 @@ Clicking on any Performance Alert will open a detailed view on the right hand si
 
 ## Events
 
-Events tab will be populated as soon as you define a new Alert. For more information on how to do this, [click here](#internal/how-to/manage-alerts). 
+Events tab will be populated as soon as you define a __new Alert__. For more information on how to do this, [click here](#internal/how-to/manage-alerts). 
 
 The columns we provide here are: Farm, Server, Name, Query, Time.
 The square in the Server column is always grey and is indicative of Events Alert.
@@ -24,11 +24,11 @@ Clicking on a Events Alert will open the details on the right hand side, which w
 
 ## SharePoint Status
 
-SharePoint Status tab will automatically be populated. By default SysKit Insights checks the SharePoint Timer Service status and the Central Administration (CA) site status. If the Timer Service job is stopped or the CA is unavailable, you will be notified every 30 minutes. 
+SharePoint Status tab will automatically be populated. By default SysKit Insights checks the SharePoint Timer Service status and the Central Administration (CA) site status. If the Timer Service job is stopped or the CA is unavailable, you will be notified every 30 minutes.  
 The columns we provide here are: Farm, Server, Source, Value, Time.
 See the [Manage Alerts](#internal/how-to/manage-alerts) article to see how you can check the status of another site.  
-__Please note!__  
-To check (ping) a SharePoint site we are using the credentials of the service account you provided during the configuration of the SysKit Insights. Also, it is not possible
+
+> __Please note!__ - To check (ping) a SharePoint site we are using the credentials of the service account you provided during the configuration of the SysKit Insights. Also, it is not possible
 
 ## Sending the notification
 
