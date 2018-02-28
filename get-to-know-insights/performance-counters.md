@@ -7,9 +7,13 @@ date: 02/02/2018
 
 SysKit Insights monitors your server performance by periodically collecting performance counter values. The counters are split into several templates that are applied to your server based on the role it plays in your farm.
 
-Most counters have a critical and warning threshold defined. When the counter value remains above the threshold for an extended period of time it will be classified with a critical or warning status. This in turn will affect the status of the server seen on the dashboards within SysKit Insights.
+Most counters have a critical and warning threshold defined. When the counter value remains above the threshold for an extended period of time it will be classified with a critical or warning status. This in turn will affect the status of the server seen on the dashboards and it will cause an Alert to be sent - if you have that [option](#internal/how-to/manage-alerts) turned on.  
+Please note that these threshold can be changed to suit your needs more reliably.  
 
-Below are the counters that SysKit tracks with their corresponding critical and warning thresholds.
+See [this article](https://technet.microsoft.com/en-us/library/bb734903.aspx?f=255&MSPPError=-2147217396) for some guidelines on performance testing and tuning.
+
+
+Below are the counters that SysKit tracks with their corresponding (default) critical and warning thresholds.
 
 # General
 Default template contains counters that are collected for all servers.
