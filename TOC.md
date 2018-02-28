@@ -41,9 +41,6 @@ Even the best of us fail sometimes. We are working on it!
 ## [Performance Counters graphs](performance-counters-laptop-sleeping.md)
 ## [Scanning the AD](scan-ad-server-number.md)
 
-# [FAQ](faq)
-These are some of the most common questions and answers about Syskit Insights. If you cannot find the answer to your problem, please contact us.
-## [How to FAQ](how-to-faq.md)
-
-# [Troubleshooting](troubleshooting)
-## [Troubleshooting](troubleshooting.md)
+# [Best Practices](best-practices)
+proba proba
+## [Best Practices2](perf-counters-best-practices.md)
