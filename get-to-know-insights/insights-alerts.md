@@ -32,4 +32,7 @@ See the [Manage Alerts](#internal/how-to/manage-alerts) article to see how you c
 
 ## Sending the notification
 
-In order to receive the email notification of your alerts you need to enable them. Go to Settings -> Email settings. Select the: "Send email notifications when alerts occur" and fill out all the required fields. 
+In order to receive the email notification of your alerts you need to enable them. Go to Settings -> Email settings. Select the: "Send email notifications when alerts occur" and fill out all the required fields.  
+
+---
+>For more information on Insights features [see this article.](https://www.syskit.com/products/insights/features/intelligent-alerts/)
