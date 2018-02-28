@@ -26,7 +26,7 @@ To customize SysKit Insights settings click the **Settings button** located in t
     - All of the ULS categories and sources are preselected by default.
 - **Windows Event Log collection configuration**
     - Here you can change which Windows Event Levels and Logs you wish to monitor
-    - Configure levels and event sources to monitor.
+    - Configure Windows event sources to monitor. By default SPDocKit, SharePoint and SQL are added. 
 - **SQL collection configuration**
     - Enabled by default.
 - **Performance monitoring**

@@ -40,7 +40,3 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 Even the best of us fail sometimes. We are working on it! 
 ## [Performance Counters graphs](performance-counters-laptop-sleeping.md)
 ## [Scanning the AD](scan-ad-server-number.md)
-
-# [Best Practices](best-practices)
-proba proba
-## [Best Practices2](perf-counters-best-practices.md)
