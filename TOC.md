@@ -5,7 +5,7 @@ private: true
 
 # [Product Updates](product-updates)
 Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade. 
-##[Release](release1.md)
+##[SysKit Insights - 1.0.0](insights-release-note.md)
 
 # [Installation](installation)
 Learn how to install SysKit Insights or update it to the latest version. 
