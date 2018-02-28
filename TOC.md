@@ -22,19 +22,20 @@ Activate your fully featured version.
 ## [Activation Privacy Statement](activation-privacy-statement.md)
 ## [Activation FAQ](activation-faq.md)
 
-# [How To](how-to)
-Explore all possible configuration scenarios and choose the right one for your environment.
-## [Customize Settings](customize-settings.md)
-## [Manage Alerts](manage-alerts.md)
-## [Search Query](search-query.md)
-
 # [Get to know Syskit Insights](get-to-know-insights)
 Dive into a detailed overview of what Insights has to offer. Check out the available features. 
 ## [Home Dashboard](insights-home.md)
 ## [Event Viewer Dashboard](event-viewer.md)
 ## [Performance Screen](performance-screen.md)
 ## [Alerts Dashboard](insights-alerts.md)
+## [Farms Screen](farms-screen.md)
 ## [Performance Counters help](performance-counters.md)
+
+# [How To](how-to)
+Explore all possible configuration scenarios and choose the right one for your environment.
+## [Customize Settings](customize-settings.md)
+## [Manage Alerts](manage-alerts.md)
+## [Search Query](search-query.md)
 
 # [Known Issues](known-issues)
 Even the best of us fail sometimes. We are working on it. 

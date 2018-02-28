@@ -42,8 +42,8 @@ Number of bytes read from and written to the disk per second.
 Warning when the value is above 100 bytes/sec.
 Critical when the value is above 200 bytes/sec.
 
-# IIS
-IIS template helps you keep an eye on your IIS servers in SharePoint farm. Diagnose various problems and performance issues with ease.
+# IIS/ASP.NET
+IIS/ASP.NET template helps you keep an eye on your IIS servers in SharePoint farm. Diagnose various problems and performance issues with ease.
 
 ## Current Connections
 Current Connections is the current number of connections established with the Web service.

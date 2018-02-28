@@ -48,7 +48,7 @@ The server overview dashboard shows all metrics that are collected for each serv
 
 - __General__ and __Disk__ categories – these categories are assigned to all servers, and the metrics in those categories are collected for every server in farm. The General category shows CPU, RAM, network and disk usages while the Disk category shows detailed information about disks performance
 
-- __IIS__ category – this category is assigned only to a SharePoint Frontend server. These metrics show the usage of IIS on each Frontend server.
+- __IIS/ASP.NET__ category – this category is assigned only to a SharePoint Frontend server. These metrics show the usage of IIS on each Frontend server.
 
 - __.NET__ category – this category is assigned to all non-SQL SharePoint servers. The metrics in this category show how the processes on each non-SQL SharePoint server are using .NET framework capabilities.
 
