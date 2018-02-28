@@ -25,10 +25,10 @@ To customize SysKit Insights settings click the **Settings button** located in t
     - Here you can change which ULS event levels you want to collect. You can choose from the standard SharePoint ULS levels.
     - All of the ULS categories and sources are preselected by default.
 - **Windows Event Log collection configuration**
-    - Disabled by default. 
+    - Here you can change which Windows Event Levels and Logs you wish to monitor
     - Configure levels and event sources to monitor.
 - **SQL collection configuration**
-    - Disabled by default.
+    - Enabled by default.
 - **Performance monitoring**
     - Enabled by default. 
 
