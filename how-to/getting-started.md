@@ -17,7 +17,7 @@ While on the Manage Alerts form, notice the Events and SharePoint Status tabs. I
 
 After all that is done you can start observing the collected data.  
 
-## Home 
+## Home
 - The SysKit Insights home page gives you an overview of your index's contents as well as a general performance overview regarding your farm health.   
 Event Viewer index metrics are shown per farm. If you are monitoring multiple SharePoint farms, the farm select option will be available. Metrics shown here will change depending on the selected farm.  
 On the right hand side you can see a quick glance at the overall server health. For more details, please use the [performance tab.](#internal/get-to-know-insights/performance-screen) 
@@ -31,5 +31,5 @@ To start using the Event Viewer first select a farm. If you only have one - an a
 
 ## Performance
 
-![Performance Screen3](#img/performance-dashboard.png)![Performance Screen4](#img/performance-counter.png)  
+![Performance Screen3](#img/performance-dashboard.png) ![Spacing](#img/5x369.png) ![Performance Screen4](#img/performance-counter.png)  
 
