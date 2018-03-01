@@ -33,6 +33,3 @@ To start using the Event Viewer first select a farm. If you only have one - an a
 
 ![Performance Screen3](#img/performance-dashboard.png) ![Performance Screen4](#img/performance-counter.png)  
 
-![Performance Screen1](#img/performance-screen1.png =638x384) ![Performance Screen2](#img/performance-screen2.png =638x384)
-
-<img src="_assets/performance-dashboard.png" width="638px" height="384px" /> <img src="_assets/performance-counter.png" width="638px" height="384px" />
