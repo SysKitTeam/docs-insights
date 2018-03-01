@@ -33,6 +33,7 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 
 # [How To](how-to)
 Explore all possible configuration scenarios and choose the right one for your environment.
+## [Getting started](getting-started.md)
 ## [Customize Settings](customize-settings.md)
 ## [Manage Alerts](manage-alerts.md)
 ## [Search Query](search-query.md)
