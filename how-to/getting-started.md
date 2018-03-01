@@ -31,5 +31,5 @@ To start using the Event Viewer first select a farm. If you only have one - an a
 
 ## Performance
 
-![Performance Screen3](#img/performance-dashboard.png) ![Spacing](#img/3x369.png) ![Performance Screen4](#img/performance-counter.png)  
+![Performance Screen3](#img/performance-dashboard.png) ![Performance Screen4](#img/performance-counter.png)  
 
