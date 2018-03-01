@@ -11,6 +11,7 @@ On the main application window click __Farms.__ You will see a number of added f
 
 # There are three ways to add a new farm:
 ### Add Farm
+To add a farm you simply need to enter a name of the SharePoint server which is a part of that farm. We will autodiscover all other servers in the farm. 
 1. __Enter (SharePoint) server name__ or FQDN and press Test Connection. If the everything is in order green check mark will appear. Click Next to continue. 
 1. In the next step you will see the detected farm. You can configure server roles, edit ULS Path, modify detected farms' name or remove servers from a farm.
     - If you wish to add an extra server to the farm click __Add Server.__
@@ -19,7 +20,7 @@ On the main application window click __Farms.__ You will see a number of added f
 
 ### Scan
 1. You can search for Organizational Units by name, or you can use a dropdown menu to select the ones you want. 
-1. After the scan is complete you will see the detected farm. You can configure server roles, edit ULS Path, modify detected farms' name or remove servers from a farm. 
+1. After the scan is complete you will see the detected farm/s. You can configure server roles, edit ULS Path, modify detected farms' name or remove servers from a farm. 
     - If you wish to add an extra server to the farm click __Add Server.__
         - Enter the server name, select a role and click __Add server.__ When done click __Save__ and the server will be added to the farm.  
 1. Finally you will see an overview on how many servers you are adding. __Click Finish__ to save your work.

@@ -26,7 +26,7 @@ Event Viewer index metrics are shown per farm. If you are monitoring multiple Sh
 
 ## Performance dashboard
 
-* __Server health overview__ - a  quick glance at the overall server health. For more details, please use the performance tab. 
+* __Server health overview__ - a quick glance at the overall server health. For more details, please use the performance tab. 
 
 * __Top servers by disk space usage__ - top 5 disks by disk space used across all servers, based on the last collected value.
 
