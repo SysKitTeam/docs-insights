@@ -1,6 +1,6 @@
 ---
 title: SysKit Insights Getting Started
-description: Described some of the common use cases when starting the application for the first time 
+description: Described some of the common use cases when starting the application for the first time. 
 author: Tomislav Sirovec
 date: 01/03/2018
 --- 
