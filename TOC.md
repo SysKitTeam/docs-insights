@@ -23,7 +23,6 @@ Activate your fully featured version.
 ## [Activation FAQ](activation-faq.md)
 
 # [Getting Started](getting-started)
-## [Getting Started](getting-started.md)
 
 # [Get to know Syskit Insights](get-to-know-insights)
 Dive into a detailed overview of what Insights has to offer. Check out the available features. 
