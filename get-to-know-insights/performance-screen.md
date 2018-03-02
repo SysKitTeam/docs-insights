@@ -23,7 +23,7 @@ You can filter servers using these statuses. While on Performance tab click on t
 When the user is located on Performance tab of SysKit Insights a help link will be show. Following that link user can see all the details about the metrics SysKit Insights Agent collects. The description of each metric, warning and error thresholds are listed (where applicable).
 
 
-## The Farms Performance Overview Dashboard
+## Farms Performance Overview Dashboard
 
 The farms performance overview dashboard shows all farms currently monitored by SysKit Insights Agent. It shows status for each server in those farms. Additionally it displays main performance metrics (CPU usage, RAM usage, network usage and disk usage) for each server in a concise manner. Users can choose between three different views: Compact, Tiles, Grid. All views display the same data just in different format. The dashboards are continuously updated as the new data is collected.  
 
@@ -38,13 +38,13 @@ Sometimes the server will be shown in warning or critical state when none of the
 
 By clicking on farm name users can navigate to detailed farm overview dashboard and by clicking on specific server the users can navigate to server overview dashboard.
 
-## The Detailed Farm Overview Dashboard
+##  Detailed Farm Overview Dashboard
 
 The detailed farm overview dashboard shows more in-depth data about each server in the farm but is limited to just a single farm. Users can view last fifteen minutes of CPU usage, current RAM usage and status of each disk partition on specific server. This dashboard is also continuously updated as the new data is collected. By clicking on specific server users can navigate to Server Overview Dashboard.
 
-## The Server Overview Dashboard
+## Server Overview Dashboard
 
-The server overview dashboard shows all metrics that are collected for each server. The metrics are separated in different categories. The server role in the SharePoint farm determines which categories are assigned to each serve. The categories are assigned to a server following these rules:
+The server overview dashboard shows all metrics that are collected for each server. The metrics are separated in different categories. The server role in the SharePoint farm determines which categories are assigned to each server. The categories are assigned to a server following these rules:
 
 - __General__ and __Disk__ categories – these categories are assigned to all servers, and the metrics in those categories are collected for every server in farm. The General category shows CPU, RAM, network and disk usages while the Disk category shows detailed information about disks performance
 
