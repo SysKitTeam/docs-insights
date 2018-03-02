@@ -23,6 +23,7 @@ Activate your fully featured version.
 ## [Activation FAQ](activation-faq.md)
 
 # [Getting Started](getting-started)
+## [](index.md)
 
 # [Get to know Syskit Insights](get-to-know-insights)
 Dive into a detailed overview of what Insights has to offer. Check out the available features. 
@@ -35,7 +36,6 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 
 # [How To](how-to)
 Explore all possible configuration scenarios and choose the right one for your environment.
-
 ## [Customize Settings](customize-settings.md)
 ## [Manage Alerts](manage-alerts.md)
 ## [Search Query](search-query.md)
