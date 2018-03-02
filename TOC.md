@@ -14,7 +14,7 @@ Make sure that your environment and the account used for the application meet Sy
 
 # [Installation](installation)
 Learn how to install SysKit Insights or update it to the latest version. 
-## [Install Insights](install-insights.md)
+## [](index.md)
 
 # [Activation](activation)
 Activate your fully featured version.
