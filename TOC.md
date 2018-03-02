@@ -7,20 +7,23 @@ private: true
 Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade. 
 ##[SysKit Insights - 1.0.0](insights-release-note.md)
 
-# [Installation](installation)
-Learn how to install SysKit Insights or update it to the latest version. 
-## [Install Insights](install-insights.md)
-
 # [Requirements](requirements)
 Make sure that your environment and the account used for the application meet Syskit Insights requirements.
 ## [System Requirements](system-requirements.md)
 ## [User Permissions Requirements](user-permissions-requirements.md)
+
+# [Installation](installation)
+Learn how to install SysKit Insights or update it to the latest version. 
+## [Install Insights](install-insights.md)
 
 # [Activation](activation)
 Activate your fully featured version.
 ## [Activation - Online and Offline](online-offline-activation.md)
 ## [Activation Privacy Statement](activation-privacy-statement.md)
 ## [Activation FAQ](activation-faq.md)
+
+# [Getting Started](getting-started)
+## [Getting Started](getting-started.md)
 
 # [Get to know Syskit Insights](get-to-know-insights)
 Dive into a detailed overview of what Insights has to offer. Check out the available features. 
@@ -33,12 +36,12 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 
 # [How To](how-to)
 Explore all possible configuration scenarios and choose the right one for your environment.
-## [Getting started](getting-started.md)
+
 ## [Customize Settings](customize-settings.md)
 ## [Manage Alerts](manage-alerts.md)
 ## [Search Query](search-query.md)
 
 # [Known Issues](known-issues)
 Even the best of us fail sometimes. We are working on it. 
-## [Performance Counters graphs](performance-counters-laptop-sleeping.md)
+## [Performance Counters Graphs](performance-counters-laptop-sleeping.md)
 ## [Scanning the AD](scan-ad-server-number.md)
