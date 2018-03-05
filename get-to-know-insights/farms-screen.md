@@ -35,8 +35,9 @@ You can import farm and servers from SPDocKit database. SPDocKit is SharePoint A
 
 
 # Manage farms:
-Also, you can manage already added farms by clicking the __Manage button__
+Also, you can manage already added farms by clicking the __Manage button.__
 - You can configure server roles, edit ULS Path, modify detected farms' name or remove servers from a farm. 
 - To add a new server click __Add Server.__
-    - Enter the server name, select a role and click __Add server.__ When done click __Save__ and the server will be added to the farm.      
+    - Enter the server name, select a role and click __Add server.__ When done click __Save__ and the server will be added to the farm.  
+- Note that you can also add 3rd party servers, such as: Office Web Apps Server...         
 - When done, click __Save__ to confirm your changes. 
