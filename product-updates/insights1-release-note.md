@@ -5,9 +5,9 @@ author: Iva Novoselic
 date: 6/3/2018
 ---
 
-Performance monitoring is always hot topic when you are dealing with SharePoint. People may have different points of view of what exactly SharePoint performance monitoring is, but they will have one common thought: being proactive and knowing your environment’s state at any time of day is always the way to go.
+Performance monitoring is always hot topic when you are dealing with SharePoint. People may have different points of view of what exactly SharePoint performance monitoring is, but they will have one common thought: being proactive and knowing your environment's state at any time of day is always the way to go.
 
-SysKit Insights is a __SharePoint-dedicated farm performance and troubleshooting tool__, created to make your life easier. Let’s see what this version of the tool is bringing to the table.
+SysKit Insights is a __SharePoint-dedicated farm performance and troubleshooting tool__, created to make your life easier. Let's see what this version of the tool is bringing to the table.
 
 [Try SysKit Insights Free](https://www.syskit.com/products/insights/download/)
 
@@ -17,9 +17,9 @@ __Release date:__ Mar 7, 2018
 
 ## Farms Screen – Adding servers and farms with ease
 
-The tool offers three possibilities – adding a single farm, scanning the entire environment to collect all accessible farms, or importing SharePoint servers directly from SPDockit. Regardless of the method you choose, you won't need to install the tool on any other environment that you wish to monitor – SysKit Insights ￼gathers all the information remotely.
+The tool offers three possibilities – adding a single farm, scanning the entire environment to collect all accessible farms, or importing SharePoint servers directly from SPDocKit. Regardless of the method you choose, you won't need to install the tool on any other environment that you wish to monitor – SysKit Insights ￼gathers all the information remotely.
 *	__Add Farm__ – simply type in one SharePoint server from the farm you wish to monitor, and SysKit Insights will detect all other servers automatically.
-*	__Scan__ – run SysKit Insights wizard to crawl the entire environment and present all accessible farms you might want to monitor. If you don’t want to crawl the entire domain, choose a specific Organization Unit in which SysKit Insights will look for the farms. 
+*	__Scan__ – run SysKit Insights wizard to crawl the entire environment and present all accessible farms you might want to monitor. If you don't want to crawl the entire domain, choose a specific Organization Unit in which SysKit Insights will look for the farms. 
 *	__Import from SPDocKit__ – if you already have SPDocKit installed in your environment, you can connect it with SysKit Insights and all the servers you are monitoring with SPDocKit will be added and monitored automatically.
 
 Read more about [Farms screen](#internal/get-to-know-insights/farms-screen) possibilities and management options.
@@ -53,7 +53,7 @@ The Performance Dashboard gives you a centralized overview of your farms’ heal
 
 One glance at this dashboard and you will see which servers you should be dealing with as soon as possible. The state of a servers is calculated __based on the thresholds for each of the 30-plus SharePoint-dedicated performance counters__. Drill down by each server or farm to explore in more detail every performance counter and track which component is the reason for SharePoint performance downgrading. 
 
-SysKit Insights can save performance data up to 30 days, so you can __use historical data to track each server’s baseline during optimal performance__.
+SysKit Insights can save performance data up to 30 days, so you can __use historical data to track each server's baseline during optimal performance__.
 
 Create performance alerts to actively monitor all your servers and receive email notifications when something goes wrong. Acting in time will prevent your SharePoint from becoming slow or even going down. 
 
@@ -61,7 +61,7 @@ Read more about [Performance](#internal/get-to-know-insights/performance-screen)
 
 ![Performance](#img/performance.png)
 
-## Alerts and Notifications – See what has been going on while you weren’t looking
+## Alerts and Notifications – See what has been going on while you weren't looking
 To keep up with potential bottlenecks and problems detected in your environment, we created the Alerts tab. Here you can __track down all performance alerts, Event Viewer entries you marked as potentially interesting and problematic, and the results of SharePoint status inspections__.
 SharePoint status alerts can help you detect if your Central Administration and most important site collection on the farm are inaccessible, or if the SharePoint Timer service has stopped working.
 
