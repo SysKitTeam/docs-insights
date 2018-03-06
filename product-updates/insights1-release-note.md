@@ -24,7 +24,7 @@ The tool offers three possibilities – adding a single farm, scanning the entir
 
 Read more about [Farms screen](#internal/get-to-know-insights/farms-screen) possibilities and management options.
 
-![Farms Screen](#img/farms.png)
+![Farms Screen](#img/farms2.png)
 
 ## Home Dashboard – Global health overview of your environment
 Home dashboard gives you the global state of your farms and servers. 
