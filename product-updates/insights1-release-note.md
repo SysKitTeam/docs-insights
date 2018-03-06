@@ -24,7 +24,7 @@ The tool offers three possibilities – adding a single farm, scanning the entir
 
 Read more about [Farms screen](#internal/get-to-know-insights/farms-screen) possibilities and management options.
 
-![Farms Screen](#img/farms.png)
+![Farms Screen](#img/farms2.png)
 
 ## Home Dashboard – Global health overview of your environment
 Home dashboard gives you the global state of your farms and servers. 
@@ -46,7 +46,7 @@ If you wish to proactively track a certain issue or keyword, you can create an a
 
 Read more about [Event Viewer](#internal/get-to-know-insights/event-viewer) functionality.
 
-![Event Viewer](#img/event-viewer-screen.png)
+![Event Viewer](#img/event-viewer-screen2.png)
 
 ## Performance Dashboards – One screen to rule all performance counters
 The Performance Dashboard gives you a centralized overview of your farms’ health. Servers that are healthy will be colored green, servers in the warning phase will be yellow, and the most problematic ones will be red. 
@@ -59,7 +59,7 @@ Create performance alerts to actively monitor all your servers and receive email
 
 Read more about [Performance](#internal/get-to-know-insights/performance-screen) functionality.
 
-![Performance](#img/performance.png)
+![Performance](#img/performance2.png)
 
 ## Alerts and Notifications – See what has been going on while you weren’t looking
 To keep up with potential bottlenecks and problems detected in your environment, we created the Alerts tab. Here you can __track down all performance alerts, Event Viewer entries you marked as potentially interesting and problematic, and the results of SharePoint status inspections__.
@@ -69,7 +69,7 @@ Use the __Manage Alerts__ button to add new alerts, change thresholds for critic
 
 Read more about [Alerts](#internal/get-to-know-insights/insights-alerts).
 
-![Alerts](#img/alerts.png)
+![Alerts](#img/alerts2.png)
 
 
 ## Settings – Modify SysKit Insights configuration to completely match your needs
