@@ -9,11 +9,11 @@ Performance monitoring is always hot topic when you are dealing with SharePoint.
 
 SysKit Insights is a __SharePoint-dedicated farm performance and troubleshooting tool__, created to make your life easier. Let’s see what this version of the tool is bringing to the table.
 
+[Try SysKit Insights Free](https://www.syskit.com/products/insights/download/)
+
 __Product version:__ 1.0.0  
 __Build number:__     
 __Release date:__ Mar 7, 2018  
-
-[Try SysKit Insights Free](https://www.syskit.com/products/insights/download/)
 
 ## Farms Screen – Adding servers and farms with ease
 
@@ -59,7 +59,7 @@ Create performance alerts to actively monitor all your servers and receive email
 
 Read more about [Performance](#internal/get-to-know-insights/performance-screen) functionality.
 
-![Performance](#img/performance.png =1024*768)
+![Performance](#img/performance.png)
 
 ## Alerts and Notifications – See what has been going on while you weren’t looking
 To keep up with potential bottlenecks and problems detected in your environment, we created the Alerts tab. Here you can __track down all performance alerts, Event Viewer entries you marked as potentially interesting and problematic, and the results of SharePoint status inspections__.
@@ -68,6 +68,7 @@ SharePoint status alerts can help you detect if your Central Administration and 
 Use the __Manage Alerts__ button to add new alerts, change thresholds for critical and warning states, or modify current alert settings.
 
 Read more about [Alerts](#internal/get-to-know-insights/insights-alerts).
+
 ![Alerts](#img/alerts.png)
 
 
@@ -76,7 +77,9 @@ For complete control of SysKit Insights, check out the Settings section. Here yo
 
 Read more about available configurable [Settings](#internal/how-to/customize-settings).
 
+
+## Tell us what you think!
+
+Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact us](https://www.syskit.com/company/contact-us/) and send us your feedback and suggestions.
+
 [Try SysKit Insights Free](https://www.syskit.com/products/insights/download/)
-
-Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact us](https://www.syskit.com/company/contact-us/) and tell us what you think! 
-
