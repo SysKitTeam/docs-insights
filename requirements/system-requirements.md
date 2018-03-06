@@ -23,7 +23,7 @@ date: 17/01/2018
 
 ## Database System
 
-In order to run the SysKit Insights, you need a database. The SysKit Insights supports __SQL Server databases only__. SQL 2008 or better is supported  
+In order to run the SysKit Insights, you need a database. The SysKit Insights supports __SQL Server databases only__. SQL 2008 or better is supported.  
 
 
 User must have [proper privileges](#internal/requirements/user-permissions-requirements) to successfully run the application.
