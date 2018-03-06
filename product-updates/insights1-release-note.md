@@ -46,7 +46,7 @@ If you wish to proactively track a certain issue or keyword, you can create an a
 
 Read more about [Event Viewer](#internal/get-to-know-insights/event-viewer) functionality.
 
-![Event Viewer](#img/event-viwer-screen.png)
+![Event Viewer](#img/event-viewer-screen.png)
 
 ## Performance Dashboards – One screen to rule all performance counters
 The Performance Dashboard gives you a centralized overview of your farms’ health. Servers that are healthy will be colored green, servers in the warning phase will be yellow, and the most problematic ones will be red. 
@@ -59,7 +59,7 @@ Create performance alerts to actively monitor all your servers and receive email
 
 Read more about [Performance](#internal/get-to-know-insights/performance-screen) functionality.
 
-![Performance](#img/performance.png)
+![Performance](#img/performance.png =1024*768)
 
 ## Alerts and Notifications – See what has been going on while you weren’t looking
 To keep up with potential bottlenecks and problems detected in your environment, we created the Alerts tab. Here you can __track down all performance alerts, Event Viewer entries you marked as potentially interesting and problematic, and the results of SharePoint status inspections__.
