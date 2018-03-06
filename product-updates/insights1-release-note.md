@@ -35,7 +35,7 @@ The other part of the Home screen will show you how many __Event Viewer__ entrie
 
 Read more about [Home Dashboard](#internal/get-to-know-insights/insights-home).
 
-![Home Dashboard](#img/home.png)
+![Home Dashboard](#img/home2.png)
 
 ## Event Viewer – The ultimate ally for searching through ULS, Windows event, and SQL logs
 SysKit Insights collects all available __ULS, Windows event, and SQL logs from all added servers__. These entries are presented in one central console which allows you to __search by server, correlation ID, any other keyword, or even the level of events__. You can also change the period for which you want to search the logs through.
