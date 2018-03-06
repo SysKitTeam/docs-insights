@@ -1,5 +1,5 @@
 ---
-title: SysKit Insights sees the light of day!
+title: SysKit Insights Sees the Light of Day!
 description: This article describes what is this new SharePoint performance monitoring and troubleshooting tool bringing in the first release.
 author: Iva Novoselic
 date: 6/3/2018
