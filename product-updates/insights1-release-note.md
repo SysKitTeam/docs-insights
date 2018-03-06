@@ -12,7 +12,7 @@ SysKit Insights is a __SharePoint-dedicated farm performance and troubleshooting
 [Try SysKit Insights Free](https://www.syskit.com/products/insights/download/)
 
 __Product version:__ 1.0.0  
-__Build number:__     
+__Build number:__  342 
 __Release date:__ Mar 7, 2018  
 
 ## Farms Screen – Adding servers and farms with ease
@@ -24,7 +24,7 @@ The tool offers three possibilities – adding a single farm, scanning the entir
 
 Read more about [Farms screen](#internal/get-to-know-insights/farms-screen) possibilities and management options.
 
-![Farms Screen](#img/farms2.png)
+![Farms Screen](#img/farms.png)
 
 ## Home Dashboard – Global health overview of your environment
 Home dashboard gives you the global state of your farms and servers. 
@@ -35,7 +35,7 @@ The other part of the Home screen will show you how many __Event Viewer__ entrie
 
 Read more about [Home Dashboard](#internal/get-to-know-insights/insights-home).
 
-![Home Dashboard](#img/home2.png)
+![Home Dashboard](#img/home.png)
 
 ## Event Viewer – The ultimate ally for searching through ULS, Windows event, and SQL logs
 SysKit Insights collects all available __ULS, Windows event, and SQL logs from all added servers__. These entries are presented in one central console which allows you to __search by server, correlation ID, any other keyword, or even the level of events__. You can also change the period for which you want to search the logs through.
@@ -46,7 +46,7 @@ If you wish to proactively track a certain issue or keyword, you can create an a
 
 Read more about [Event Viewer](#internal/get-to-know-insights/event-viewer) functionality.
 
-![Event Viewer](#img/event-viewer-screen2.png)
+![Event Viewer](#img/event-viewer-screen.png)
 
 ## Performance Dashboards – One screen to rule all performance counters
 The Performance Dashboard gives you a centralized overview of your farms’ health. Servers that are healthy will be colored green, servers in the warning phase will be yellow, and the most problematic ones will be red. 
@@ -59,7 +59,7 @@ Create performance alerts to actively monitor all your servers and receive email
 
 Read more about [Performance](#internal/get-to-know-insights/performance-screen) functionality.
 
-![Performance](#img/performance2.png)
+![Performance](#img/performance.png)
 
 ## Alerts and Notifications – See what has been going on while you weren’t looking
 To keep up with potential bottlenecks and problems detected in your environment, we created the Alerts tab. Here you can __track down all performance alerts, Event Viewer entries you marked as potentially interesting and problematic, and the results of SharePoint status inspections__.
@@ -69,7 +69,7 @@ Use the __Manage Alerts__ button to add new alerts, change thresholds for critic
 
 Read more about [Alerts](#internal/get-to-know-insights/insights-alerts).
 
-![Alerts](#img/alerts2.png)
+![Alerts](#img/alerts.png)
 
 
 ## Settings – Modify SysKit Insights configuration to completely match your needs
