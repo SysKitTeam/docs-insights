@@ -47,7 +47,7 @@ You can refine your query by:
 When satisfied with the constructed query, press the search button again.
 
 You have created a very useful query and would like to be notified when an event that satisfied this query appears? No problem, just create an alert by clicking the alert button on the search results page. Click [here](#internal/how-to/manage-alerts) for more details.  
-Also, we provided more detailed information on writing the search query. See [this article](#internal/how-to/search-query)
+Also, we provided more detailed information on writing the search query. See [this article.](#internal/how-to/search-query)
 
 
 ![Event Viewer](#img/event-viewer.png)

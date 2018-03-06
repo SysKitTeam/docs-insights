@@ -18,7 +18,7 @@ Here you can __manage the thresholds__ and the notification settings of every pe
 ## Events
 
 Opening the Events tab of Manage Alerts form will show you a list of all current Alerts as well as the time the alert was last sent on. 
-To create a new alert click __New Alert__
+To create a new alert click __New Alert:__
 1. Enter the alert name.
 1. Enter your search query choose if you wish to query only the ULS logs, Event or SQL logs. Naturally you can also search for every given type of log.
 1. Filter by the farm and choose how often you wish to be notified.  
