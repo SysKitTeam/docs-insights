@@ -22,6 +22,8 @@ The tool offers three possibilities – adding a single farm, scanning the entir
 *	__Scan__ – run SysKit Insights wizard to crawl the entire environment and present all accessible farms you might want to monitor. If you don’t want to crawl the entire domain, choose a specific Organization Unit in which SysKit Insights will look for the farms. 
 *	__Import from SPDocKit__ – if you already have SPDocKit installed in your environment, you can connect it with SysKit Insights and all the servers you are monitoring with SPDocKit will be added and monitored automatically.
 
+![Farms Screen](#img/farms.png)
+
 Read more about [Farms screen](#internal/get-to-know-insights/farms-screen) possibilities and management options.
 
 ## Home Dashboard – Global health overview of your environment
@@ -33,6 +35,8 @@ The other part of the Home screen will show you how many __Event Viewer__ entrie
 
 Read more about [Home Dashboard](#internal/get-to-know-insights/insights-home).
 
+![Home Dashboard](#img/home.png)
+
 ## Event Viewer – The ultimate ally for searching through ULS, Windows event, and SQL logs
 SysKit Insights collects all available __ULS, Windows event, and SQL logs from all added servers__. These entries are presented in one central console which allows you to __search by server, correlation ID, any other keyword, or even the level of events__. You can also change the period for which you want to search the logs through.
 
@@ -41,6 +45,8 @@ With SysKit Insights, you no longer have to manually search for important ULS or
 If you wish to proactively track a certain issue or keyword, you can create an alert to receive notifications at a specified email address or just monitor them from the SysKit Insights Alerts tab.
 
 Read more about [Event Viewer](#internal/get-to-know-insights/event-viewer) functionality.
+
+![Event Viewer](#img/event-viwer-screen.png)
 
 ## Performance Dashboards – One screen to rule all performance counters
 The Performance Dashboard gives you a centralized overview of your farms’ health. Servers that are healthy will be colored green, servers in the warning phase will be yellow, and the most problematic ones will be red. 
@@ -53,6 +59,8 @@ Create performance alerts to actively monitor all your servers and receive email
 
 Read more about [Performance](#internal/get-to-know-insights/performance-screen) functionality.
 
+![Performance](#img/performance.png)
+
 ## Alerts and Notifications – See what has been going on while you weren’t looking
 To keep up with potential bottlenecks and problems detected in your environment, we created the Alerts tab. Here you can __track down all performance alerts, Event Viewer entries you marked as potentially interesting and problematic, and the results of SharePoint status inspections__.
 SharePoint status alerts can help you detect if your Central Administration and most important site collection on the farm are inaccessible, or if the SharePoint Timer service has stopped working.
@@ -60,6 +68,8 @@ SharePoint status alerts can help you detect if your Central Administration and 
 Use the __Manage Alerts__ button to add new alerts, change thresholds for critical and warning states, or modify current alert settings.
 
 Read more about [Alerts](#internal/get-to-know-insights/insights-alerts).
+![Alerts](#img/alerts.png)
+
 
 ## Settings – Modify SysKit Insights configuration to completely match your needs
 For complete control of SysKit Insights, check out the Settings section. Here you can __configure the email settings needed to send email notifications, modify which logs will be collected, and other data collection options__.
