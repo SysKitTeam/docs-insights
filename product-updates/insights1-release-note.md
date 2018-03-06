@@ -22,9 +22,9 @@ The tool offers three possibilities – adding a single farm, scanning the entir
 *	__Scan__ – run SysKit Insights wizard to crawl the entire environment and present all accessible farms you might want to monitor. If you don’t want to crawl the entire domain, choose a specific Organization Unit in which SysKit Insights will look for the farms. 
 *	__Import from SPDocKit__ – if you already have SPDocKit installed in your environment, you can connect it with SysKit Insights and all the servers you are monitoring with SPDocKit will be added and monitored automatically.
 
-![Farms Screen](#img/farms.png)
-
 Read more about [Farms screen](#internal/get-to-know-insights/farms-screen) possibilities and management options.
+
+![Farms Screen](#img/farms.png)
 
 ## Home Dashboard – Global health overview of your environment
 Home dashboard gives you the global state of your farms and servers. 
