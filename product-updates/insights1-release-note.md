@@ -12,7 +12,7 @@ SysKit Insights is a __SharePoint-dedicated farm performance and troubleshooting
 [Try SysKit Insights Free](https://www.syskit.com/products/insights/download/)
 
 __Product version:__ 1.0.0  
-__Build number:__  342 
+__Build number:__  342   
 __Release date:__ Mar 7, 2018  
 
 ## Farms Screen – Adding servers and farms with ease
