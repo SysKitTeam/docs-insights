@@ -27,6 +27,8 @@ To add a farm you simply need to enter a name of the SharePoint server which is 
 
 ### Import from SPDocKit
 You can import farm and servers from SPDocKit database. SPDocKit is SharePoint Admin tool for farm documentation and permission management. [See here](https://www.spdockit.com/) for more information.
+ We support SPDocKit database from version 7 and onwards. And, the __service account__ you are using needs to have read permissions on the SPDocKit database.  
+ __Please note__ that the service account we are talking about now, is SysKit Insights service account, and not the account you are using with SPDocKit. 
 1. Enter the Database Server and Name. Choose Authentication type and click Test Connection. Click Next to continue.
 1. On __Detected Farms__ screen you will see the detected farm. You can configure server roles, edit ULS Path, modify detected farms' name or remove servers from a farm. 
     - If you wish to add an extra server to the farm click __Add Server.__
