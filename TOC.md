@@ -14,7 +14,8 @@ Make sure that your environment and the account used for the application meet Sy
 
 # [Installation](installation)
 Learn how to install SysKit Insights or update it to the latest version. 
-## [](index.md)
+## [Installation Guide](installation-guide.md)
+## [Uninstallation Guide](uninstallation-guide.md)
 
 # [Activation](activation)
 Activate your fully featured version.
@@ -25,6 +26,7 @@ Activate your fully featured version.
 # [Getting Started](getting-started)
 This article will show some of the common use cases and usual steps when using the application for the first time.
 ## [](index.md)
+
 
 # [Get to know Syskit Insights](get-to-know-insights)
 Dive into a detailed overview of what Insights has to offer. Check out the available features. 
@@ -45,3 +47,6 @@ Explore all possible configuration scenarios and choose the right one for your e
 Even the best of us fail sometimes. We are working on it. 
 ## [Performance Counters Graphs](performance-counters-laptop-sleeping.md)
 ## [Scanning the AD](scan-ad-server-number.md)
+
+# [FAQ](faq)
+## [](index.md)
