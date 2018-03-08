@@ -49,4 +49,5 @@ Even the best of us fail sometimes. We are working on it.
 ## [Scanning the AD](scan-ad-server-number.md)
 
 # [FAQ](faq)
+These are some of the most common questions and answers about SysKit Insights. If you cannot find the answer to your problem, please contact us.
 ## [](index.md)
