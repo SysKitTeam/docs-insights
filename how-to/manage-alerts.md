@@ -36,7 +36,7 @@ If you want to edit an already existing alert navigate to aforementioned list of
 
 ### Check the status of the following SharePoint site
 * Check this if you wish SysKit Insights to periodically check if the given site is online. SysKit Insights will try to access the site using the Service Account credentials.  
-* If you wish to monitor more than one additional SharePoint site, or any additional SharePoint service - please [Contact us.](https://www.syskit.com/company/contact-us/)  
+* If you wish to monitor more than one additional SharePoint site, or any additional Windows service - please [Contact us.](https://www.syskit.com/company/contact-us/)  
 By default this is not possible in SysKit Insights v1, but we can show you a trick ;).   
 
 #### Email notifications
