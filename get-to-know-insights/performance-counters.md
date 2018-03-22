@@ -156,109 +156,109 @@ Processor Queue Length is the number of threads in the processor queue. Unlike t
 Warning when the value is above 2.
 Critical when the value is above 5.
 
-# Disk
+## Disk
 Disk template helps you keep an eye on your disks across the SharePoint farm. Diagnose possible bottlenecks and performance issues with ease.
 
-## Avg. Disk Queue Length
+### Avg. Disk Queue Length
 Avg. Disk Queue Length is the average number of both read and write requests that were queued for the selected disk during the sample interval.
 
 Warning when the value is above 2.
 Critical when the value is above 4.
 
-## Disk Transfers/sec
+### Disk Transfers/sec
 Disk Transfers/sec is the rate of read and write operations on the disk.
 
 Warning when the value is above 200 transfers/sec.
 Critical when the value is above 400 transfers/sec.
 
-## Free GB
+### Free GB
 Free GB displays the unallocated space on the disk drive in GB.
 
 Warning when the value is below 5 GB.
 Critical when the value is below 3 GB.
 
-## Pages/sec
+### Pages/sec
 Pages/sec is the rate at which pages are read from or written to disk to resolve hard page faults. This counter is a primary indicator of the kinds of faults that cause system-wide delays. It is the sum of Memory\\Pages Input/sec and Memory\\Pages Output/sec. It is counted in numbers of pages, so it can be compared to other counts of pages, such as Memory\\Page Faults/sec, without conversion. It includes pages retrieved to satisfy faults in the file system cache (usually requested by applications) non-cached mapped memory files.
 
 Warning when the value is above 20.
 Critical when the value is above 50.
 
-## Disk Reads/sec
+### Disk Reads/sec
 Disk Reads/sec is the rate of read operations on the disk.
 
-## Avg. Disk Read Queue Length
+### Avg. Disk Read Queue Length
 Avg. Disk Read Queue Length is the average number of read requests that were queued for the selected disk during the sample interval.
 
-## Avg. Disk Write Queue Length
+### Avg. Disk Write Queue Length
 Avg. Disk Write Queue Length is the average number of write requests that were queued for the selected disk during the sample interval.
 
-## % Idle Time
+### % Idle Time
 % Idle Time reports the percentage of time during the sample interval that the disk was idle.
 
 Warning when the value is below 20.
 Critical when the value is below 10.
 
-## % Free Space
+### % Free Space
 % Free Space is the percentage of total usable space on the selected logical disk drive that was free.
 
 Warning when the value is below 30.
 Critical when the value is below 20.
 
-## Cache Faults/sec
+### Cache Faults/sec
 Cache Faults/sec is the rate at which faults occur when a page sought in the file system cache is not found and must be retrieved from elsewhere in memory (a soft fault) or from disk (a hard fault). The file system cache is an area of physical memory that stores recently used pages of data for applications. Cache activity is a reliable indicator of most application I/O operations. This counter shows the number of faults, without regard for the number of pages faulted in each operation.
 
 Critical when the value is above 1.
 
-## % Usage
+### % Usage
 The amount of the Page File instance in use in percent. See also Process\\Page File Bytes.
 
 Warning when the value is below 50.
 Critical when the value is below 75.
 
-## % Usage Peak
+### % Usage Peak
 The peak usage of the Page File instance in percent. See also Process\\Page File Bytes Peak.
 
-## Total Bytes/sec
+### Total Bytes/sec
 Total Bytes/sec is the rate the Server is reading and writing data to and from the files for the clients on this CPU. This value is a measure of how busy the Server is.
 
-## Page Reads/sec
+### Page Reads/sec
 Page Reads/sec is the rate at which the disk was read to resolve hard page faults. It shows the number of reads operations, without regard to the number of pages retrieved in each operation. Hard page faults occur when a process references a page in virtual memory that is not in working set or elsewhere in physical memory, and must be retrieved from disk. This counter is a primary indicator of the kinds of faults that cause system-wide delays. It includes read operations to satisfy faults in the file system cache (usually requested by applications) and in non-cached mapped memory files. Compare the value of Memory\\Pages Reads/sec to the value of Memory\\Pages Input/sec to determine the average number of pages read during each operation.
 
-# .NET
+## .NET
 .NET template helps you track .NET counters on servers in SharePoint farm. Diagnose various problems and performance issues with ease.
 
-## Gen 0 Collections
+### Gen 0 Collections
 This counter displays the number of times the generation 0 objects (youngest most recently allocated) are garbage collected (Gen 0 GC) since the start of the application. Gen 0 GC occurs when the available memory in generation 0 is not sufficient to satisfy an allocation request. This counter is incremented at the end of a Gen 0 GC. Higher generation GCs include all lower generation GCs. This counter is explicitly incremented when a higher generation (Gen 1 or Gen 2) GC occurs. _Global_ counter value is not accurate and should be ignored. This counter displays the last observed value.
 
-## Gen 1 Collections
+### Gen 1 Collections
 This counter displays the number of times the generation 1 objects are garbage collected since the start of the application. The counter is incremented at the end of a Gen 1 GC. Higher generation GCs include all lower generation GCs. This counter is explicitly incremented when a higher generation (Gen 2) GC occurs. _Global_ counter value is not accurate and should be ignored. This counter displays the last observed value.
 
-## Gen 2 Collections
+### Gen 2 Collections
 This counter displays the number of times the generation 2 objects (older) are garbage collected since the start of the application. The counter is incremented at the end of a Gen 2 GC (also called full GC). _Global_ counter value is not accurate and should be ignored. This counter displays the last observed value.
 
 % Time in GC
 % Time in GC is the percentage of elapsed time that was spent in performing a garbage collection (GC) since the last GC cycle. This counter is usually an indicator of the work done by the Garbage Collector on behalf of the application to collect and compact memory. This counter is updated only at the end of every GC and the counter value reflects the last observed value its not an average.
 
-# Search
+## Search
 Search templates helps you track a number of 'search' relevant counters on servers in SharePoint farm. Diagnose various problems and performance issues with ease.
 
-## Retries
+### Retries
 The total number of times a document access has been retried. Having this number high may indicate a problem with accessing the data.
 
-## Crawls in progress
+### Crawls in progress
 Number of crawls in progress.
 
-## Transactions Completed
+### Transactions Completed
 Shows the current number of completed documents in the transactions queue.
 
-## Transactions Waiting
+### Transactions Waiting
 The number of documents waiting to be processed. When this number goes to zero the catalogue is idle. This number indicates the total queue size of unprocessed documents in the gatherer.
 
-## Transactions In Progress
+### Transactions In Progress
 The number of documents in progress.
 
-## Documents Processed Rate
+### Documents Processed Rate
 The number of documents processed per second.
 
-## Documents Success Rate
+### Documents Success Rate
 The number of successfully filtered documents per second.
