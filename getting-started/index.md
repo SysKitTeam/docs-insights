@@ -10,7 +10,7 @@ In this article we will take you through some of the common use cases and usual 
 
 After successfully [activating](#internal/activation/online-offline-activation) the application, or starting the trial, you will be welcomed by the Farms screen. 
 
-First thing you need to do is [add farm/s.](#internal/get-to-know-insights/farms-screen) Until you do so, some parts of the application will be disabled. After that on the same Farms tab, you can see on overview of farms and servers you added. 
+First thing you need to do is [add farm/s.](#internal/get-to-know-insights/farms-screen) Until you do so, some parts of the application will be disabled. Afterwards, on the same Farms tab, you can see on overview of farms and servers you added. 
 
 __Settings__
 
