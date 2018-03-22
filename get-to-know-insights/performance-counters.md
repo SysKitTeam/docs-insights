@@ -15,76 +15,76 @@ See [this article](https://technet.microsoft.com/en-us/library/bb734903.aspx?f=2
 
 Below are the counters that SysKit tracks with their corresponding (default) critical and warning thresholds.
 
-# General
+## General
 Default template contains counters that are collected for all servers.
 
-## % Processor Time
+### % Processor Time
 % Processor Time is the percentage of elapsed time that all of process threads used the processor to execution instructions. An instruction is the basic unit of execution in a computer, a thread is the object that executes instructions, and a process is the object created when a program is run. Code executed to handle some hardware interrupts and trap conditions are included in this count.
 
 Warning when the value is above 85%.
 Critical when the value is above 95%.
 
-## RAM (GB)
+### RAM (GB)
 Displays the amount of used memory, in GB, on a computer.
 
 Warning when there is less than 0.5 GB available.
 Critical when there is less than 0.25 GB available.
 
-## Network Usage (Kbps)
+### Network Usage (Kbps)
 Number of kilobits received and sent per second on the network adapter.
 
 Warning when the value is above 5000 Kbps.
 Critical when the value is above 10000 Kbps.
 
-## Disk I/O (bytes/sec)
+### Disk I/O (bytes/sec)
 Number of bytes read from and written to the disk per second.
 
 Warning when the value is above 100 bytes/sec.
 Critical when the value is above 200 bytes/sec.
 
-# IIS/ASP.NET
+## IIS/ASP.NET
 IIS/ASP.NET template helps you keep an eye on your IIS servers in SharePoint farm. Diagnose various problems and performance issues with ease.
 
-## Current Connections
+### Current Connections
 Current Connections is the current number of connections established with the Web service.
 
-## Bytes Total/sec
+### Bytes Total/sec
 Bytes Total/sec is the sum of Bytes Sent/sec and Bytes Received/sec. This is the total rate of bytes transferred by the Web service.
 
-## Get Requests/sec
+### Get Requests/sec
 The rate HTTP requests using the GET method are made. Get requests are the most common HTTP request.
 
-## Post Requests/sec
+### Post Requests/sec
 The rate HTTP requests using the POST method are made.
 
-## Total Application Pool Recycles
+### Total Application Pool Recycles
 The number of times that the application pool has been recycled since Windows Process Activation Service (WAS) started.
 
-## Requests Queued
+### Requests Queued
 The number of requests waiting to be processed.
 
 Warning when the value is above 400.
 Critical when the value is above 1000.
 
-## Requests Rejected
+### Requests Rejected
 The number of requests rejected because the request queue was full.
 
 Warning when the value is above 2.
 Critical when the value is above 5.
 
-## Worker Process Restarts
+### Worker Process Restarts
 Number of times a worker process has restarted on the machine.
 
 Warning when the value is above 1.
 Critical when the value is above 5.
 
-## Request Wait Time
+### Request Wait Time
 The number of milliseconds the most recent request was waiting in the queue.
 
 Warning when the value is above 800.
 Critical when the value is above 1200.
 
-# SQL
+## SQL
 SQL template enables you to efficiently monitor your SQL servers. With specified counters you can quickly find possible bottlenecks and performance issues.
 
 ## User Connections
