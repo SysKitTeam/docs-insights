@@ -15,7 +15,7 @@ See [this article](https://technet.microsoft.com/en-us/library/bb734903.aspx?f=2
 
 Below are the counters that SysKit tracks with their corresponding (default) critical and warning thresholds.
 
-## General
+## __General__
 Default template contains counters that are collected for all servers.
 
 ### % Processor Time
@@ -42,7 +42,7 @@ Number of bytes read from and written to the disk per second.
 Warning when the value is above 100 bytes/sec.
 Critical when the value is above 200 bytes/sec.
 
-## IIS/ASP.NET
+## __IIS/ASP.NET__
 IIS/ASP.NET template helps you keep an eye on your IIS servers in SharePoint farm. Diagnose various problems and performance issues with ease.
 
 ### Current Connections
@@ -84,7 +84,7 @@ The number of milliseconds the most recent request was waiting in the queue.
 Warning when the value is above 800.
 Critical when the value is above 1200.
 
-## SQL
+## __SQL__
 SQL template enables you to efficiently monitor your SQL servers. With specified counters you can quickly find possible bottlenecks and performance issues.
 
 ### User Connections
@@ -156,7 +156,7 @@ Processor Queue Length is the number of threads in the processor queue. Unlike t
 Warning when the value is above 2.
 Critical when the value is above 5.
 
-## Disk
+## __Disk__
 Disk template helps you keep an eye on your disks across the SharePoint farm. Diagnose possible bottlenecks and performance issues with ease.
 
 ### Avg. Disk Queue Length
@@ -224,7 +224,7 @@ Total Bytes/sec is the rate the Server is reading and writing data to and from t
 ### Page Reads/sec
 Page Reads/sec is the rate at which the disk was read to resolve hard page faults. It shows the number of reads operations, without regard to the number of pages retrieved in each operation. Hard page faults occur when a process references a page in virtual memory that is not in working set or elsewhere in physical memory, and must be retrieved from disk. This counter is a primary indicator of the kinds of faults that cause system-wide delays. It includes read operations to satisfy faults in the file system cache (usually requested by applications) and in non-cached mapped memory files. Compare the value of Memory\\Pages Reads/sec to the value of Memory\\Pages Input/sec to determine the average number of pages read during each operation.
 
-## .NET
+## __.NET__
 .NET template helps you track .NET counters on servers in SharePoint farm. Diagnose various problems and performance issues with ease.
 
 ### Gen 0 Collections
@@ -239,7 +239,7 @@ This counter displays the number of times the generation 2 objects (older) are g
 % Time in GC
 % Time in GC is the percentage of elapsed time that was spent in performing a garbage collection (GC) since the last GC cycle. This counter is usually an indicator of the work done by the Garbage Collector on behalf of the application to collect and compact memory. This counter is updated only at the end of every GC and the counter value reflects the last observed value its not an average.
 
-## Search
+## __Search__
 Search templates helps you track a number of 'search' relevant counters on servers in SharePoint farm. Diagnose various problems and performance issues with ease.
 
 ### Retries
