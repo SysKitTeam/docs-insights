@@ -87,70 +87,70 @@ Critical when the value is above 1200.
 ## SQL
 SQL template enables you to efficiently monitor your SQL servers. With specified counters you can quickly find possible bottlenecks and performance issues.
 
-## User Connections
+### User Connections
 Number of users connected to the system.
 
-## Buffer Cache Hit Ratio (%)
+### Buffer Cache Hit Ratio (%)
 Percentage of pages that were found in the buffer pool without having to incur a read from disk.
 
 Warning when the value is below 90.
 Critical when the value is below 80.
 
-## Lazy Writes/sec
+### Lazy Writes/sec
 Number of buffers written by buffer manager's lazy writer.
 
 Warning when the value is above 15.
 Critical when the value is above 20.
 
-## Page Life Expectancy (s)
+### Page Life Expectancy (s)
 Number of seconds a page will stay in the buffer pool without references.
 
 Warning when the value is below 400.
 Critical when the value is below 250.
 
-## Batch Requests/sec
+### Batch Requests/sec
 Number of SQL batch requests received by server.
 
 Warning when the value is above 1000.
 Critical when the value is above 1500.
 
-## SQL Compilations/sec
+### SQL Compilations/sec
 Number of SQL compilations.
 
 Warning when the value is above 100.
 Critical when the value is above 150.
 
-## SQL Re-Compilations/sec
+### SQL Re-Compilations/sec
 Number of SQL re-compiles.
 
 Warning when the value is above 1.
 Critical when the value is above 2.
 
-## Page Splits/sec
+### Page Splits/sec
 Number of page splits per second that occur as a result of overflowing index pages.
 
 Warning when the value is above 200.
 Critical when the value is above 300.
 
-## Full Scans/sec
+### Full Scans/sec
 Number of unrestricted full scans. These can either be base table or full index scans.
 
-## Latch Waits/sec
+### Latch Waits/sec
 Number of latch requests that could not be granted immediately and had to wait before being granted.
 
-## Total Latch Wait Time (ms)
+### Total Latch Wait Time (ms)
 Total latch wait time (milliseconds) for latch requests that had to wait in the last second.
 
-## Lock Waits/sec
+### Lock Waits/sec
 Number of lock requests that could not be satisfied immediately and required the caller to wait before being granted the lock.
 
 Warning when the value is above 1.
 Critical when the value is above 2.
 
-## Transactions/sec
+### Transactions/sec
 Number of transactions started for the database.
 
-## Processor Queue Length
+### Processor Queue Length
 Processor Queue Length is the number of threads in the processor queue. Unlike the disk counters, this counter shows ready threads only, not threads that are running. There is a single queue for processor time even on computers with multiple processors. Therefore, if a computer has multiple processors, you need to divide this value by the number of processors servicing the workload. A sustained processor queue of greater than two threads generally indicates processor congestion.
 
 Warning when the value is above 2.
