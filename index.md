@@ -1,6 +1,6 @@
 ---
 layout: landing.pug
-title: Welcome to Syskit Insights Documentation 
+title: Welcome to SysKit Insights Documentation 
 ---
 
 # SysKit Insights
