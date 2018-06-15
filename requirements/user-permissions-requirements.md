@@ -10,6 +10,7 @@ To run SysKit Insights and to retrieve all the data (event logs and performance 
 * __Local administrator__ on all the machines you want to monitor. Both SharePoint and SQL server.
 * Minimum of __db_datareader__ on a SharePoint's Config database.
 * On a SQL server - __public__ server role.
+* The account running the SysKit Insights Configuration Wizard must have __dbcreator__ role on the SQL Server where the SysKit Insights database will be created.
 
 SysKit Insights relies on Active Directory to reach the names/addresses of the computer. So, the Service Account needs to have permission to __read from AD.__  
 After that it uses WMI to collect all the data. Classic WMI TCP/UDP ports are used.
