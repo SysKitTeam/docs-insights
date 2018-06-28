@@ -47,6 +47,7 @@ Explore all possible configuration scenarios and choose the right one for your e
 Even the best of us fail sometimes. We are working on it. 
 ## [Performance Counters Graphs](performance-counters-laptop-sleeping.md)
 ## [Scanning the AD](scan-ad-server-number.md)
+## [SQL log collection from a cluster](servers-in-cluster.md)
 
 # [FAQ](faq)
 These are some of the most common questions and answers about SysKit Insights. If you cannot find the answer to your problem, please contact us.
