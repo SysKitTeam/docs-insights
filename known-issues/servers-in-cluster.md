@@ -6,11 +6,11 @@ date: 28/06/2018
 ---
 
 __Summary:__  
-The problem appears when trying to collect SQL logs from servers that are a member of a Failover Cluster or AlwaysOn Availability Group. In this case, out of the box collection of SQL logs is currently not supported.  
+The problem appears when trying to collect SQL logs from servers that are a member of a Failover Cluster or Always On Availability Group. In this case, out of the box collection of SQL logs is currently not supported.  
 But, there is a workaround. 
 
 __Solution:__  
-The problem is that, by default, the application does not see individual servers (nodes) in a cluster.  
+The problem is that application cannot currently automatically detect all servers (nodes) that are part of that Cluster.  
 So, you need to do the following: 
 1. Navigate to the __Farms tab__, find the problematic Farm and click __Manage__.
 1. Click the button __Add Server__ and enter the servers Name and Role (Database).
