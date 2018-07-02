@@ -15,7 +15,7 @@ So, you need to do the following:
 1. Navigate to the __Farms tab__, find the problematic Farm and click __Manage__.
 1. Click the button __Add Server__ and enter the servers Name and Role (Database).
 
-   ![Adding more servers](#img/addingServersToFarm.png)
+    <img src="_assets/addingServersToFarm.png" width="630" height="340">
 
 1. When done adding the nodes click Save, and Save again on the Farms screen.
 
