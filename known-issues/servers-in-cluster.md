@@ -15,12 +15,12 @@ So, you need to do the following:
 1. Navigate to the __Farms tab__, find the problematic Farm and click __Manage__.
 1. Click the button __Add Server__ and enter the servers Name and Role (Database).
 
-    <img src="_assets/addingServersToFarm.png" width="630" height="340">
+   ![Adding more servers](#img/addingServersToFarm_small.png)
+   
 
 1. When done adding the nodes click Save, and Save again on the Farms screen.
 
 And that is it. Make sure to wait for logs to be collected as it can take 10-20 minutes depending on your infrastructure.  
 Then, navigate to the [Event Viewer tab](#internal/get-to-know-insights/event-viewer) and search for your logs. 
-
 
 If you require more assistance with this issue, don't hesitate to [ask us.](https://www.syskit.com/company/contact-us/)
