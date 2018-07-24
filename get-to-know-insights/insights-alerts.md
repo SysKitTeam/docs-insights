@@ -30,6 +30,11 @@ See the [Manage Alerts](#internal/how-to/manage-alerts) article to see how you c
 
 > __Please note!__ - To check (ping) a SharePoint site we are using the credentials of the service account you provided during the configuration of the SysKit Insights. Also, it is not possible to use forms authentication. 
 
+## Latency
+Latency tab will automatically populate as soon as the application finishes the first ping interval. That usually happens within 15 minutes of starting the application.  
+The columns we provide here are: Farm, Server, Bad pings (number of), Time
+Click on the desired line to open the Latency Intervals Details on the right hand side of the screen. Data we provide there is what was the __maximum latency__ in that interval, number of pings sent and received, and number of pings which took longer than 1 ms. 
+
 ## Sending the notification
 
 In order to receive the email notification of your alerts you need to enable them. Go to Settings -> Email settings. Select the: "Send email notifications when alerts occur" and fill out all the required fields.  

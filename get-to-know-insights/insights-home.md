@@ -32,3 +32,12 @@ Event Viewer index metrics are shown per farm. If you are monitoring multiple Sh
 
 * __Top servers by CPU utilization__ - top 5 servers with highest processor usage based on the last 15 minutes of data collected.
 * __Top servers by memory consumption__ - top 5 servers with highest memory consumption based on the last 15 minutes of data collected.
+
+## Alerts dashboard
+
+* __Farms per Alert Type__ - top 5 farms with highest number of __critical__ alerts in the last 24 hours.
+
+## Latency dashboard
+
+* __Ping Success Rate__ - total ping success rate for all monitored servers in the last 24 hours.
+* __IntraFarm Latency__ - top 3 servers with highest number of intervals with high latency in the last 24 hours.
