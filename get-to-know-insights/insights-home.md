@@ -40,4 +40,4 @@ Event Viewer index metrics are shown per farm. If you are monitoring multiple Sh
 ## Latency dashboard
 
 * __Ping Success Rate__ - total ping success rate for all monitored servers in the last 24 hours.
-* __IntraFarm Latency__ - top 3 servers with highest number of intervals with high latency in the last 24 hours.
+* __Intra-farm Latency__ - top 3 servers with highest number of intervals with high latency in the last 24 hours.
