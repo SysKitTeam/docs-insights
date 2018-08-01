@@ -14,7 +14,7 @@ There are a couple of steps needed to set up the SysKit Insights Web Application
 
 ## 1. Setup SysKit Insights
 
-The first thing to do is to stop both SysKit Insights Agent and SysKit Insights Maintenance Job in the Windows Services window on a server where SysKit Insights is installed. After both services are stopped (SysKit Insights Agent can take some time to stop), the file at %ProgramData%/SysKit/Insights/Service/settings.xml has to be modified. Using any text editor, set tag “SslEnabled” to “true.” After modifying the file, there needs to be the following tag in the file:
+The first thing to do is to stop both SysKit Insights Agent and SysKit Insights Maintenance Job in the Windows Services window on a server where SysKit Insights is installed. After both services are stopped (SysKit Insights Agent can take some time to stop), the file at %ProgramData%/SysKit/Insights/Service/settings.xml has to be modified. Using any text editor, set tag “SslEnabled” to “true”. After modifying the file, there needs to be the following tag in the file:
 ```xml
 <SslEnabled>true</SslEnabled>
 ```
