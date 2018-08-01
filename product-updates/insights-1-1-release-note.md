@@ -5,6 +5,17 @@ author: Tomislav Sirovec
 date: 23/7/2018
 ---
 
+SysKit Insights 1.1.0 delivers a fresh set of new features created to make your monitoring tasks a lot easier.
+Keep on scrolling and see what's new!
+
+Give it a try and let us know what you think!
+
+__Product version:__ 1.1.0  
+__Build number:__  483   
+__Release date:__ Aug 2, 2018  
+
+[Click here to download the new release.](https://www.syskit.com/products/insights/download/)
+
 ## Features
 
 * __Intra-farm latency__! We now check intra-farm latency. In 10-minute intervals, we ping every server in the farm. According to [Microsoft’s hardware requirements](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements), 99.9% of pings must be under 1 ms. If they’re not, we will notify you. For detailed information about this feature, check out our [help article](#internal/get-to-know-insights/latency-screen).
