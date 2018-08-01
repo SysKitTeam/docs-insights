@@ -31,3 +31,5 @@ After the certificate is installed, users need to execute the following commands
 C:\> netsh http add urlacl url=https://+:{insightsPort}/ user=Everyone
 C:\> netsh http add sslcert ipport=0.0.0.0:{insightsPort} certhash={certificate hash} appid='{{unique guid}}'
 ``` 
+
+__Note:__ When using HTTPS, SysKit Insights requires you to confirm the agent URL on each startup. If no changes were made, click the Set button, and you are good to go. 

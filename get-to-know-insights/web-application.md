@@ -15,6 +15,6 @@ The SysKit Insights web interface is hosted at http://{servername}:{port} or at 
 
 ## Browser Compatibility
 
-SysKit Inisghts has only been tested on the latest version of Google Chrome but should also work on the latest versions of Microsoft Edge, Mozilla Firefox, and Safari.
+SysKit Insights has only been tested on the latest version of Google Chrome but should also work on the latest versions of Microsoft Edge, Mozilla Firefox, and Safari.
 
 

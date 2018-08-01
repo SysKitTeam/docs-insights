@@ -7,7 +7,7 @@ date: 23/7/2018
 
 ## Features
 
-* Intra-farm latency! We now check intra-farm latency. In 10-minute intervals, we ping every server in the farm. According to [Microsoft’s hardware requirements](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements), 99.9% of pings must be under 1 ms. If they’re not, we will notify you. For detailed information about this feature, check out our [help article](#internal/get-to-know-insights/latency-screen).
+* __Intra-farm latency__! We now check intra-farm latency. In 10-minute intervals, we ping every server in the farm. According to [Microsoft’s hardware requirements](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements), 99.9% of pings must be under 1 ms. If they’re not, we will notify you. For detailed information about this feature, check out our [help article](#internal/get-to-know-insights/latency-screen).
 * We heard your requests, and now the entire SysKit Insights application is accessible via browser as a __web application__, making it easier than ever to share reports and event log searches with your colleagues. For more information, click [here](#internal/get-to-know-insights/web-application).
 * Event Viewer export: Previously, you could only export 1,000 events to Excel. You can now specify the number of exportable events.
 
