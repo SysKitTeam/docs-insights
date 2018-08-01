@@ -30,23 +30,21 @@ If you want to edit an already existing alert navigate to aforementioned list of
 
 ## Site collection alerts
 ### Following site collections are unavailable
-* Check this if you wish SysKit Insights to periodically check if the given site is online. SysKit Insights will try to access the site using the Service Account credentials.  
-*  or any additional Windows service - please [Contact us.](https://www.syskit.com/company/contact-us/)  
-By default this is not possible in SysKit Insights v1, but we can show you a trick ;).  
+* Check this for SysKit Insights to periodically check if the given site is online. SysKit Insights will try to access the site using the Service Account credentials.
+*  This can be done with any additional Windows service — please [contact us.](https://www.syskit.com/company/contact-us/) By default, this is not possible in SysKit Insights v1, but we can show you a trick ;).
 
 ### Central Administration status is changed
-* We will continuously ping the Central Administration site and notify you if it is not accessible. By default you will receive an alert every 30 minutes. 
+* We will continuously ping the Central Administration site and notify you if it is not accessible. By default, you will receive an alert every 30 minutes.
 
 ## Services alerts
 ### SharePoint Timer Service is stopped
 * Status of the SharePoint Timer Service is checked for every server in the farm. You will be alerted if the status is stopped or stopping. By default you will receive an alert every 30 minutes. 
 
 ### SharePoint Search Service is stopped
-* Status of the SharePoint Timer Service is checked for every server in the farm. You will be alerted if the status is stopped or stopping. By default you will receive an alert every 30 minutes. 
+* The status of the SharePoint Timer Service is checked for every server in the farm. You will be alerted if the status is stopped or stopping. By default, you will receive an alert every 30 minutes.
 
 ### SharePoint User Profile service is stopped/not detected
-* You will be alerted if the status is stopped or stopping. By default you will receive an alert every 30 minutes.  
-__Please note!__ The service is not available on SharePoint Server 2016.
+* You will be alerted if the status is stopped or stopping. By default, you will receive an alert every 30 minutes. __Note:__ The service is not available on SharePoint Server 2016.
 
 ## Intra-farm Latency
 * You will be notified when the observed latency exceeds [configured](#internal/how-to/customize-settings) values. 

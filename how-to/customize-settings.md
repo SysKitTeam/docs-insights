@@ -33,7 +33,7 @@ To customize SysKit Insights settings click the **Settings button** located in t
     - Enabled by default.  
 * __Intra-farm Latency Configuration__
     - Enabled by default.  
-    - Latency Duration Treshold: 1ms by default
+    - Latency Duration Threshold: 1ms by default
     - High Latency Tolerance: 0.1% by default
 
 ## Available agent options
