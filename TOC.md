@@ -38,12 +38,14 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 ## [Latency Screen](latency-screen.md)
 ## [Farms Screen](farms-screen.md)
 ## [Performance Counters help](performance-counters.md)
+## [Web Application](web-application.md)
 
 # [How To](how-to)
 Explore all possible configuration scenarios and choose the right one for your environment.
 ## [Customize Settings](customize-settings.md)
 ## [Manage Alerts](manage-alerts.md)
 ## [Search Query](search-query.md)
+## [Set up HTTPS](set-up-https.md)
 
 # [Known Issues](known-issues)
 Even the best of us fail sometimes. We are working on it. 
