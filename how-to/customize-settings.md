@@ -30,7 +30,11 @@ To customize SysKit Insights settings click the **Settings button** located in t
 - **SQL collection configuration**
     - Enabled by default.
 - **Performance monitoring**
-    - Enabled by default. 
+    - Enabled by default.  
+* __Intra-farm Latency Configuration__
+    - Enabled by default.  
+    - Ping response time threshold: 1ms by default
+    - Ping rate above threshold tolerance: 0.1% by default
 
 ## Available agent options
 - **Enable/Disable data collection**

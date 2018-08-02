@@ -5,7 +5,8 @@ private: true
 
 # [Product Updates](product-updates)
 Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade. 
-##[SysKit Insights - SharePoint performance monitoring and troubleshooting](insights1-release-note.md)
+## [SysKit Insights - SharePoint performance monitoring and troubleshooting](insights1-release-note.md)
+## [SysKit Insights 1.1](insights-1-1-release-note.md)
 
 # [Requirements](requirements)
 Make sure that your environment and the account used for the application meet Syskit Insights requirements.
@@ -34,14 +35,17 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 ## [Event Viewer Dashboard](event-viewer.md)
 ## [Performance Screen](performance-screen.md)
 ## [Alerts Dashboard](insights-alerts.md)
+## [Latency Screen](latency-screen.md)
 ## [Farms Screen](farms-screen.md)
 ## [Performance Counters help](performance-counters.md)
+## [Web Application](web-application.md)
 
 # [How To](how-to)
 Explore all possible configuration scenarios and choose the right one for your environment.
 ## [Customize Settings](customize-settings.md)
 ## [Manage Alerts](manage-alerts.md)
 ## [Search Query](search-query.md)
+## [Set up HTTPS](set-up-https.md)
 
 # [Known Issues](known-issues)
 Even the best of us fail sometimes. We are working on it. 
