@@ -11,7 +11,7 @@ Keep on scrolling and see what's new!
 Give it a try and let us know what you think!
 
 __Product version:__ 1.1.0  
-__Build number:__  483   
+__Build number:__  484   
 __Release date:__ Aug 2, 2018  
 
 [Click here to download the new release.](https://www.syskit.com/products/insights/download/)
