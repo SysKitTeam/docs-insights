@@ -39,4 +39,4 @@ The columns provided here are: Farm, Server, Bad Pings (number of), and Time. Cl
 In order to receive the email notification of your alerts you need to enable them. Go to Settings -> Email settings. Select the: "Send email notifications when alerts occur" and fill out all the required fields.  
 
 ---
->For more information on Insights features [see this article.](https://www.syskit.com/products/insights/features/intelligent-alerts/)
+>For more information on Insights features [see this article.](https://www.syskit.com/products/insights/features/intelligent-alerting/)
