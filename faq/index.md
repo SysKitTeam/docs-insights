@@ -10,7 +10,7 @@ This article lists some of the commonly asked questions.
 ## When I use SPDocKit database to import farms, does the SysKit Insights application continue to use that database?
 Once the farms are imported from the SPDocKit database, SysKit Insights does not continue to use it. Instead, SysKit Insights uses its own database. See [here](#internal/requirements/system-requirements) for system requirements.
 
-## If I wish to monitor more then one farm do I need a database for each one?
+## If I wish to monitor more than one farm do I need a database for each one?
 No, SysKit Insights uses the __same database__ to store information about every farm you wish to monitor. 
 
 ## Does all index data go into the same index or are there different indexes for different farms?
