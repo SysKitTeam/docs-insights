@@ -7,7 +7,7 @@ date: 21/08/2018
 
 This article will explain how to change the index location.
 
-## Change the index location to a different server or __migrate the Agent from SPDocKit Insights__
+## Change the index location to a different server or __migrate the SPDocKit Insights Agent__
 If you wish to transfer the __SysKit Insights__ application (the agent that does the collection) AND at the same time __keep the existing data__ here is what you need to do:  
 1. __Stop__ the SysKit Insights Agent service and the SysKit Insights Maintenance service.
 1. Install the SysKit Insights on a different server.
