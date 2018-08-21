@@ -19,3 +19,5 @@ Each SysKit Insights' agent can use only one index location.
 ## Are there installation instructions or best practices available for maximum index size? 
 It is very difficult to hypothesize on the required index size as this largely depends on your infrastructure and how big your farm/s are. Recommended minimum of 200GB disk space should be enough to store the data (ULS, SQL logs and Windows Event logs) of three SharePoint farms (Test, Preproduction, Production).  
 __However, please note,__ that index size can vary from a few gigabytes up to a terabyte of data depending on which Event Levels you are collecting and again, __on your infrastructure.__ These Event Levels can be changed in [available farm settings](#internal/how-to/customize-settings) in order to optimize the amount of collected data. 
+
+
