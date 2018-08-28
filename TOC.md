@@ -5,8 +5,10 @@ private: true
 
 # [Product Updates](product-updates)
 Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade. 
+## [SysKit Insights 1.1.1](insights-1-1-1-release-note.md)
 ## [SysKit Insights 1.1.0](insights-1-1-release-note.md)
 ## [SysKit Insights - SharePoint performance monitoring and troubleshooting](insights1-release-note.md)
+
 
 
 # [Requirements](requirements)
