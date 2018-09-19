@@ -1,5 +1,5 @@
 ---
-title: SQL server instance name is not default.
+title: SQL server instance name is not default
 description: SQL server instance name that is being used for SharePoint is not  MSSQL's default.
 author: Tomislav Sirovec
 date: 19/09/2018

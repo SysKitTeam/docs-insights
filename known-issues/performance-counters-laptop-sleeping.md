@@ -1,5 +1,5 @@
 ---
-title: Performance counters graphs are "incorrect".
+title: Performance counters graphs are "incorrect"
 description: Performance counters graphs are "incorrect" for a period when agent was sleeping.
 author: Tomislav Sirovec
 date: 23/01/2018

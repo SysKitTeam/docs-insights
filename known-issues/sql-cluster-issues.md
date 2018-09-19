@@ -1,5 +1,5 @@
 ---
-title: SQL Cluster Issues.
+title: SQL Cluster Issues
 description: SysKit Insights cannot properly detect sql server nodes.
 author: Tomislav Sirovec
 date: 28/06/2018
@@ -17,13 +17,13 @@ The problem is that, currently, application cannot automatically detect all serv
 
 The SysKit Insights application needs the Fully Qualified Domain Name (FQDN) of each server (node) in order to work properly. So, you need to do the following:
 
- 1. Navigate to the __Farms tab__, find the problematic Farm and click __Manage__.
-1. Click the button __Add Server__ and enter the servers Name and Role (Database).
+1. Navigate to the __Farms tab__, find the problematic Farm and click __Manage__.
+2. Click the button __Add Server__ and enter the servers Name and Role (Database).
 
    ![Adding more servers](#img/addingServersToFarm_small.jpg)
 
 
-1. When done adding the nodes click Save, and Save again on the Farms screen. 
+3. When done adding the nodes click Save, and Save again on the Farms screen. 
 
 __This problem affects SQL log and Performance Counters collection, as well as Latency checks.__
 
