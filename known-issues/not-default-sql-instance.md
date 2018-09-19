@@ -13,7 +13,7 @@ __Solution:__
 You need to change the Parameter __@InstanceName='SHAREPOINT'__;  
 Here you need to __input the name of your instance__. If your instance is named SERVERNAME/JOHN then you would set the InstanceName to "JOHN".  
 
-After the script is run against the SysKit Insights database you will need to restart the SQL server. 
+After the script is run against the SysKit Insights database you will need to __restart the SysKit Insights Agent service.__ If the problem still persists you should consider restarting the SQL server, as we have found that this helps in some cases. 
 
 __Please note!__ Always keep the SysKit Insights application updated to the newest version.
 
