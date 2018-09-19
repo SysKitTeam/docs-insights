@@ -10,7 +10,7 @@ The problem appears when Syskit Insights is installed on a laptop, and when lapt
 
 ![Laptop Sleeping](#img/laptop-sleeping-known-issue.png)
 
-In the picture above the laptop was put into sleep mode at 16:00h and it was turned on the next at 08:00h
+In the picture above the laptop was put into sleep mode at 16:00h and it was turned on the next morning at 08:00h
 
-__Solution:__  
+__Solution:__   
 There is no workaround.

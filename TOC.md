@@ -54,7 +54,8 @@ Explore all possible configuration scenarios and choose the right one for your e
 Even the best of us fail sometimes. We are working on it. 
 ## [Performance Counters Graphs](performance-counters-laptop-sleeping.md)
 ## [Scanning the AD](scan-ad-server-number.md)
-## [SQL Log collection from a Cluster](servers-in-cluster.md)
+## [SQL Cluster Issues](sql-cluster-issues.md)
+## [SQL server instance is not default](not-default-sql-instance.md)
 
 # [FAQ](faq)
 These are some of the most common questions and answers about SysKit Insights. If you cannot find the answer to your problem, please contact us.
