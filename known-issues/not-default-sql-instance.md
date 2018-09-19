@@ -1,6 +1,6 @@
 ---
 title: SQL server instance name is not default.
-description: SQL server instance name that is being used for SharePoint is not default MSSQL's.
+description: SQL server instance name that is being used for SharePoint is not  MSSQL's default.
 author: Tomislav Sirovec
 date: 19/09/2018
 ---
@@ -50,3 +50,5 @@ UPDATE PerformanceCounters.Categories
 set ClassName = CONCAT('Win32_PerfRawData_MSSQL', @InstanceName, '_MSSQL', @InstanceName, 'Databases')
 where ClassName like '%Databases%'
 ```
+
+If you require more assistance with this issue, don't hesitate to [ask us.](https://www.syskit.com/company/contact-us/)
