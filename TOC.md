@@ -50,7 +50,7 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 Explore all possible configuration scenarios and choose the right one for your environment.
 ## [Customize Settings](customize-settings.md)
 ## [Manage Alerts](manage-alerts.md)
-## [Add custom Services alert](add-custom-services-alert.md)
+## [Add additional services to alerts](add-additional-services-alert.md)
 ## [Disable the PC instance you do not wish to track](disable-pc-instance.md) 
 ## [Search Query](search-query.md)
 ## [Set up HTTPS](set-up-https.md)
