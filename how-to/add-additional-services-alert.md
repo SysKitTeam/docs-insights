@@ -5,7 +5,7 @@ author: Tomislav Sirovec
 date: 28/9/2018
 --- 
 
-This article explains how to add a custom Service alert into the application.  
+If you wish to __track additional services__, this article explains how to add a custom Service alert into the application.  
 Run the following script against the SysKit Insights database.
 
 ```sql
