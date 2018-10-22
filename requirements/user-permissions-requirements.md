@@ -8,6 +8,8 @@ date: 17/01/2018
 To run SysKit Insights and to retrieve all the data (event logs and performance counters) you want to document, SysKit Insights service account needs to have proper privileges. Here is the list of required privileges:
 
 * __Local administrator__ on all the machines you want to monitor. Both SharePoint and SQL server.
+    * We are using Remote WMI to access performance metrics on SQL servers. As per [this Microsoft article](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/connecting-to-wmi-on-a-remote-computer) local administrator privileges on a remote server are required to successfully access the performance data using Remote WMI approach. 
+    * SysKit Insights requires local administrator privileges to access logs (ULS, Windows Event Log, SQL Log) on remote machines as well. It is not possible to access those locations remotely without local administrators privileges (Windows constraint).
 * Minimum of __db_datareader__ on a SharePoint's Config database.
 * On a SQL server - __public__ server role.
 * The account running the SysKit Insights Configuration Wizard must have __dbcreator__ role on the SQL Server where the SysKit Insights database will be created.

@@ -36,6 +36,7 @@ After the installation is done, SysKit Insights  - Configuration Wizard will aut
     - **Port To Use** - this is the port that the Syskit Insight Agent will use to communicate with the Syskit Insights application. By default, port 7890 is set, but you can change it to suit your needs.
     - **Max Index Size** – by default we set this value to 200GB with a maximum of 1TB. Feel free to change it to suit your needs and hardware capabilities.
     If the service determines that the index exceeds the maximum index size, it will stop the data collection. Note that the actual size of the index can vary because of index reorganization and can require up to 3 times the amount of disk space specified here.
+        * __Please note!__ - The requirement of up to 3x the amount of disk space is more of a precaution against very rare cases where indexing wasn't running for any given reason. __In most cases__ even during the intense index reorganization it would temporarily use up to __20%__ of the __current index size__.
     
 5. click __Next__ to complete the Configuration Wizard and apply the changes.
 
