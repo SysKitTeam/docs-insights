@@ -5,6 +5,7 @@ private: true
 
 # [Product Updates](product-updates)
 Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade. 
+## [SysKit Insights 2.0.0](insights-2-release-note.md)
 ## [SysKit Insights 1.1.1](insights-1-1-1-release-note.md)
 ## [SysKit Insights 1.1.0](insights-1-1-release-note.md)
 ## [SysKit Insights - SharePoint performance monitoring and troubleshooting](insights1-release-note.md)
@@ -41,6 +42,7 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 ## [Performance Screen](performance-screen.md)
 ## [Alerts Dashboard](insights-alerts.md)
 ## [Latency Screen](latency-screen.md)
+## [Page Performance Screen](page-performance-screen.md)
 ## [Farms Screen](farms-screen.md)
 ## [Performance Counters help](performance-counters.md)
 ## [Web Application](web-application.md)
@@ -62,6 +64,7 @@ Even the best of us fail sometimes. We are working on it.
 ## [Scanning the AD](scan-ad-server-number.md)
 ## [SQL Cluster Issues](sql-cluster-issues.md)
 ## [SQL server instance is not default](not-default-sql-instance.md)
+## [Page Performance via Web App](webapp-page-performance.md)
 
 
 # [FAQ](faq)
