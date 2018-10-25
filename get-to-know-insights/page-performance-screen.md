@@ -7,12 +7,10 @@ date: 22/10/2018
 
 SysKit Insights monitors the performance of SharePoint pages by periodically collecting page performance data. 
 
-## Page Performance Dashboard
-
 First thing you need to do is:
 
 __Add New Page__
-1. While on Page Performance tab, click __Add New__.
+1. While on __Page Performance tab, click Add New__.
 2. Select a farm for which you wish to add pages. 
 3. Enter the pages you want to monitor, either one by one, or you can import them from a file. When importing from a file, separate the pages with a newline.
 4. Click __Import__ and the import check will start. If you entered the page for which you do not have privileges - a pop up window will ask you to provide credentials that does. The same goes if you wish to monitor a __SharePoint Online site__. A popup window will ask you to provide the required credentials. When prompted to remember the login make sure to click __yes__. The benefits are:
@@ -21,6 +19,8 @@ __Add New Page__
 
 
 After adding all the pages you wish, they will be shown on the Page Performance dashboard.
+
+## Page Performance Dashboard
 
 __The data shown here will be average__ - which is calculated for a period selected in a Data Range filter, by default - Last 24h.  
 If you wish to monitor certain metrics in order to receive alerts when said values exceed set thresholds, you need to set up the Alerts. For more information on how to do so - see [this article](#internal/how-to/manage-alerts#page-performance). When certain metric exceed the set threshold they will be colored red on the dashboard. If the metric is under the threshold it will be colored green.  
