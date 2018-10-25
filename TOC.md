@@ -56,6 +56,7 @@ Explore all possible configuration scenarios and choose the right one for your e
 ## [Disable the PC instance you do not wish to track](disable-pc-instance.md) 
 ## [Search Query](search-query.md)
 ## [Set up HTTPS](set-up-https.md)
+## [SharePoint Online Page Performance](spo-pp.md)
 
 
 # [Known Issues](known-issues)

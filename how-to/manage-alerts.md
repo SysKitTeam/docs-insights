@@ -54,3 +54,28 @@ If you want to edit an already existing alert navigate to aforementioned list of
 
 - Send to __default email__ address will send a notification (email) to addresses given in Settings -> Email Settings.
 - Send to __alternate email__ address - here you can define extra emails of people that you wish to receive the notification.
+
+# Page Performance
+
+Here you can configure which metric to monitor in order to send alerts if received values exceed set thresholds. 
+
+- Enable Page Performance Alerting - check this to enable the alerting.
+
+## General
+- SPRequestDuration - by default 150ms and OFF
+- SPIISLatency - by default 9ms and OFF
+- X-SPHealthScore - by default 4 and __ON__
+- Page Response Time - by default 5000ms and __ON__
+
+## Javascript
+- File Size - default 2000kB and OFF
+- File Load Time - - default 2000ms and OFF
+
+## CSS
+- File Size - by default 2000kB and OFF
+- File Load Time - by default 2000ms and OFF
+
+## Notifications
+
+- Send to __default email__ address will send a notification (email) to addresses given in Settings -> Email Settings.
+- Send to __alternate email__ address - here you can define extra emails of people that you wish to receive the notification.
