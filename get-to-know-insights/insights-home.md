@@ -13,20 +13,20 @@ If you are monitoring multiple SharePoint farms, they will all appear here. Metr
 * __Server Status__ - information about how many servers are in critical, warning, healthy or offline state. 
 
 * __Logs__ - a total number of collected events per day. If you click on the date or on the column representing the events, the graph will change into a __Logs by Server__ view and you will see total number of events __per server__ collected for the selected day.  
-On top of the graph you can find __total Index size__ and __number of events__ in the index. Also, you can see index's __last update time__.  
+On top of the graph you can find __Total Index Size__ and __Number of Events__ in the index. Also, you can see index's __Last Update Time__.  
 The index size can fluctuate because of how index reorganization works. Also, since the data retention job deletes data day by day, sudden drops in this metric are possible.  
 
 * __Alerts__ - an overview of received alerts on entire farm. For detailed view click the __View All Alerts__ button at the bottom of the tile. 
 
-* __CPU utilization__ - top 3 servers with highest processor usage based on the last 15 minutes of data collected.
+* __CPU Utilization__ - top 3 servers with highest processor usage based on the last 15 minutes of data collected.
 
 * __Disk Space Usage__ - top 3 disks by disk space used across all servers, based on the last collected value.
 
-* __SharePoint Services Status__ - information whether SharePoint Timer and Search services are running on the selected farm.
+* __SharePoint Services Status__ - information whether SharePoint Timer, Search or User Profile services are running on the selected farm.
 
 * __Intra-farm Latency__ - information which server (if any) has high latency. At the bottom, __+ X Critical Servers__ button will take you to the Latency tab and show you detailed information about latency.
 
-* __Page Response__ - this tile will show you information about pages you are monitoring. Precisely, whether some of them has a critical status. 
+* __Page Response__ - this tile will show you information about pages you are monitoring. Precisely, whether some of them are offline or have a critical status. 
 
 
 ## Server dashboard

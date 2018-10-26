@@ -27,15 +27,15 @@ After adding all the pages you wish, they will be shown on the Page Performance 
 __The data shown here is average__ - which is calculated for a period selected in a Data Range filter, by default - Last 24h.  
 If you wish to monitor certain metrics in order to receive alerts when said values exceed set thresholds, you need to set up the Alerts. For more information on how to do so - see [this article](#internal/how-to/manage-alerts#page-performance).  
 
-When certain metric exceed the set threshold they will be colored red on the dashboard. If the metric is under the threshold it will be colored green.  
+When certain metrics exceed the set threshold they will be colored red on the dashboard. If the metric is under the threshold it will be colored green.  
 
 You can click on a page (entire row is clickable) and you will see detailed information about it - SharePoint Header Metrics and File Requests. 
 
-## Page headers
+## Page Headers
 
 * __Uptime__ - Calculated time of page availability during the selected period (in the Data range filter).
 
-* __X-SPHealthScore__ - The server can monitor the current load and its ability to process requests. If it monitors the load, it can return the load information to the client in a X-SPHealthScore header. This header specifies a value between 0 and 10m where 0 represents a low load and a high ability to process requests and 10 represent a high load and that the server is throttling requests to maintain adequate throughput. 
+* __X-SPHealthScore__ - The server can monitor the current load and its ability to process requests. If it monitors the load, it can return the load information to the client in a X-SPHealthScore header. This header specifies a value between 0 and 10 where 0 represents a low load and a high ability to process requests and 10 represent a high load and that the server is throttling requests to maintain adequate throughput. 
 
 * __SPRequestDuration__ - SPRequestDuration which is the value, in milliseconds, of how long a request took to process on the server. 
 
@@ -50,7 +50,7 @@ You can click on a page (entire row is clickable) and you will see detailed info
 
 File Requests feature simulates real world page usage. There is no caching and the numbers here are what a real user might expect when accessing the page. 
 
-You can monitor __Size, Load Time__, and __Item Count__ for certain elements of the page. These elements are: __HTML, Javascript, Images, SCC, Fonts__.  
+You can monitor __Size, Load Time__, and __Item Count__ for certain elements of the page. These elements are: __HTML, Javascript, Images, CSS, Fonts__.  
 SysKit Insights uses __The Coach__ to monitor performance of your pages, and based on it, we provide you with a page's __Page Score__. For more information see [this link](https://www.sitespeed.io/documentation/coach/introduction/). 
 
 On the right hand side there is a waterfall model of a page, like the one you can find in Google Chrome's DevTools, showing you every loaded element. 
