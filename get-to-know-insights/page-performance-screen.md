@@ -48,7 +48,8 @@ You can click on a page (entire row is clickable) and you will see detailed info
 
 ## File Requests
 
-File Requests feature simulates real world page usage. There is no caching and the numbers here are what a real user might expect when accessing the page. 
+File Requests feature simulates real world page usage. There is no caching and the numbers here are what a real user might expect when accessing the page.  
+The SysKit Insights will try to load and emulate the browser opening the page. The data shown is from the 20 second interval in which the SysKit Insights monitor the page.
 
 You can monitor __Size, Load Time__, and __Item Count__ for certain elements of the page. These elements are: __HTML, Javascript, Images, CSS, Fonts__.  
 SysKit Insights uses __The Coach__ to monitor performance of your pages, and based on it, we provide you with a page's __Page Score__. For more information see [this link](https://www.sitespeed.io/documentation/coach/introduction/). 
