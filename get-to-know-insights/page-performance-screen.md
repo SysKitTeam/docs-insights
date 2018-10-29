@@ -11,8 +11,11 @@ First you need to:
 
 __Add New Page__
 1. On the __Page Performance tab, click Add New.__
+
 2. Select the farm for which you wish to add pages (if you have more than one).
+
 3. Enter the pages you wish to monitor, either one by one or by importing them from a file. When importing from a file, put each page on a separate line.
+
 4. Click __Import__ and the import check will start. 
     - For on-premises pages, we use the service account you provided in the configuration wizard. You need to ensure that this account has the necessary permissions. 
     - If you want to monitor a __SharePoint Online site__, a popup window will ask you to provide the required credentials. When prompted to remember the login, make sure to click __yes__. The benefits are:
