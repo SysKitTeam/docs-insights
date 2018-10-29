@@ -26,12 +26,12 @@ Oh, SharePoint Online pages are also supported! :)
 - __Full support for SharePoint 2019__
 
 ## Improvements
-- The dashboard has been redesigned and improved! The left-hand side gives an overview of all your farms and the servers in them, while the right-hand side shows the content, with an overview of your logs, alerts, performance counters, SharePoint service status, farm latency, and page performance.
+- The dashboard has been __redesigned and improved!__ The left-hand side gives an overview of all your farms and the servers in them, while the right-hand side shows the content, with an overview of your logs, alerts, performance counters, SharePoint service status, farm latency, and page performance.
 - The SysKit Insights web application can now be started with a desktop shortcut. 
-- On the alerts tab, there is now a filter instead of tabs, making the interface much cleaner and easier to use. 
-- The SharePoint search service is now checked only on a SP search server. The user profile service is disabled by default.
+- On the alerts tab, there is now a __filter instead of tabs__, making the interface much cleaner and easier to use. 
+- The SharePoint search service is now checked __only on a SP search server.__ __The user profile service is disabled by default.__
 - We have improved the way we check for high latency. Now, fewer resources will be used. 
-- It has come to our attention that latency alerts were being sent way too often. So, the default period for latency alerts has been increased from 30 minutes to 12 hours.
+- It has come to our attention that latency alerts were being sent way too often. So, the __default period__ for latency alerts __has been increased from 30 minutes to 12 hours.__
 - We have added a type column to the event log export. 
 - There are numerous performance improvements. 
 
