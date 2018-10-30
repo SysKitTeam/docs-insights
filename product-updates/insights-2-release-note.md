@@ -28,9 +28,9 @@ Oh, SharePoint Online pages are also supported! :)
 ## Improvements
 - The dashboard has been __redesigned and improved!__ The left-hand side gives an overview of all your farms and the servers in them, while the right-hand side shows the content, with an overview of your logs, alerts, performance counters, SharePoint service status, farm latency, and page performance.
 - The SysKit Insights web application can now be started with a desktop shortcut. 
-A- The SharePoint search service is now checked __only on a SP Search Server.__ __The User Profile Service is disabled by default.__
+- The SharePoint search service is now checked __only on a SP Search Server.__ __The User Profile Service is disabled by default.__
 - It has come to our attention that latency alerts were being sent way too often. So, the __default period__ for latency alerts __has been increased from 30 minutes to 12 hours.__
-- We have added a Event type column to the event log export. 
+- We have added a Event type (SQL, ULS, Event Log) column to the event log export. 
 - There are numerous performance improvements. 
 
 ## Bug fixes
