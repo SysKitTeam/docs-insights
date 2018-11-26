@@ -4,7 +4,7 @@ author: Matija Hanzic
 date: 16/5/2017  
 description: This article outlines activation FAQs.
 --- 
-### Is the trial version in any kind limited?
+### Is the trial version limited in any kind?
 The trial is the latest released application version containing all available application features.
 
 ### What are the trial limitations?
