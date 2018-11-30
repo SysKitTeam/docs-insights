@@ -87,15 +87,14 @@ In order to receive the email notification of your alerts you need to enable the
 
 ## Latency
 
-The SysKit Insights latency screen gives you a detailed overview of all the ping intervals made. Latency indicates the delay in the communication between the servers and is very important as a hardware requirement. High latency is usually indicator of a bigger underlying problem, and should be inspected. 
-
+The SysKit Insights latency screen gives you a detailed overview of all the ping intervals made. Latency indicates the delay in the communication between the servers and is important as a hardware requirement. High latency is usually indicator of a bigger underlying problem, and should be inspected. 
 
 
 In [this article](#internal/get-to-know-insights/latency-screen) we provide a detailed information about the Latency tab.  
 
 ## Page Performance 
 
-SysKit Insights monitors the performance of SharePoint pages by periodically collecting page performance data. Here you can add and manage pages that you wish to monitor. You can monitor both SharePoint On-Premises and SharePoint Online sites/pages. Pages are pinged constantly constantly throughout the day. Various parameters can be monitored - such as the availability of the page, page response time, SharePoint specific header metrics, or simply - you can observe if there is a huge picture of someone's cat slowing down the page opening time. 
+SysKit Insights monitors the performance of SharePoint pages by periodically collecting page performance data. Here you can add and manage pages that you wish to monitor. You can monitor both SharePoint On-Premises and SharePoint Online sites/pages. Pages are pinged constantly throughout the day. Various parameters can be monitored - such as the availability of the page, page response time, SharePoint specific header metrics, or simply - you can observe if there is a huge picture of someone's cat slowing down the page opening time. 
 
 ![Page Performance Dashboard](#img/page-performance.png)
 
