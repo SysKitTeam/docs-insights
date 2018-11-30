@@ -4,7 +4,7 @@ description: Described some of the common use cases when starting the applicatio
 author: Tomislav Sirovec
 date: 01/03/2018
 --- 
-In this article we will take you through some of the common use cases and usual steps when using the application for the first time. We provided you with an overview of the entire application and how to use it. For detailed information on certain feature please explore other articles.   
+In this article we will take you through some of the common use cases and usual steps when using the application for the first time. We have provided you with an overview of the entire application and how to use it. For detailed information on certain feature please explore other articles.   
 
 ## Let's get started
 
@@ -19,15 +19,15 @@ In order to fully utilize SysKit Insights' features you need to enable the email
 
 __Alerts__
 
-The moment you added a new farm the data collection started. But, it will take a couple of minutes for the servers to initialize and the application to start displaying data. This usually takes a few minutes. In the mean time you can check our predefined performance counters thresholds. Navigate to the Alerts page and click [Manage Alerts.](#internal/how-to/manage-alerts) You can change them to best suits your needs, Also you can disable them completely and you will not be notified on that particular counter.    
-While on the Manage Alerts form, notice the Events and SharePoint Status tabs. If you wish to be notified when something on your farm goes wrong create a new Events Alert. Also, if you are interested to know when a particular SharePoint site goes down, enable the feature in the SharePoint status tab. Notice that checking the status of the SharePoint Timer Service and the Central Administration are enabled by default. 
+The moment you added a new farm the data collection started. But, it will take a couple of minutes for the servers to initialize and the application to start displaying data. This usually takes a few minutes. In the meantime you can check our predefined performance counters thresholds. Navigate to the Alerts page and click [Manage Alerts.](#internal/how-to/manage-alerts) You can change them to best suits your needs, Also you can disable them completely and you will not be notified on that particular counter.    
+While on the Manage Alerts form, notice the Events, SharePoint Status and Page Performance tabs. If you wish to be notified when something on your farm goes wrong create a new Events Alert. If you are interested to know when a particular SharePoint site goes down, enable the feature in the SharePoint status tab. Notice that checking the status of the SharePoint Timer Service and the Central Administration are enabled by default. Also, you can monitor the Page Performance of your SharePoint sites, such as their Page Response Time.
 
 After all that is done you can start observing the collected data. 
 
 ## Home
-- The SysKit Insights home page gives you an overview of your index's contents as well as a general performance overview regarding your farm health.   
-Event Viewer index metrics are shown per farm. If you are monitoring multiple SharePoint farms, the farm select option will be available. Metrics shown here will change depending on the selected farm.  
-On the right hand side you can see a quick glance of the overall server health. 
+- The SysKit Insights home page gives you an overview of your index's contents as well as a general performance overview regarding your farm health. If you have multiple farms you will be able to select a farm from which you want to see the general performance. You can also see the general performance of each server within the chosen farm.
+On the right, when the farm is selected, Server Status and Event Viewer index metrics are shown. Metrics shown here will change depending on the selected farm. Underneath you can see the Alerts, which shows you the latest alerts on the servers within the farm.
+On the right hand side you can see a quick glance of the overall server health. Next to the alerts you can also see CPU Utilization of the top 3 servers, Disk Space usage of the top 3 disks, SharePoint Services Status and Page Response. 
 
 ![Home Dashboard](#img/home-dashboard.png)
 
@@ -46,7 +46,8 @@ You can refine your query by:
       
 When satisfied with the constructed query, press the search button again.
 
-You have created a very useful query and would like to be notified when an event that satisfied this query appears? No problem, just create an alert by clicking the alert button on the search results page. Click [here](#internal/how-to/manage-alerts) for more details.  
+You have created a very useful query and would like to be notified when an event that satisfied this query appears? No problem, just create an alert by clicking the alert button on the search results page. Click [here](#internal/how-to/manage-alerts) for more details.
+You can also export your logs to an Excel file.
 Also, we provided more detailed information on writing the search query. See [this article.](#internal/how-to/search-query)
 
 
@@ -76,7 +77,7 @@ The server overview dashboard shows all metrics that are collected for each serv
 
 ## Alerts
 
-The SysKit Insights Alerts page gives you an overview of your alerts. There are three categories: Performance Counters, Events and SharePoint status.
+The SysKit Insights Alerts page gives you an overview of your alerts. There are five categories: Performance Counters, Events, SharePoint Status, Latency and Page Performance.
 
 In order to receive the email notification of your alerts you need to enable them. Go to Settings -> Email settings. Select the: "Send email notifications when alerts occur" and fill out all the required fields.
 
@@ -84,6 +85,21 @@ In order to receive the email notification of your alerts you need to enable the
 
 >For detailed information on managing your Alerts [see this article.](#internal/how-to/manage-alerts)
 
+## Latency
+
+The SysKit Insights latency screen gives you a detailed overview of all the ping intervals made.
+
+![Latency Dashboard](#img/latency.png)
+
+In [this article](#internal/get-to-know-insights/latency-screen) we provide a detailed information about the Latency tab.
+
+## Page Performance 
+
+SysKit Insights monitors the performance of SharePoint pages by periodically collecting page performance data. Here you can add and manage pages that you wish to monitor. 
+
+![Page Performance Dashboard](#img/page-performance.png)
+
+In [this article](#internal/get-to-know-insights/page-performance-screen) we provide a detailed information about the Page Performance tab.
 
 ## Farms
 
