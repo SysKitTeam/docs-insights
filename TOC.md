@@ -55,10 +55,6 @@ Explore all possible configuration scenarios and choose the right one for your e
 ## [SharePoint Online Page Performance](spo-pp.md)
 
 
-# [Product Updates](product-updates)
-Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade. 
-##[SysKit Insights - SharePoint performance monitoring and troubleshooting](insights1-release-note.md)
-
 # [Known Issues](known-issues)
 Even the best of us fail sometimes. We are working on it. 
 ## [Performance Counters Graphs](performance-counters-laptop-sleeping.md)
