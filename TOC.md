@@ -3,13 +3,13 @@ title: Table of Contents
 private: true
 ---
 
+
 # [Product Updates](product-updates)
 Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade. 
 ## [SysKit Insights 2.0.0](insights-2-release-note.md)
 ## [SysKit Insights 1.1.1](insights-1-1-1-release-note.md)
 ## [SysKit Insights 1.1.0](insights-1-1-release-note.md)
 ## [SysKit Insights - SharePoint performance monitoring and troubleshooting](insights1-release-note.md)
-
 
 # [Requirements](requirements)
 Make sure that your environment and the account used for the application meet Syskit Insights requirements.
@@ -38,6 +38,7 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 ## [Alerts Dashboard](insights-alerts.md)
 ## [Latency Screen](latency-screen.md)
 ## [Page Performance Screen](page-performance-screen.md)
+## [Performance Screen](performance-screen.md)### [Alerts Dashboard](insights-alerts.md)
 ## [Farms Screen](farms-screen.md)
 ## [Performance Counters help](performance-counters.md)
 ## [Web Application](web-application.md)
@@ -54,6 +55,10 @@ Explore all possible configuration scenarios and choose the right one for your e
 ## [SharePoint Online Page Performance](spo-pp.md)
 
 
+# [Product Updates](product-updates)
+Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade. 
+##[SysKit Insights - SharePoint performance monitoring and troubleshooting](insights1-release-note.md)
+
 # [Known Issues](known-issues)
 Even the best of us fail sometimes. We are working on it. 
 ## [Performance Counters Graphs](performance-counters-laptop-sleeping.md)
@@ -61,6 +66,7 @@ Even the best of us fail sometimes. We are working on it.
 ## [SQL Cluster Issues](sql-cluster-issues.md)
 ## [SQL server instance is not default](not-default-sql-instance.md)
 ## [Page Performance via Web App](webapp-page-performance.md)
+## [SQL Log collection from a Cluster](servers-in-cluster.md)
 
 
 # [FAQ](faq)
