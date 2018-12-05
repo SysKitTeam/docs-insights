@@ -14,7 +14,7 @@ After successfully [activating](#internal/activation/online-offline-activation) 
 
 - First thing you need to do is [add farm/s.](#internal/get-to-know-insights/farms-screen) Until you do so, some parts of the application will be disabled. Afterwards, on the same Farms tab, you can see on overview of farms and servers you added, as well as the License Server Limit.  
 
-In [this article](#internal/get-to-know-insights/farms-screen) we provides detailed overview of farms and servers that are being tracked. Also, it explains different options on how to add a new farm or a new server into an existing farm.
+In [this article](#internal/get-to-know-insights/farms-screen) we provided detailed overview of farms and servers that are being tracked. Also, it explains different options on how to add a new farm or a new server into an existing farm.
 
 After all that is done you can start observing the collected data. 
 
@@ -22,7 +22,7 @@ After all that is done you can start observing the collected data.
 
 ## Home
 
-The SysKit Insights home page gives you an overview of a general performance regarding the health of your farms and servers, as well as events, alerts, service status or latency - it depends on whether you have selected a farm or a server. From here, you can access any other tab.
+The SysKit Insights home page gives you an overview of a general performance regarding the health of your farms and servers, as well as events, alerts, service status or latency.  The dashboard view depends on whether you have selected a farm or a server. From the dashboard, you can drill down to any other tab.
 
 - If you have multiple farms you will be able to select a farm from which you want to see the general performance. You can also see the general performance of each server within the chosen farm.
 
@@ -32,7 +32,7 @@ The SysKit Insights home page gives you an overview of a general performance reg
 
 ## Event Viewer
 
-Event Viewer tab provides you with a centralized place to search for ULS, Windows Event and SQL events all over your farm. SysKit Insights uses a layout similar to a search engine to display the results, and it just that - a powerful search engine. 
+Event Viewer tab provides you with a centralized place to search for ULS, Windows Event and SQL events all over your farm. SysKit Insights uses a layout similar to a search engine to display the results, and is just that - a powerful search engine. 
 
 - To start using the Event Viewer first select a farm. If you only have one - an automatic search will be triggered. 
 
@@ -59,7 +59,7 @@ The SysKit Insights Agent relies on performance counters to monitor the server p
 
 The SysKit Insights Alerts page gives you an overview of your alerts. There are five categories: Performance Counters, Events, SharePoint Status, Latency and Page Performance. Alerts are useful because you can be warned about any unwanted performance drops or if a log appeared that matches the query that you wanted to be notified about.
 
-- When you add a new farm, will take a couple of minutes for the servers to initialize and the application to start displaying data.
+- When you add a new farm, it will take a couple of minutes for the servers to initialize and the application to start displaying data.
 
 - Performance counters have predefined thresholds that can be modified to best suit your needs.
 
@@ -93,7 +93,7 @@ SysKit Insights monitors the performance of SharePoint pages by periodically col
 
 In order to fully utilize SysKit Insights' features you need to enable the email notifications. Also, while on the settings page, note the Farms and Agents sections bellow the General Email Settings. 
 
-- You can navigate to the Farms section and tweak the Collection Configuration to best suit your needs. 
+- You can navigate to the Farms section and tweak the collection configuration to best suit your needs. 
 
 - If you wish to change data collection interval, data retention or index size go to Agents section.  
 
