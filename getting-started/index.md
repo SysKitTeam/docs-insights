@@ -22,7 +22,7 @@ After all that is done you can start observing the collected data.
 
 ## Home
 
-The SysKit Insights home page gives you an overview of your index's contents as well as a general performance overview regarding your farm health. 
+The SysKit Insights home page gives you an overview of a general performance regarding the health of your farms and servers, as well as events, alerts, service status or latency - it depends on whether you have selected a farm or a server. From here, you can access any other tab.
 
 - If you have multiple farms you will be able to select a farm from which you want to see the general performance. You can also see the general performance of each server within the chosen farm.
 
@@ -35,6 +35,8 @@ The SysKit Insights home page gives you an overview of your index's contents as 
 Event Viewer tab provides you with a centralized place to search for ULS, Windows Event and SQL events all over your farm. SysKit Insights uses a layout similar to a search engine to display the results, and it just that - a powerful search engine. 
 
 - To start using the Event Viewer first select a farm. If you only have one - an automatic search will be triggered. 
+
+- If you would like to be alerted for events that match a specific query, you can do so in Alert Me option.
 
 - Also, we provided more detailed information on writing the search query. See [this article.](#internal/how-to/search-query)
 
