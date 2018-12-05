@@ -29,6 +29,10 @@ Activate your fully featured version.
 ## [Activation Privacy Statement](activation-privacy-statement.md)
 ## [Activation FAQ](activation-faq.md)
 
+# [Getting Started](getting-started)
+This article will show some of the common use cases and usual steps when using the application for the first time.
+## [](index.md)
+
 
 # [Get to know Syskit Insights](get-to-know-insights)
 Dive into a detailed overview of what Insights has to offer. Check out the available features. 
