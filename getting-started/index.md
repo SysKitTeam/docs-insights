@@ -28,7 +28,7 @@ The SysKit Insights home page gives you an overview of a general performance reg
 
 ![Home Dashboard](#img/home-dashboard.png)
 
->For more details, please use the [performance tab.](#internal/get-to-know-insights/performance-screen) 
+>For more details, please use the [home tab.](#internal/get-to-know-insights/insights-home) 
 
 ## Event Viewer
 
