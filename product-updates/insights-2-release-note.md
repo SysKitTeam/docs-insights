@@ -11,7 +11,7 @@ SysKit Insights now supports SharePoint on-premises, SharePoint Online, and hybr
 Give it a try and let us know what you think!
 
 __Product version:__ 2.0.0  
-__Build number:__ 700    
+__Build number:__ 802    
 __Release date:__ Oct 30, 2018  
 
 [Click here to download the new release.](https://www.syskit.com/products/insights/download/)
