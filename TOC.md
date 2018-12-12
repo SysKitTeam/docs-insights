@@ -44,6 +44,7 @@ Dive into a detailed overview of what Insights has to offer. Check out the avail
 ## [Page Performance Screen](page-performance-screen.md)
 ## [Performance Screen](performance-screen.md)
 ## [Alerts Dashboard](insights-alerts.md)
+## [Health Overview](health-overview.md)
 ## [Farms Screen](farms-screen.md)
 ## [Performance Counters help](performance-counters.md)
 ## [Web Application](web-application.md)
