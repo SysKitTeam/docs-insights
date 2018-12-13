@@ -7,7 +7,6 @@ date: 25/10/2018
 
 The SysKit Insights home page gives you an overview of a general performance regarding the health of your farms and servers, as well as events, alerts, service status or latency. If you are monitoring multiple SharePoint farms, they will all appear here. The metrics shown will change depending on which farm or server is selected.
 
-![Home Dashboard](#img/home-dashboard.png)
 
 ## Farm dashboard
 
@@ -33,4 +32,5 @@ To see the server dashboard, click on any server in the navigation.
 * __Intra-farm Latency__ – Latency status for the selected server.
 
 
+![Home Dashboard](#img/home-dashboard.png)
 

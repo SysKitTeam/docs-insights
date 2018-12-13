@@ -10,7 +10,7 @@ date: 31/1/2018
 Here you can __manage the thresholds__ and the notification settings of every performance counter. They are divided into six categories or templates: General, IIS/ASP.NET, SQL/ SQL(Named), Disk, .NET and Search.
 - __Raise alert__ for this counter - enable this if you wish to receive an alert when the counter reaches warning or critical threshold. Also, if any counter is either in critical or warning state, the entire server on __Performance tab__ will bi marked accordingly.
 - __Thresholds__ - most of the counters have a predefined value. However, these values are not "one size fits all" so you can change them to suit your needs.
-    - Enabling the Threshold checkboxes means that you will be alerted (Alerts tab in the application) when a given counter reaches its critical or warning limit. 
+    - Enabling the Threshold checkbox means that you will be alerted (Alerts tab in the application) when a given counter reaches its critical or warning limit. 
 
 - Send to __default email__ address will send a notification (email) to addresses given in Settings -> Email Settings.
 - Send to __alternate email__ address - here you can define extra emails of people that you wish to receive the notification. 
