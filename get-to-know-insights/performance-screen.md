@@ -35,12 +35,15 @@ There are four option by which you can __group__ the servers. They are:
 
 Sometimes the server will be shown in warning or critical state when none of the four general metrics are in warning or critical state. This indicates that some of the metrics which are not shown on the main dashboard are in critical or warning state.
 
+![Performance Dashboard](#img/performance-dashboard.png)
 
 By clicking on farm name users can navigate to detailed farm overview dashboard and by clicking on specific server the users can navigate to server overview dashboard.
 
 ##  Detailed Farm Overview Dashboard
 
 The detailed farm overview dashboard shows more in-depth data about each server in the farm but is limited to just a single farm. Users can view last fifteen minutes of CPU usage, current RAM usage and status of each disk partition on specific server. This dashboard is also continuously updated as the new data is collected. By clicking on specific server users can navigate to Server Overview Dashboard.
+
+![Detailed Farm Overview Dashboard](#img/detailed-farm-overview.png)
 
 ## Server Overview Dashboard
 
@@ -54,6 +57,8 @@ The server overview dashboard shows all metrics that are collected for each serv
 
 - __SQL__ category – this category is assigned to all SQL servers in SharePoint farms. Each server in Always-On cluster is included as well. These metrics show the SQL server performance.
 
+- __SQL__ __(Named)__ category – this category is shown only if you select a named instance that is in a cluster - counters will be collected specifically for those instances.
+
 - __Search__ category - this templates helps you track a number of 'search' relevant counters on servers in SharePoint farm. Diagnose various problems and performance issues with ease.
 
 If the metric is in a warning or critical state the notification next to the metric name will indicate a problem using a red color to indicate a critical state, or a yellow to indicate a warning.
@@ -62,6 +67,9 @@ The status of each metric is calculated based on the average in the last fifteen
 Hovering over any chart will show a __maximize button__ in the top right corner. Click it to expand the chart over the entire screen. You can toggle __Show thresholds__ button to show or hide the threshold lines (both critical and warning).  
 When the threshold lines are active the chart will scale to fit both the threshold lines and the values. When the threshold lines are turned off, the chart will be rescaled to optimally include only the collected chart values.  
 If the selected chart/counter has __more than one instance__, on the top right of the chart (next to the show thresholds button) there will be a __dropdown__ where you can change the instance you wish to observe.
+
+
+![Performance Screen2](#img/performance-screen2.png)
  
 
 The users can change the time range to view older data. By default SysKit Insights shows data collected during the last sixty minutes. The metric status is still calculated based on the last 15 minutes.

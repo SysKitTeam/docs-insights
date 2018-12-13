@@ -7,6 +7,7 @@ date: 22/5/2017
 
 This article gives a basic overview of how to use Syskit Insights's Event Viewer.
 
+![Event Viewer](#img/event-viewer.png)
 
 ## Use Syskit Insights Event Viewer to search for events
 

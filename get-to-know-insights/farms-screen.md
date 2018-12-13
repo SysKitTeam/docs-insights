@@ -7,7 +7,7 @@ date: 28/02/2018
 
 This article provides detailed overview of farms and servers that are being tracked. Also, it explains different options on how to add a new farm or a new server into an existing farm.
 
-On the main application window click __Farms.__ You will see a number of added farms, servers and a License Server Limit, as well as an overview of all the servers in farms.  
+On the main application window click __Farms.__ You will see a number of added farms, servers and a License Server Limit, as well as an overview of all the servers in farms. You can also see which SQL servers are in a cluster and instances that are monitored. 
 
 # There are three ways to add a new farm:
 ### Add Farm
@@ -35,6 +35,7 @@ You can import farm and servers from SPDocKit database. SPDocKit is SharePoint A
         - Enter the server name, select a role and click __Add server.__ When done click __Save__ and the server will be added to the farm.  
 1. Finally you will see an overview on how many farms and servers you are adding. __Click Finish__ to save your work.
 
+![Farms](#img/farms-screen.png)
 
 # Manage farms:
 Also, you can manage already added farms by clicking the __Manage button.__

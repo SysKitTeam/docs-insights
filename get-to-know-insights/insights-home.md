@@ -5,7 +5,9 @@ author: Tomislav Sirovec
 date: 25/10/2018
 ---
 
-The SysKit Insights home page gives an overview of your indexed content as well as a general performance overview regarding your farm health. If you are monitoring multiple SharePoint farms, they will all appear here. The metrics shown will change depending on which farm is selected.
+The SysKit Insights home page gives you an overview of a general performance regarding the health of your farms and servers, as well as events, alerts, service status or latency. If you are monitoring multiple SharePoint farms, they will all appear here. The metrics shown will change depending on which farm or server is selected.
+
+![Home Dashboard](#img/home-dashboard.png)
 
 ## Farm dashboard
 

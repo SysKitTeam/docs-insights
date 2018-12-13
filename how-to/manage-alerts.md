@@ -7,7 +7,7 @@ date: 31/1/2018
 
 # Performance Counters
 
-Here you can __manage the thresholds__ and the notification settings of every performance counter. They are divided into six categories or templates: General, IIS/ASP.NET, SQL, Disk, .NET and Search.
+Here you can __manage the thresholds__ and the notification settings of every performance counter. They are divided into six categories or templates: General, IIS/ASP.NET, SQL/ SQL(Named), Disk, .NET and Search.
 - __Raise alert__ for this counter - enable this if you wish to receive an alert when the counter reaches warning or critical threshold. Also, if any counter is either in critical or warning state, the entire server on __Performance tab__ will bi marked accordingly.
 - __Thresholds__ - most of the counters have a predefined value. However, these values are not "one size fits all" so you can change them to suit your needs.
     - Enabling the Threshold checkboxes means that you will be alerted (Alerts tab in the application) when a given counter reaches its critical or warning limit. 
@@ -29,10 +29,6 @@ If you want to edit an already existing alert navigate to aforementioned list of
 # SharePoint Status
 
 ## Site collection alerts
-### Following site collections are unavailable
-* Check this for SysKit Insights to periodically check if the given site is online. SysKit Insights will try to access the site using the Service Account credentials.
-*  This can be done with any additional Windows service — please [contact us.](https://www.syskit.com/company/contact-us/) By default, this is not possible in SysKit Insights v1, but we can show you a trick ;).
-
 ### Central Administration status is changed
 * We will continuously ping the Central Administration site and notify you if it is not accessible. By default, you will receive an alert every 30 minutes.
 

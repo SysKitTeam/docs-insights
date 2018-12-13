@@ -5,7 +5,7 @@ author: Tomislav Sirovec
 date: 19/02/2018
 ---
 
-The SysKit Insights Alerts page gives you an overview of your alerts. There are three categories:
+The SysKit Insights Alerts page gives you an overview of your alerts. There are five categories:
 
 ## Performance Counters
 
@@ -31,8 +31,13 @@ See the [Manage Alerts](#internal/how-to/manage-alerts) article to see how you c
 > __Please note!__ - To check (ping) a SharePoint site we are using the credentials of the service account you provided during the configuration of the SysKit Insights. Also, it is not possible to use forms authentication. 
 
 ## Latency
+
 The Latency tab will automatically populate as soon as the application finishes the first ping interval. That usually happens within 15 minutes of starting the application.
 The columns provided here are: Farm, Server, Bad Pings (number of), and Time. Click on the desired line to open the latency intervals details on the right side of the screen. This shows the __maximum latency__ in that interval, number of pings sent and received, and number of pings that took longer than 1 ms.
+
+## Page Performance
+
+The Page Performance tab will only populate if you have added SharePoint pages to monitor. X-SPHealthScore and Page Response Time headers are monitored by default. For more information about Page Performance, [click here](#internal/get-to-know-insights/page-performance-screen).
 
 ## Sending the notification
 
