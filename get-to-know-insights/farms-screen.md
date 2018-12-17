@@ -7,7 +7,7 @@ date: 28/02/2018
 
 This article provides detailed overview of farms and servers that are being tracked. Also, it explains different options on how to add a new farm or a new server into an existing farm.
 
-On the main application window click __Farms.__ You will see a number of added farms, servers and a License Server Limit, as well as an overview of all the servers in farms.  
+On the main application window click __Farms.__ You will see a number of added farms, servers and a License Server Limit, as well as an overview of all the servers in farms. You can also see which SQL servers are in a cluster and instances that are monitored. 
 
 # There are three ways to add a new farm:
 ### Add Farm
@@ -35,7 +35,6 @@ You can import farm and servers from SPDocKit database. SPDocKit is SharePoint A
         - Enter the server name, select a role and click __Add server.__ When done click __Save__ and the server will be added to the farm.  
 1. Finally you will see an overview on how many farms and servers you are adding. __Click Finish__ to save your work.
 
-
 # Manage farms:
 Also, you can manage already added farms by clicking the __Manage button.__
 - You can configure server roles, edit ULS Path, modify detected farms' name or remove servers from a farm. 
@@ -43,3 +42,10 @@ Also, you can manage already added farms by clicking the __Manage button.__
     - Enter the server name, select a role and click __Add server.__ When done click __Save__ and the server will be added to the farm.  
 - Note that you can also add 3rd party servers, such as: Office Web Apps Server...         
 - When done, click __Save__ to confirm your changes. 
+
+
+![Farms](#img/farms-screen.png)
+
+# Refresh farm configuration:
+In case a new server is added to a farm, you do not need to add it manually. Click the button __Refresh Farm Configuration__ and all new servers will be added. Also, ULS location, if changed in the mean time, will also be updated.  
+A system job will also perform this refresh automatically every night at 4:00. 
