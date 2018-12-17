@@ -5,12 +5,12 @@ author: Lucija Sopic
 date: 12/12/2018
 ---
 
-The SysKit Insights Health Overview gives you an overview on the health of your farms which is based on the colleceted data for a selected farm and a time interval. Overview can be generated in two time intervals - from yesterday or last 7 days. It shows trend comparisons from the current interval and previously finished time interval (in percentages). Report is divided in sections:
+The SysKit Insights Health Overview gives you an overview on the health of your farms which is based on the collected data for a selected farm and a time interval. Overview can be generated in two time intervals - Yesterday or Last 7 days. It shows trend comparisons from the current interval and previously finished time interval (in percentages). Report is divided in sections:
 
 
 ## Events
 Events section shows you the overview of events and collected logs within the selected time interval. It has two categories:
-- Index size - Total disk size taken by SysKit Insights and how much it has grown since the beginnig of the interval. Its' growth depends upon farm size. Reaching maximum limit will stop Insights from collecting data.
+- Index size - Total disk size taken by SysKit Insights and how much it has grown since the beginning of the interval. Its' growth depends upon farm size. Reaching maximum limit will stop Insights from collecting data.
 - Entries - Overview of entries from the interval. Entries are sorted by level (Critical, Unexpected, Warning, Error and Exception) and by type (ULS, SQL and Event Log).
 
 
@@ -28,7 +28,7 @@ Performance section shows the performance overview for the farm in the selected 
 
 
 ## Alerts
-Alerts section shows the amount of alerts generated in the time interval and which types of alerts were occuring most frequently during the interval.
+Alerts section shows the amount of alerts generated in the time interval and which types of alerts were occurring most frequently during the interval.
 
 
 >For detailed information on Alerts [see this article.](#internal/get-to-know-insights/insights-alerts)
@@ -49,7 +49,7 @@ Page Performance section shows the performance overview in the time interval of 
 
 
 ## Latency 
-Latency section shows the latency statistics for average ping time between the servers of your farm in the selected interval. It shows if there was high latency on servers. Microsoft's standards recommed that pings should take less than 1ms to avoid bad user experience. Pings are collected every 10 minutes.
+Latency section shows the latency statistics for average ping time between the servers of your farm in the selected interval. It shows if there was high latency on servers. Microsoft's standards recommend that pings should take less than 1ms to avoid bad user experience. Pings are collected every 10 minutes.
 
 
 >For detailed information about Latency, see [this article.](#internal/get-to-know-insights/latency-screen)
