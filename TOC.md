@@ -6,6 +6,7 @@ private: true
 
 # [Product Updates](product-updates)
 Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade. 
+## [SysKit Insights 3.0.0](insights-3-release-note.md)
 ## [SysKit Insights 2.0.0](insights-2-release-note.md)
 ## [SysKit Insights 1.1.1](insights-1-1-1-release-note.md)
 ## [SysKit Insights 1.1.0](insights-1-1-release-note.md)
