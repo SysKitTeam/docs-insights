@@ -45,3 +45,7 @@ Also, you can manage already added farms by clicking the __Manage button.__
 
 
 ![Farms](#img/farms-screen.png)
+
+# Refresh farm configuration:
+In case a new server is added to a farm, you do not need to add it manually. Click the button __Refresh Farm Configuration__ and all new servers will be added. Also, ULS location, if changed in the mean time, will also be updated.  
+A system job will also perform this refresh automatically every night at 4:00. 
