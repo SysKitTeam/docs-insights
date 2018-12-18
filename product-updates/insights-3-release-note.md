@@ -17,12 +17,13 @@ __Release date:__ Dec 19, 2018
 
 ## Features
 
-- Health Overview report - Receive daily or weekly pdf reports about the state of your environments. Schedule the report to arrive either daily or weekly. For detailed information see [this article](#internal/get-to-know-insights/health-overview).
-- __Refresh Farm Configuration.__ In case a new server is added to a farm, you do not need to add it manually. Click the button __Refresh Farm Configuration__ on the [Farms tab](#internal/get-to-know-insights/farms-screen) and all new servers will be added.
+- Health Overview report: Receive a daily or weekly pdf report about the state of your environments . Schedule the report to arrive either daily or weekly. For detailed information, see [this article](#internal/get-to-know-insights/health-overview).
+- __Refresh Farm Configuration.__ When adding a new server to a farm, you don’t need to add it manually. Simply click the Refresh Farm Configuration button on the [Farms tab](#internal/get-to-know-insights/farms-screen) and all new servers will be added.
+
 
 
 ## Improvements
-- We improved the way we detect and handle SQL clusters, and in general __all high availability technologies.__ In addition, __SQL named instances are now fully supported.__
+- We have improved the way we detect and handle SQL clusters, and in general __all high availability technologies.__ In addition, __SQL named instances are now fully supported.__
 - When sending an Event Alert email, we now attach an excel file containing all the relevant logs. 
 
 ## Bug fixes

@@ -5,7 +5,7 @@ author: Tomislav Sirovec
 date: 24/07/2018
 ---
 
-The SysKit Insights latency screen gives you a detailed overview of all the ping intervals made.  
+The SysKit Insights latency screen gives you a detailed overview of all the ping intervals recorded.
 
 According to [Microsoft's guidelines](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements), intra-farm latency should be <1 ms one way 99.9% of the time over a period of ten minutes.
 Microsoft defines Intra-farm latency as the latency between the front-end web servers and the database servers. However, we take it a step further and ping __every__ server in the farm, not just the database server.
