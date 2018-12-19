@@ -10,7 +10,7 @@ SysKit Insights 3.0 has arrived. This version will provide SharePoint admins and
 Give it a try and let us know what you think!
 
 __Product version:__ 3.0.0  
-__Build number:__ ????    
+__Build number:__ 852 
 __Release date:__ Dec 19, 2018  
 
 [Click here to download the new release.](https://www.syskit.com/products/insights/download/)
@@ -25,6 +25,4 @@ __Release date:__ Dec 19, 2018
 ## Improvements
 - We have improved the way we detect and handle SQL clusters, and in general __all high availability technologies.__ In addition, __SQL named instances are now fully supported.__
 - When sending an Event Alert email, we now attach an excel file containing all the relevant logs. 
-
-## Bug fixes
-- Numerous bug fixes and improvements.
+- Minor bug fixes and improvements.

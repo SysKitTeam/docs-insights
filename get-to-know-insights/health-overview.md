@@ -1,5 +1,5 @@
 --- 
-title: SysKit Health Overview
+title: Health Overview
 description: The SysKit Insights Health Overview gives you an overview on the health of your farms
 author: Lucija Sopic
 date: 12/12/2018
