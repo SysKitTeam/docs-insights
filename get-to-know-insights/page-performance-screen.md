@@ -21,7 +21,7 @@ __Add New Page__
     - If you want to monitor a __SharePoint Online site__, a popup window will ask you to provide the required credentials. When prompted to remember the login, make sure to click __yes__. The benefits are:
         - Credentials will be reused for all connections to the same tenant.
         - The credentials will be valid for more than 5 days.
-        - For more about monitoring SharePoint Online sites, [click here](internal/how-to/spo-pp).
+        - For more about monitoring SharePoint Online sites, [click here](#internal/how-to/spo-pp).
 
 The pages added will be shown on the Page Performance dashboard.
 
