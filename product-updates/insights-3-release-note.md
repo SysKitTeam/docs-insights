@@ -10,7 +10,7 @@ SysKit Insights 3.0 has arrived. This version will provide SharePoint admins and
 Give it a try and let us know what you think!
 
 __Product version:__ 3.0.0  
-__Build number:__ 853
+__Build number:__ 853  
 __Release date:__ Dec 19, 2018  
 
 [Click here to download the new release.](https://www.syskit.com/products/insights/download/)
