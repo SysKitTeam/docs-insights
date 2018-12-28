@@ -1,5 +1,5 @@
 ---
-title: SysKit Insights Performance 
+title: SysKit Insights Performance
 description: Detailed overview on how to set up SysKit Insights to use HTTPS.
 author: Hrvoje Bagarić
 date: 28/07/2018
@@ -14,10 +14,12 @@ There are a couple of steps needed to set up the SysKit Insights Web Application
 
 ## 1. Setup SysKit Insights
 
-The first thing to do is to stop both SysKit Insights Agent and SysKit Insights Maintenance Job in the Windows Services window on a server where SysKit Insights is installed. After both services are stopped (SysKit Insights Agent can take some time to stop), the file at %ProgramData%/SysKit/Insights/Service/settings.xml has to be modified. Using any text editor, set tag “SslEnabled” to “true”. After modifying the file, there needs to be the following tag in the file:
-```xml
+The first thing to do is to stop both SysKit Insights Agent and SysKit Insights Maintenance Job in the Windows Services window on a server where SysKit Insights is installed. After both services are stopped \(SysKit Insights Agent can take some time to stop\), the file at %ProgramData%/SysKit/Insights/Service/settings.xml has to be modified. Using any text editor, set tag “SslEnabled” to “true”. After modifying the file, there needs to be the following tag in the file:
+
+```markup
 <SslEnabled>true</SslEnabled>
 ```
+
 This setting will configure SysKit Insights to serve its web application over HTTPS.
 
 ## 2. Set up URL reservation
@@ -26,10 +28,12 @@ In order to set up SysKit Insights to serve content over HTTPS, users have to ma
 
 Once the certificate is obtained, it has to be installed to the Trusted Root Certification Authorities on the server that is hosting the SysKit Insights web application.
 
-After the certificate is installed, users need to execute the following commands (the command prompt or PowerShell shell has to be open with the local administrator account):
-```
+After the certificate is installed, users need to execute the following commands \(the command prompt or PowerShell shell has to be open with the local administrator account\):
+
+```text
 C:\> netsh http add urlacl url=https://+:{insightsPort}/ user=Everyone
 C:\> netsh http add sslcert ipport=0.0.0.0:{insightsPort} certhash={certificate hash} appid='{{unique guid}}'
-``` 
+```
 
-__Note:__ When using HTTPS, SysKit Insights requires you to confirm the agent URL on each startup. If no changes were made, click the Set button, and you are good to go. 
+**Note:** When using HTTPS, SysKit Insights requires you to confirm the agent URL on each startup. If no changes were made, click the Set button, and you are good to go.
+
