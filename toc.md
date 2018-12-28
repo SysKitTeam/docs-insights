@@ -1,0 +1,123 @@
+---
+title: Table of Contents
+private: true
+---
+
+# TOC
+
+## [Product Updates](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/product-updates/README.md)
+
+Check out the new Syskit Insights version delights. See the changes in the latest version and upgrade.
+
+### [SysKit Insights 3.0.0](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/insights-3-release-note.md)
+
+### [SysKit Insights 2.0.0](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/insights-2-release-note.md)
+
+### [SysKit Insights 1.1.1](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/insights-1-1-1-release-note.md)
+
+### [SysKit Insights 1.1.0](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/insights-1-1-release-note.md)
+
+### [SysKit Insights - SharePoint performance monitoring and troubleshooting](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/insights1-release-note.md)
+
+## [Requirements](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/requirements/README.md)
+
+Make sure that your environment and the account used for the application meet Syskit Insights requirements.
+
+### [System Requirements](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/system-requirements.md)
+
+### [User Permissions Requirements](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/user-permissions-requirements.md)
+
+## [Installation](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/installation/README.md)
+
+Learn how to install SysKit Insights or update it to the latest version.
+
+### [Installation Guide](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/installation-guide.md)
+
+### [Uninstallation Guide](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/uninstallation-guide.md)
+
+## [Activation](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/activation/README.md)
+
+Activate your fully featured version.
+
+### [Activation - Online and Offline](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/online-offline-activation.md)
+
+### [Activation Privacy Statement](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/activation-privacy-statement.md)
+
+### [Activation FAQ](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/activation-faq.md)
+
+## [Getting Started](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/getting-started/README.md)
+
+This article will show some of the common use cases and usual steps when using the application for the first time.
+
+### 
+
+## [Get to know Syskit Insights](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/get-to-know-insights/README.md)
+
+Dive into a detailed overview of what Insights has to offer. Check out the available features.
+
+### [Home Dashboard](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/insights-home.md)
+
+### [Event Viewer Dashboard](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/event-viewer.md)
+
+### [Performance Screen](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/performance-screen.md)
+
+### [Alerts Dashboard](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/insights-alerts.md)
+
+### [Latency Screen](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/latency-screen.md)
+
+### [Page Performance Screen](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/page-performance-screen.md)
+
+### [Performance Screen](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/performance-screen.md)
+
+### [Alerts Dashboard](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/insights-alerts.md)
+
+### [Health Overview](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/health-overview.md)
+
+### [Farms Screen](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/farms-screen.md)
+
+### [Performance Counters help](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/performance-counters.md)
+
+### [Web Application](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/web-application.md)
+
+## [How To](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/how-to/README.md)
+
+Explore all possible configuration scenarios and choose the right one for your environment.
+
+### [Customize Settings](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/customize-settings.md)
+
+### [Manage Alerts](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/manage-alerts.md)
+
+### [Add additional services to alerts](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/add-additional-services-alert.md)
+
+### [Disable the PC instance you do not wish to track](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/disable-pc-instance.md)
+
+### [Search Query](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/search-query.md)
+
+### [Set up HTTPS](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/set-up-https.md)
+
+### [SharePoint Online Page Performance](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/spo-pp.md)
+
+## [Known Issues](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/known-issues/README.md)
+
+Even the best of us fail sometimes. We are working on it.
+
+### [Performance Counters Graphs](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/performance-counters-laptop-sleeping.md)
+
+### [Scanning the AD](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/scan-ad-server-number.md)
+
+### [SQL Cluster Issues](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/sql-cluster-issues.md)
+
+### [SQL server instance is not default](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/not-default-sql-instance.md)
+
+### [Page Performance via Web App](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/webapp-page-performance.md)
+
+### [SQL Log collection from a Cluster](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/servers-in-cluster.md)
+
+## [FAQ](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/faq/README.md)
+
+These are some of the most common questions and answers about SysKit Insights. If you cannot find the answer to your problem, please contact us.
+
+### [Miscellaneous](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/miscellaneous.md)
+
+### [Index Location Migration](https://github.com/SysKitTeam/docs-insights/tree/f86fb4e0c57e06ab9945f96fd2a1bfdb4518dee4/index-location-migration.md)
+

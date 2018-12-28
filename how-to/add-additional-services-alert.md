@@ -1,11 +1,10 @@
----
-title: Add custom Services alert
-description: This article explains how to add a custom Service alert to the application. 
-author: Tomislav Sirovec
-date: 28/9/2018
---- 
+# add-additional-services-alert
 
-If you wish to __track additional services__, this article explains how to add a custom Service alert into the application.  
+title: Add custom Services alert description: This article explains how to add a custom Service alert to the application. author: Tomislav Sirovec
+
+## date: 28/9/2018
+
+If you wish to **track additional services**, this article explains how to add a custom Service alert into the application.  
 Run the following script against the SysKit Insights database.
 
 ```sql
@@ -25,6 +24,7 @@ From [dbo].[Farms] as Farm
 WHERE Farm.Name = {FarmName}
 ```
 
-Replace the properties in curly brackets (AlertName and FarmName) and input the Service name you wish to start tracking. Most common request we have been receiving is to add a Workflow Manager Service. In that case you would input: WorkflowServiceBackend as that is the __service name.__ 
+Replace the properties in curly brackets \(AlertName and FarmName\) and input the Service name you wish to start tracking. Most common request we have been receiving is to add a Workflow Manager Service. In that case you would input: WorkflowServiceBackend as that is the **service name.**
 
 If you require more assistance with this issue, don't hesitate to [ask us.](https://www.syskit.com/company/contact-us/)
+
