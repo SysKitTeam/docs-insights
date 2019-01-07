@@ -1,8 +1,3 @@
 ---
 layout: listing.pug
 ---
-
-# index
-
-
-
