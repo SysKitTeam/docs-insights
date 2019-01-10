@@ -16,7 +16,7 @@ __Release date:__ Jan 9, 2019
 
 ## Improvements
 
-- SysKit Insights will constantly monitor your servers and send you real-time email alerts when one or more of your servers go offline. You will know at what time exactly your servers become unavailable, and at what time it came back online.
+- SysKit Insights will constantly monitor your servers and send you real-time email alerts when one or more of your servers go offline. You will know at what time exactly your servers become unavailable.
 - You can now allow web app access to individual users or security groups. You don’t have to add individual users anymore, but simply allow access to groups such as IT department or SharePoint Admins, and if someone new joins the group they will automatically have app access.
 - Minor bug fixes and improvements.
 
