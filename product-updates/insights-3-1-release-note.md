@@ -9,8 +9,8 @@ This is a minor release and it brings some quality of life improvements.
 
 
 __Product version:__ 3.1.0  
-__Build number:__ ???  
-__Release date:__ Jan 9, 2019  
+__Build number:__ 897  
+__Release date:__ Jan 10, 2019  
 
 [Click here to download the new release.](https://www.syskit.com/products/insights/download/)
 
