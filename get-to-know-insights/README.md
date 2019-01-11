@@ -1,2 +1,0 @@
-# get-to-know-insights
-
