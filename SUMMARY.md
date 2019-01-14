@@ -5,7 +5,7 @@
   * [Not Default SQL Instance](known-issues/not-default-sql-instance.md)
   * [SQL Cluster Issues](known-issues/sql-cluster-issues.md)
   * [performance-counters-laptop-sleeping](known-issues/performance-counters-laptop-sleeping.md)
-  * [scan-ad-server-number](known-issues/scan-ad-server-number.md)
+  * [Scan AD Server Number](known-issues/scan-ad-server-number.md)
   * [index](known-issues/index.md)
   * [webapp-page-performance](known-issues/webapp-page-performance.md)
 * [get-to-know-insights](get-to-know-insights/README.md)
