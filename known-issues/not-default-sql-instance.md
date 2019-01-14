@@ -7,7 +7,7 @@ author: Tomislav Sirovec
 date: 19/09/2018
 ---
 
-# not-default-sql-instance
+# Not-Default SQL Instance
 
 **Summary:** SQL server instance name that is being used for SharePoint is not default MSSQL's.
 

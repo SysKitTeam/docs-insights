@@ -1,8 +1,8 @@
 # Table of contents
 
 * [README](README.md)
-* [known-issues](known-issues/README.md)
-  * [not-default-sql-instance](known-issues/not-default-sql-instance.md)
+* [Known Issues](known-issues/README.md)
+  * [Not-Default SQL Instance](known-issues/not-default-sql-instance.md)
   * [sql-cluster-issues](known-issues/sql-cluster-issues.md)
   * [performance-counters-laptop-sleeping](known-issues/performance-counters-laptop-sleeping.md)
   * [scan-ad-server-number](known-issues/scan-ad-server-number.md)
