@@ -5,7 +5,7 @@ author: Tomislav Sirovec
 date: 28/06/2018
 ---
 
-# sql-cluster-issues
+# SQL Cluster Issues
 
 The problem appears when working with servers that are a member of a Failover Cluster or Always On Availability Group.
 
