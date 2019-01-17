@@ -1,13 +1,11 @@
 ---
 title: SysKit Insights Agent migration FAQ
-description: Article will explain how to change the index location.
+description: This article will explain how to change the index location.
 author: Tomislav Sirovec
 date: 21/08/2018
 ---
 
-# index-location-migration
-
-This article will explain how to change the index location.
+# Index Location Migration
 
 ## Change the index location to a different server or **migrate the SPDocKit Insights Agent**
 

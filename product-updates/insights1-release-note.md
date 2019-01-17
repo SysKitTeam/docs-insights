@@ -7,7 +7,7 @@ author: Iva Novoselic
 date: 6/3/2018
 ---
 
-# insights1-release-note
+# SysKit Insights - SharePoint performance monitoring and troubleshooting
 
 Performance monitoring is always hot topic when you are dealing with SharePoint. People may have different points of view of what exactly SharePoint performance monitoring is, but they will have one common thought: being proactive and knowing your environment's state at any time of day is always the way to go.
 
@@ -27,9 +27,9 @@ The tool offers three possibilities – adding a single farm, scanning the entir
 * **Scan** – run SysKit Insights wizard to crawl the entire environment and present all accessible farms you might want to monitor. If you don't want to crawl the entire domain, choose a specific Organization Unit in which SysKit Insights will look for the farms. 
 * **Import from SPDocKit** – if you already have SPDocKit installed in your environment, you can connect it with SysKit Insights and all the servers you are monitoring with SPDocKit will be added and monitored automatically.
 
-Read more about [Farms screen](insights1-release-note.md#internal/get-to-know-insights/farms-screen) possibilities and management options.
+Read more about [Farms screen](../get-to-know-insights/farms-screen.md) possibilities and management options.
 
-![Farms Screen](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/product-updates/#img/farms.png)
+![](../.gitbook/assets/farms.png)
 
 ## Home Dashboard – Global health overview of your environment
 
@@ -39,9 +39,9 @@ The **Performance** part will alert you to the top 5 critical servers when it co
 
 The other part of the Home screen will show you how many **Event Viewer** entries were detected per farm, sorted by source, server, and level. The “Entries by day” chart can help you detect trends on which days are the most critical when it comes to number of issues with regards to ULS, event log, or SQL entries.
 
-Read more about [Home Dashboard](insights1-release-note.md#internal/get-to-know-insights/insights-home).
+Read more about [Home Dashboard.](../get-to-know-insights/insights-home.md)
 
-![Home Dashboard](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/product-updates/#img/home.png)
+![](../.gitbook/assets/home.png)
 
 ## Event Viewer – The ultimate ally for searching through ULS, Windows event, and SQL logs
 
@@ -51,9 +51,9 @@ With SysKit Insights, you no longer have to manually search for important ULS or
 
 If you wish to proactively track a certain issue or keyword, you can create an alert to receive notifications at a specified email address or just monitor them from the SysKit Insights Alerts tab.
 
-Read more about [Event Viewer](insights1-release-note.md#internal/get-to-know-insights/event-viewer) functionality.
+Read more about [Event Viewer](../get-to-know-insights/event-viewer.md) functionality.
 
-![Event Viewer](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/product-updates/#img/event-viewer-screen.png)
+![](../.gitbook/assets/event-viewer-screen.png)
 
 ## Performance Dashboards – One screen to rule all performance counters
 
@@ -65,9 +65,9 @@ SysKit Insights can save performance data up to 30 days, so you can **use histor
 
 Create performance alerts to actively monitor all your servers and receive email notifications when something goes wrong. Acting in time will prevent your SharePoint from becoming slow or even going down.
 
-Read more about [Performance](insights1-release-note.md#internal/get-to-know-insights/performance-screen) functionality.
+Read more about [Performance](../get-to-know-insights/performance-screen.md) functionality.
 
-![Performance](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/product-updates/#img/performance.png)
+![](../.gitbook/assets/performance.png)
 
 ## Alerts and Notifications – See what has been going on while you weren't looking
 
@@ -75,15 +75,15 @@ To keep up with potential bottlenecks and problems detected in your environment,
 
 Use the **Manage Alerts** button to add new alerts, change thresholds for critical and warning states, or modify current alert settings.
 
-Read more about [Alerts](insights1-release-note.md#internal/get-to-know-insights/insights-alerts).
+Read more about [Alerts.](../get-to-know-insights/insights-alerts.md)
 
-![Alerts](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/product-updates/#img/alerts.png)
+![](../.gitbook/assets/alerts.png)
 
 ## Settings – Modify SysKit Insights configuration to completely match your needs
 
 For complete control of SysKit Insights, check out the Settings section. Here you can **configure the email settings needed to send email notifications, modify which logs will be collected, and other data collection options**.
 
-Read more about available configurable [Settings](insights1-release-note.md#internal/how-to/customize-settings).
+Read more about available configurable [Settings.](../how-to/customize-settings.md)
 
 ## Tell us what you think!
 

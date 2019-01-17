@@ -1,13 +1,11 @@
 ---
 title: Query SysKit Insights Event Viewer
-description: How to write search queries in SysKit Insights.
+description: This article will explain how to write SysKit Insights search queries.
 author: Vinko Bedek
 date: 19/5/2017
 ---
 
-# search-query
-
-This article will explain how to write SysKit Insights search queries.
+# Search Query
 
 ## Search
 
@@ -125,6 +123,4 @@ There are a couple of exceptions:
 * Server
 * Source
 * Message
-
-  &lt;/ul&gt;
 

@@ -5,7 +5,7 @@ author: Tomislav Sirovec
 date: 17/01/2018
 ---
 
-# Scan AD Server Number
+# Scanning the AD
 
 ## **Summary**
 
@@ -16,5 +16,5 @@ For example if you have an OU named SharePointFarm with 7 SharePoint servers, bu
 ## **Solution**
 
   
-After the discovery process is finished go to the **Alerts tab -&gt; click Manage.** Locate the Farm in which you have missing servers -&gt; click **Add Server** and manually add the missing server. You will need to provide a Server Name and a Server Role\(s\). For more information on how to do this [see this](scan-ad-server-number.md#internal/get-to-know-insights/farms-screen#ManageFarms) article.
+After the discovery process is finished go to the **Alerts tab -&gt; click Manage.** Locate the Farm in which you have missing servers -&gt; click **Add Server** and manually add the missing server. You will need to provide a Server Name and a Server Role\(s\). For more information on how to do this see [this article.](../get-to-know-insights/farms-screen.md)
 

@@ -1,15 +1,14 @@
 ---
 title: SysKit Insights Farms Screen
 description: >-
-  Detailed overview farms and servers that are being tracked. Also, different
-  options on how to add a new farm or a server into existing farm.
+  This article provides detailed overview of farms and servers that are being
+  tracked. Also, it explains different options on how to add a new farm or a new
+  server into an existing farm.
 author: Tomislav Sirovec
 date: 28/02/2018
 ---
 
-# farms-screen
-
-This article provides detailed overview of farms and servers that are being tracked. Also, it explains different options on how to add a new farm or a new server into an existing farm.
+# Farms Screen
 
 On the main application window click **Farms.** You will see a number of added farms, servers and a License Server Limit, as well as an overview of all the servers in farms. You can also see which SQL servers are in a cluster and instances that are monitored.
 
@@ -51,7 +50,7 @@ Also, you can manage already added farms by clicking the **Manage button.**
 * Note that you can also add 3rd party servers, such as: Office Web Apps Server...         
 * When done, click **Save** to confirm your changes. 
 
-![Farms](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/get-to-know-insights/#img/farms-screen.png)
+![](../.gitbook/assets/farms-screen.png)
 
 ## Refresh farm configuration:
 

@@ -1,8 +1,10 @@
-# disable-pc-instance
+---
+description: >-
+  This article explains how to disable the instance (hard drive) you do not wish
+  to track.
+---
 
-title: Disable the instance \(hard drive\) you do not wish to track. description: This article explains how to disable the instance \(hard drive\) you do not wish to track. author: Tomislav Sirovec
-
-## date: 28/9/2018
+# Disable the PC instance you do not wish to track
 
 In case there is an instance or an entire hard drive you do not wish to track, here is how you can **disable them.**
 

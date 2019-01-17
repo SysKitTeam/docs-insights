@@ -1,8 +1,8 @@
-# add-additional-services-alert
+---
+description: This article explains how to add a custom Service alert to the application.
+---
 
-title: Add custom Services alert description: This article explains how to add a custom Service alert to the application. author: Tomislav Sirovec
-
-## date: 28/9/2018
+# Add additional services to alerts
 
 If you wish to **track additional services**, this article explains how to add a custom Service alert into the application.  
 Run the following script against the SysKit Insights database.

@@ -2,10 +2,10 @@
 title: Uninstallation Guide
 author: Tomislav Sirovec
 date: 08/03/2018
-description: This article explains how to uninstall SysKit Insights.
+description: This article describes how to uninstall SysKit Insights.
 ---
 
-# uninstallation-guide
+# Uninstallation Guide
 
 We are sorry to hear you are leaving the SysKit family, but here are the steps how to uninstall the **SysKit Insights**.
 
@@ -15,7 +15,9 @@ We are sorry to hear you are leaving the SysKit family, but here are the steps h
 4. Click **Next** and wait for the wizard to remove Insights.
 5. Your SysKit Insights application has been successfully removed!
 
+{% hint style="warning" %}
 Please note! SysKit Insights database will not be removed automatically from your SQL Server. Nor will index data be deleted from the disk.
+{% endhint %}
 
 If you have any suggestions how to improve our product, wish to express your dissatisfaction or share the reason why you removed our application, please feel free to [contact us](https://www.syskit.com/company/contact-us/).
 

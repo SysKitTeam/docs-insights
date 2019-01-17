@@ -1,13 +1,13 @@
 ---
 title: System Requirements
 description: >-
-  This article discusses the hardware and software requirements that are
+  This article discusses the hardware and software requirements that are 
   necessary in order to install the SysKit Insights.
 author: Tomislav Sirovec
 date: 17/01/2018
 ---
 
-# system-requirements
+# System Requirements
 
 ## Software
 

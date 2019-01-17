@@ -1,13 +1,13 @@
 ---
 title: SysKit Insights Page Performance
-description: Detailed overview on how the SysKit Insights monitors Page Performance.
+description: >-
+  SysKit Insights monitors the performance of SharePoint pages by periodically
+  collecting page performance data.
 author: Tomislav Sirovec
 date: 22/10/2018
 ---
 
-# page-performance-screen
-
-SysKit Insights monitors the performance of SharePoint pages by periodically collecting page performance data.
+# Page Performance Screen
 
 First you need to:
 
@@ -20,7 +20,7 @@ First you need to:
    * If you want to monitor a **SharePoint Online site**, a popup window will ask you to provide the required credentials. When prompted to remember the login, make sure to click **yes**. The benefits are:
      * Credentials will be reused for all connections to the same tenant.
      * The credentials will be valid for more than 5 days.
-     * For more about monitoring SharePoint Online sites, [click here](page-performance-screen.md#internal/how-to/spo-pp).
+     * For more about monitoring SharePoint Online sites, [click here.](../how-to/spo-pp.md)
 
 The pages added will be shown on the Page Performance dashboard.
 
@@ -28,7 +28,7 @@ The pages added will be shown on the Page Performance dashboard.
 
 **The data shown here are average values**, calculated for the period selected in the data range filter, which is by default the last 24h.
 
-If you want to receive a notification when a metric exceeds its threshold, then set up an alert. For more information on how to do so, please see [this article](page-performance-screen.md#internal/how-to/manage-alerts#page-performance).
+If you want to receive a notification when a metric exceeds its threshold, then set up an alert. For more information on how to do so, please see [this article.](../how-to/manage-alerts.md#page-performance)
 
 Metrics over their threshold will be red on the dashboard. If they are under their threshold, they will be green.
 

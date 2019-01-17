@@ -7,7 +7,7 @@ author: Tomislav Sirovec
 date: 17/12/2018
 ---
 
-# insights-3-1-release-note
+# SysKit Insights 3.1.0
 
 This is a minor release and it brings some quality of life improvements.
 

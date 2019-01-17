@@ -1,4 +1,4 @@
-# get-to-know-insights
+# Get to know Syskit Insights
 
 
 

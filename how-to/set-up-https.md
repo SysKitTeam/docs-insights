@@ -5,7 +5,7 @@ author: Hrvoje Bagarić
 date: 28/07/2018
 ---
 
-# set-up-https
+# Set up HTTPS
 
 There are a couple of steps needed to set up the SysKit Insights Web Application to use HTTPS instead of HTTP. If there are multiple agents connected to the same database, the following steps need to be performed on all the servers where SysKit Insights is installed:
 

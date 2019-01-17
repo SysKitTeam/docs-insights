@@ -2,7 +2,7 @@
 private: true
 ---
 
-# README
+# SysKit Insights
 
 SysKit Insights is a powerful tool for monitoring and troubleshooting your SharePoint environment. It combines all the features necessary for keeping you farms healthy and even alerts you in real-time if something goes wrong
 

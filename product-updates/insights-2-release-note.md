@@ -7,7 +7,7 @@ author: Tomislav Sirovec
 date: 22/10/2018
 ---
 
-# insights-2-release-note
+# SysKit Insights 2.0.0
 
 This release is all about the **Page Performance!** From now on, you can monitor End-User Experience and proactively track if your SharePoint pages are slow for your users.  
 SysKit Insights now supports SharePoint on-premises, SharePoint Online, and hybrid SharePoint environments. You can easily monitor simple but essential information like page's uptime, load time, or more complex, like every loaded element of a page to find the cause of the slowdown.
@@ -26,7 +26,7 @@ Give it a try and let us know what you think!
   **Receive alerts and spot critical metrics** for each monitored page. You can also export SharePoint page performance metrics and drill down to find trends and improve the experience for your users.  
   Oh, SharePoint Online pages are also supported! :\)
 
-  > For detailed information about this feature, please see [this article.](insights-2-release-note.md#internal/get-to-know-insights/page-performance-screen)
+  > For detailed information about this feature, please see [this article.](../get-to-know-insights/page-performance-screen.md)
 
 * **Full support for SharePoint 2019**
 
@@ -48,7 +48,7 @@ Give it a try and let us know what you think!
 
 ## Discontinued Features
 
-* With the introduction of the Page Performance feature, the “Site Collections are unavailable” alert has become obsolete. See [this article](insights-2-release-note.md#internal/get-to-know-insights/page-performance-screen) for more information on how to monitor your pages with the new Page Performance feature. 
+* With the introduction of the Page Performance feature, the “Site Collections are unavailable” alert has become obsolete. See [this article](../get-to-know-insights/page-performance-screen.md) for more information on how to monitor your pages with the new Page Performance feature. 
 * The Express license has been discontinued. Instead, you can use the free tool [SysKit Insights Lite.](https://www.syskit.com/products/insights-lite/download) 
 
 Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact us](https://www.syskit.com/company/contact-us/) and send us your feedback and suggestions.

@@ -1,15 +1,15 @@
 ---
 title: SysKit Insights Event Viewer
-description: How to use SysKit Insights Event Viewer
+description: >-
+  This article gives a basic overview of how to use Syskit Insights's Event
+  Viewer.
 author: Vinko Bedek
 date: 22/5/2017
 ---
 
-# event-viewer
+# Event Viewer Dashboard
 
-This article gives a basic overview of how to use Syskit Insights's Event Viewer.
-
-![Event Viewer](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/get-to-know-insights/#img/event-viewer.png)
+![](../.gitbook/assets/event-viewer.png)
 
 ## Use Syskit Insights Event Viewer to search for events
 
@@ -37,5 +37,5 @@ By default, SysKit Insights uses a layout similar to a search engine to display 
 
 ### Alerts
 
-You have created a very useful query and would like to be notified when an event that satisfied this query appears? No problem, just create an alert by clicking the alert button on the search results page. Click [here](event-viewer.md#internal/how-to/manage-alerts) for more details.
+You have created a very useful query and would like to be notified when an event that satisfied this query appears? No problem, just create an alert by clicking the alert button on the search results page. Click [here ](../how-to/manage-alerts.md)for more details.
 

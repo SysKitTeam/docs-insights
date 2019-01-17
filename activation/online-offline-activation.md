@@ -1,13 +1,11 @@
 ---
 title: Online and Offline Activation
-description: >-
-  This article outlines the steps needed to perform online or offline product
-  activation.
+description: This article describes how to perform product activation.
 author: Tomislav Sirovec
 date: 27/01/2018
 ---
 
-# online-offline-activation
+# Activation - Online and Offline
 
 ## Online Activation
 
@@ -35,5 +33,5 @@ Customers that have no internet access on their machines will need to activate S
 At any time you can login to our [Customers Portal](https://my.syskit.com) and navigate to the list of your licensed products.  
 If you do not have the activation information, please [contact us](https://www.syskit.com/company/contact-us).
 
-See [Activation FAQ](online-offline-activation.md#internal/activation/activation-faq/) to learn more about SysKit Insights activation.
+See [Activation FAQ](activation-faq.md) to learn more about SysKit Insights activation.
 

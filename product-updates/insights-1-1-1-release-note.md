@@ -7,7 +7,7 @@ author: Tomislav Sirovec
 date: 27/8/2018
 ---
 
-# insights-1-1-1-release-note
+# SysKit Insights 1.1.1
 
 This is a service release and it brings only a couple of changes.
 

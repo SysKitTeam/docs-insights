@@ -1,13 +1,13 @@
 ---
 title: SysKit Insights Performance
 description: >-
-  Detailed overview on how the SysKit Insights collects and presents farm
-  performance data.
+  This article describes how SysKit Insights collects and displays performance
+  data.
 author: Hrvoje Bagarić
 date: 05/02/2018
 ---
 
-# performance-screen
+# Performance Screen
 
 SysKit Insights collects performance data by default. This behaviour can be modified in the settings. Additionally user can change the performance data collection interval. The default value is 60 seconds.
 
@@ -64,5 +64,7 @@ If the selected chart/counter has **more than one instance**, on the top right o
 
 The users can change the time range to view older data. By default SysKit Insights shows data collected during the last sixty minutes. The metric status is still calculated based on the last 15 minutes.
 
-![Performance Dashboard](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/get-to-know-insights/#img/performance-dashboard.png) ![Performance Screen2](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/get-to-know-insights/#img/performance-screen2.png)
+![](../.gitbook/assets/performance-dashboard.png)
+
+![](../.gitbook/assets/performance-screen2.png)
 

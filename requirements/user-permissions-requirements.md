@@ -1,13 +1,13 @@
 ---
 title: User Permission Requirements
 description: >-
-  This article discusses the user permission requirements that are necessary in
+  This article discusses the user permission requirements that are necessary in 
   order to successfully use SysKit Insights.
 author: Tomislav Sirovec
 date: 17/01/2018
 ---
 
-# user-permissions-requirements
+# User Permissions Requirements
 
 To run SysKit Insights and to retrieve all the data \(event logs and performance counters\) you want to document, SysKit Insights service account needs to have proper privileges. Here is the list of required privileges:
 

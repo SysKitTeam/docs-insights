@@ -1,11 +1,11 @@
 ---
 title: Manage Alerts
-description: This section describes how to manage SysKit Insights Alerts.
+description: This article describes how to manage SysKit Insights alerts.
 author: Tomislav Sirovec
 date: 31/1/2018
 ---
 
-# manage-alerts
+# Manage Alerts
 
 ## Performance Counters
 
@@ -48,7 +48,7 @@ If you want to edit an already existing alert navigate to aforementioned list of
 
 ### Intra-farm Latency
 
-* You will be notified when the observed latency exceeds [configured](manage-alerts.md#internal/how-to/customize-settings) values. 
+* You will be notified when the observed latency exceeds [configured ](customize-settings.md)values. 
 
 ### Notifications
 

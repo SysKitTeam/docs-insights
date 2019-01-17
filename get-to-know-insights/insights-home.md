@@ -1,15 +1,16 @@
 ---
 title: SysKit Insights Home
 description: >-
-  The SysKit Insights home page gives you an overview of your index's contents
-  as well as a general performance overview regarding your farm health.
+  The SysKit Insights home page gives you an overview of a general performance
+  regarding the health of your farms and servers, as well as events, alerts,
+  service status or latency.
 author: Tomislav Sirovec
 date: 25/10/2018
 ---
 
-# insights-home
+# Home Dashboard
 
-The SysKit Insights home page gives you an overview of a general performance regarding the health of your farms and servers, as well as events, alerts, service status or latency. If you are monitoring multiple SharePoint farms, they will all appear here. The metrics shown will change depending on which farm or server is selected.
+ If you are monitoring multiple SharePoint farms, they will all appear here. The metrics shown will change depending on which farm or server is selected.
 
 ## Farm dashboard
 
@@ -37,5 +38,5 @@ To see the server dashboard, click on any server in the navigation.
 * **Services Status** – Whether there is a stopped service on the selected server.
 * **Intra-farm Latency** – Latency status for the selected server.
 
-![Home Dashboard](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/get-to-know-insights/#img/home-dashboard.png)
+![](../.gitbook/assets/home-dashboard.png)
 

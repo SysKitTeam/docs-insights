@@ -2,14 +2,12 @@
 title: SysKit Insights Latency Screen
 description: >-
   The SysKit Insights latency screen gives you a detailed overview of all the
-  ping intervals made.
+  ping intervals recorded.
 author: Tomislav Sirovec
 date: 24/07/2018
 ---
 
-# latency-screen
-
-The SysKit Insights latency screen gives you a detailed overview of all the ping intervals recorded.
+# Latency Screen
 
 According to [Microsoft's guidelines](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements), intra-farm latency should be &lt;1 ms one way 99.9% of the time over a period of ten minutes. Microsoft defines Intra-farm latency as the latency between the front-end web servers and the database servers. However, we take it a step further and ping **every** server in the farm, not just the database server.
 
@@ -23,6 +21,6 @@ On the right side are **server interval details**. Click on any server and its d
 Pings are sent in 10-minute intervals.
 
 * The **Sent Pings** column gives you the number of sent/received pings.
-* **Pings longer than 1 ms** tells you how many pings took longer than 1 ms. By default, the value is set to 1 ms per [Microsoft's guidelines.](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements). This can be changed in [Settings](latency-screen.md#internal/how-to/customize-settings) -&gt; Intra-farm Latency Configuration
+* **Pings longer than 1 ms** tells you how many pings took longer than 1 ms. By default, the value is set to 1 ms per [Microsoft's guidelines.](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements). This can be changed in [Settings ](latency-screen.md)-&gt; Intra-farm Latency Configuration
 * **Maximum Latency** tells you the maximum encountered latency in that interval.
 

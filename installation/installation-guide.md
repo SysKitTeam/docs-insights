@@ -1,17 +1,19 @@
 ---
 title: Install SysKit Insights
-description: 'This section describes how to configure, that is install, SysKit Insights'
+description: This article describes how to install SysKit Insights.
 author: Tomislav Sirovec
 date: 06/02/2018
 ---
 
-# installation-guide
+# Installation Guide
 
 SysKit Insights provides continuous load of the SharePoint ULS, Windows Event logs and SQL logs in real-time. The SysKit Insights Agent will gather selected events and store them on **index location on your disk**. SysKit Insights presents a centralized place for you to explore, detect and prevent possible issues appearing on your SharePoint farm. Performance data is also collected and is stored in the **SysKit Insights database**.
 
 Use SysKit Insights to keep multiple farms under control and find problems more easily.
 
+{% hint style="warning" %}
 Before we get started **please note!** We recommend installing the application on a machine outside of the SharePoint farm/s you wish to monitor.
+{% endhint %}
 
 1. [Download](https://www.syskit.com/products/insights/) Application.
 2. Unpack and run **SysKitInsightsSetup.exe.** The wizard will guide you through the installation steps, click Next &gt; to proceed.

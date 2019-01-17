@@ -1,24 +1,25 @@
-# index
+---
+description: >-
+  In this article we will take you through some of the common use cases and
+  usual steps when using the application for the first time. We have provided
+  you with an overview of the entire application and
+---
 
-title: SysKit Insights Getting Started description: Described some of the common use cases when starting the application for the first time. author: Tomislav Sirovec
-
-## date: 01/03/2018
-
-In this article we will take you through some of the common use cases and usual steps when using the application for the first time. We have provided you with an overview of the entire application and how to use it. For detailed information on certain feature please explore other articles.
+# Getting Started
 
 ## Let's get started
 
-After successfully [activating](index.md#internal/activation/online-offline-activation) the application, or starting the trial, you will be welcomed by the Farms screen.
+After successfully [activating](activation/online-offline-activation.md) the application, or starting the trial, you will be welcomed by the Farms screen.
 
 ## Farms
 
-* First thing you need to do is [add farm/s.](index.md#internal/get-to-know-insights/farms-screen) Until you do so, some parts of the application will be disabled. Afterwards, on the same Farms tab, you can see on overview of farms and servers you added, as well as the License Server Limit.  
+* First thing you need to do is [add farm/s.](get-to-know-insights/farms-screen.md#add-farm) Until you do so, some parts of the application will be disabled. Afterwards, on the same Farms tab, you can see on overview of farms and servers you added, as well as the License Server Limit.  
 
-In [this article](index.md#internal/get-to-know-insights/farms-screen) we provided detailed overview of farms and servers that are being tracked. Also, it explains different options on how to add a new farm or a new server into an existing farm.
+In [this article](get-to-know-insights/farms-screen.md) we provided detailed overview of farms and servers that are being tracked. Also, it explains different options on how to add a new farm or a new server into an existing farm.
 
 After all that is done you can start observing the collected data.
 
-![Farms](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/getting-started/#img/farms-screen.png)
+![Farms Screen](.gitbook/assets/farms-screen.png)
 
 ## Home
 
@@ -26,9 +27,9 @@ The SysKit Insights home page gives you an overview of a general performance reg
 
 * If you have multiple farms you will be able to select a farm from which you want to see the general performance. You can also see the general performance of each server within the chosen farm.
 
-![Home Dashboard](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/getting-started/#img/home-dashboard.png)
+![](.gitbook/assets/home-dashboard.png)
 
-> For more details, please use the [home tab.](index.md#internal/get-to-know-insights/insights-home)
+> For more details, please use the [home tab.](get-to-know-insights/insights-home.md)
 
 ## Event Viewer
 
@@ -36,11 +37,11 @@ Event Viewer tab provides you with a centralized place to search for ULS, Window
 
 * To start using the Event Viewer first select a farm. If you only have one - an automatic search will be triggered.
 * If you would like to be alerted for events that match a specific query, you can do so in Alert Me option.
-* Also, we provided more detailed information on writing the search query. See [this article.](index.md#internal/how-to/search-query)
+* Also, we provided more detailed information on writing the search query. See [this article.](how-to/search-query.md)
 
-![Event Viewer](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/getting-started/#img/event-viewer.png)
+![](.gitbook/assets/event-viewer.png)
 
-> For more details on how to use the Event Viewer, [click here.](index.md#internal/get-to-know-insights/event-viewer)
+> For more details on how to use the Event Viewer, [click here.](get-to-know-insights/event-viewer.md)
 
 ## Performance
 
@@ -49,9 +50,11 @@ The SysKit Insights Agent relies on performance counters to monitor the server p
 * The individual metrics are calculated based on their average value during the last 15 minutes. By using this approach the SysKit Insights can ignore short spikes in activity.  
 * The farms performance overview dashboard shows all farms currently monitored by SysKit Insights Agent. It shows status for each server in those farms. 
 
-![Performance Dashboard](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/getting-started/#img/performance-dashboard.png) ![Performance Screen2](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/getting-started/#img/performance-screen2.png)
+![Performance Dashboard](.gitbook/assets/performance-dashboard.png)
 
-> For detailed information on the entire Performance section [see this article.](index.md#internal/get-to-know-insights/performance-screen)
+![](.gitbook/assets/performance-screen2.png)
+
+> For detailed information on the entire Performance section [see this article.](get-to-know-insights/performance-screen.md)
 
 ## Alerts
 
@@ -60,9 +63,11 @@ The SysKit Insights Alerts page gives you an overview of your alerts. There are 
 * When you add a new farm, it will take a couple of minutes for the servers to initialize and the application to start displaying data.
 * Performance counters have predefined thresholds that can be modified to best suit your needs.
 
-![Manage Alerts](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/getting-started/#img/manage-alerts.png) ![Event Alert](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/getting-started/#img/event-alert.png)
+![](.gitbook/assets/manage-alerts.png)
 
-> For detailed information on managing your Alerts [see this article.](index.md#internal/how-to/manage-alerts)
+![](.gitbook/assets/event-alert.png)
+
+> For detailed information on managing your Alerts [see this article.](how-to/manage-alerts.md)
 
 ## Latency
 
@@ -70,7 +75,7 @@ The SysKit Insights latency screen gives you a detailed overview of all the ping
 
 Latency indicates the delay in communication between servers, and is important as a hardware requirement. High latency usually indicates a bigger underlying problem, and should be investigated.
 
-> In [this article](index.md#internal/get-to-know-insights/latency-screen) we provide a detailed information about the Latency tab.
+> In [this article](get-to-know-insights/latency-screen.md) we provide a detailed information about the Latency tab.
 
 ## Page Performance
 
@@ -80,9 +85,9 @@ SysKit Insights monitors the performance of SharePoint pages by periodically gat
 * Page ping events are monitored throughout the day.
 * Various parameters can be monitored, such as page availability, page response time or SharePoint specific header metrics — or even whether a huge image of someone’s cat \(for example\) is slowing down the page opening time.
 
-![Page Performance Dashboard](https://github.com/SysKitTeam/docs-insights/tree/e279e7cb077284447b4d0daa2f424e96e445e262/getting-started/#img/page-performance.png)
+![](.gitbook/assets/page-performance.png)
 
-> In [this article](index.md#internal/get-to-know-insights/page-performance-screen) we provide a detailed information about the Page Performance tab.
+> In [this article](get-to-know-insights/page-performance-screen.md) we provide a detailed information about the Page Performance tab.
 
 ## Settings
 
@@ -91,5 +96,5 @@ In order to fully utilize SysKit Insights' features you need to enable the email
 * You can navigate to the Farms section and tweak the collection configuration to best suit your needs.
 * If you wish to change data collection interval, data retention or index size go to Agents section.
 
-> For detailed information on settings customization see [this article.](index.md#internal/how-to/customize-settings)
+> For detailed information on settings customization see [this article.](how-to/customize-settings.md)
 

@@ -7,7 +7,7 @@ author: Tomislav Sirovec
 date: 23/7/2018
 ---
 
-# insights-1-1-release-note
+# SysKit Insights 1.1.0
 
 SysKit Insights 1.1.0 delivers a fresh set of new features created to make your monitoring tasks a lot easier. Keep on scrolling and see what's new!
 
@@ -21,8 +21,8 @@ Give it a try and let us know what you think!
 
 ## Features
 
-* **Intra-farm latency**! We now check intra-farm latency. In 10-minute intervals, we ping every server in the farm. According to [Microsoft’s hardware requirements](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements), 99.9% of pings must be under 1 ms. If they’re not, we will notify you. For detailed information about this feature, check out our [help article](insights-1-1-release-note.md#internal/get-to-know-insights/latency-screen).
-* We heard your requests, and now the entire SysKit Insights application is accessible via browser as a **web application**, making it easier than ever to share reports and event log searches with your colleagues. For more information, click [here](insights-1-1-release-note.md#internal/get-to-know-insights/web-application).
+* **Intra-farm latency**! We now check intra-farm latency. In 10-minute intervals, we ping every server in the farm. According to [Microsoft’s hardware requirements](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements), 99.9% of pings must be under 1 ms. If they’re not, we will notify you. For detailed information about this feature, check out our [help article.](../get-to-know-insights/latency-screen.md)
+* We heard your requests, and now the entire SysKit Insights application is accessible via browser as a **web application**, making it easier than ever to share reports and event log searches with your colleagues. For more information, [click here.](../get-to-know-insights/web-application.md)
 * Event Viewer export: Previously, you could only export 1,000 events to Excel. You can now **specify the number of exportable events**.
 
 ## Improvements
@@ -36,7 +36,7 @@ Give it a try and let us know what you think!
 
 ## Bug Fixes
 
-* Forwarded events had a delay in collection; thus, the collection did not work properly. The issue is now fixed and the events can be accessed normally in the [Event Viewer](insights-1-1-release-note.md#internal/get-to-know-insights/event-viewer).
+* Forwarded events had a delay in collection; thus, the collection did not work properly. The issue is now fixed and the events can be accessed normally in the [Event Viewer.](../get-to-know-insights/event-viewer.md)
 * Fixed an issue with ULS log collection if the ULS log path was not set to default.
 * Fixed a bug which caused the Alerts form to behave in an unexpected manner.
 * Numerous smaller improvements and UI tweaks.

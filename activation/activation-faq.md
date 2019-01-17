@@ -1,9 +1,8 @@
-# activation-faq
+---
+description: This article outlines activation FAQs.
+---
 
-title: Activation FAQ author: Matija Hanzic  
-date: 16/5/2017
-
-## description: This article outlines activation FAQs.
+# Activation FAQ
 
 ### Is the trial version limited in any kind?
 
@@ -35,7 +34,7 @@ If you cannot find your product activation code, you should send a support reque
 
 ### How do I activate my product?
 
-You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation code and press activate. You must have an active connection to the Internet in order to activate your product. If you do not have access to internet, please use [offline activation](activation-faq.md#internal/activation/online-offline-activation#Offline%20Activation).
+You can activate your product 24 hours a day, seven days a week on the Internet. Product activation requires you to type in your product activation code and press activate. You must have an active connection to the Internet in order to activate your product. If you do not have access to internet, please use [offline activation.](online-offline-activation.md#offline-activation)
 
 ### What does SysKit do with the information sent during the product activation process?
 
