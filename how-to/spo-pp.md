@@ -23,6 +23,6 @@ After adding all the pages you wish, they will be shown on the Page Performance 
 And that is it. For more general information on the Page Performance feature, please see [this article.](../get-to-know-insights/page-performance-screen.md#page-performance-dashboard)
 
 {% hint style="warning" %}
-> **Please note!** This process of adding a SPO "farm" is required due to restrictions in how our application works. The pages you wish to monitor must "belong" to a farm. When importing pages, if you already have an on-premises farm, it is fine to "put them" into an existing on-premises farm. In this instance, the farm is merely an abstract container.
+**Please note!** This process of adding a SPO "farm" is required due to restrictions in how our application works. The pages you wish to monitor must "belong" to a farm. When importing pages, if you already have an on-premises farm, it is fine to "put them" into an existing on-premises farm. In this instance, the farm is merely an abstract container.
 {% endhint %}
 
