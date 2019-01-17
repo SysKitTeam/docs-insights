@@ -19,7 +19,7 @@ date: 22/5/2017
 3. Select the time range in which to search for events.
    * Please limit the range as much as possible for optimal performance. 
    * First search will automatically be done with the "Last 10 Minutes" time interval. 
-4. Enter your search query. Click [here](event-viewer.md#internal/how-to/search-query) for more details on writing a search query.
+4. Enter your search query. Click [here](../how-to/search-query.md) for more details on writing a search query.
 5. An empty query \(all events within the specified time range\) is also supported, but use sparingly, or on small time ranges. Just click search or press the enter key.
 
 ### Viewing results

@@ -33,7 +33,7 @@ After the installation is done, SysKit Insights - Configuration Wizard will auto
    * If your SQL Server is on a non-standard port \(different from 1433\), type "severname,port" or "servername\instance,port". \(FQDN formats are also supported\)
 
      After providing the information, click the **Test Connection** button to ensure that the settings are correct.
-3. On the **Service Settings** type the service account details. The service account needs to have the [following privileges](installation-guide.md#internal/requirements/user-permissions-requirements) to be able to collect all the data from the desired servers.
+3. On the **Service Settings** type the service account details. The service account needs to have the [following privileges](../requirements/user-permissions-requirements.md) to be able to collect all the data from the desired servers.
 4. **Insights Configuration**
    * **Index Location** – you need to ensure that the provided service account has write access to the index location directory. The directory for the index must be empty or contain an existing index.  It is recommended not to place the index on the system drive. Be careful if you plan to use the system drive for index location, as it can be quickly filled up.
    * **Port To Use** - this is the port that the Syskit Insight Agent will use to communicate with the Syskit Insights application. By default, port 7890 is set, but you can change it to suit your needs.
