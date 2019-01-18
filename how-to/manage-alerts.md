@@ -1,6 +1,6 @@
 ---
 title: Manage Alerts
-description: This article describes how to manage SysKit Insights alerts.
+description: This section describes how to manage SysKit Insights Alerts.
 author: Tomislav Sirovec
 date: 31/1/2018
 ---

@@ -1,8 +1,6 @@
 ---
 title: SysKit Insights Page Performance
-description: >-
-  SysKit Insights monitors the performance of SharePoint pages by periodically
-  collecting page performance data.
+description: Detailed overview on how the SysKit Insights monitors Page Performance.
 author: Tomislav Sirovec
 date: 22/10/2018
 ---

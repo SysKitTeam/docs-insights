@@ -1,6 +1,8 @@
 ---
 title: Online and Offline Activation
-description: This article describes how to perform product activation.
+description: >-
+  This article outlines the steps needed to perform online or offline product
+  activation.
 author: Tomislav Sirovec
 date: 27/01/2018
 ---

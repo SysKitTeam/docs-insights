@@ -1,10 +1,3 @@
----
-description: >-
-  In this article we will take you through some of the common use cases and
-  usual steps when using the application for the first time. We have provided
-  you with an overview of the entire application and
----
-
 # Getting Started
 
 ## Let's get started

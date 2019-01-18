@@ -1,8 +1,8 @@
 ---
 title: Performance Counters help
 description: >-
-  Performance Counters help page offers you a list of all the available
-  counters  along with their thresholds.
+  Performance Counters help page offers you a list of all the available counters
+  along with their thresholds.
 author: Tomislav Sirovec
 date: 02/02/2018
 ---

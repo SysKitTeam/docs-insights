@@ -1,9 +1,8 @@
 ---
 title: SysKit Insights Home
 description: >-
-  The SysKit Insights home page gives you an overview of a general performance
-  regarding the health of your farms and servers, as well as events, alerts,
-  service status or latency.
+  The SysKit Insights home page gives you an overview of your index's contents
+  as well as a general performance overview regarding your farm health.
 author: Tomislav Sirovec
 date: 25/10/2018
 ---

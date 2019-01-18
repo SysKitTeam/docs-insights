@@ -2,7 +2,7 @@
 title: Uninstallation Guide
 author: Tomislav Sirovec
 date: 08/03/2018
-description: This article describes how to uninstall SysKit Insights.
+description: This article explains how to uninstall SysKit Insights.
 ---
 
 # Uninstallation Guide

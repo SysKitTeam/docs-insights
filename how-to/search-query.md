@@ -1,6 +1,6 @@
 ---
 title: Query SysKit Insights Event Viewer
-description: This article will explain how to write SysKit Insights search queries.
+description: How to write search queries in SysKit Insights.
 author: Vinko Bedek
 date: 19/5/2017
 ---

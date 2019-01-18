@@ -2,7 +2,7 @@
 title: SysKit Insights Latency Screen
 description: >-
   The SysKit Insights latency screen gives you a detailed overview of all the
-  ping intervals recorded.
+  ping intervals made.
 author: Tomislav Sirovec
 date: 24/07/2018
 ---
@@ -21,6 +21,6 @@ On the right side are **server interval details**. Click on any server and its d
 Pings are sent in 10-minute intervals.
 
 * The **Sent Pings** column gives you the number of sent/received pings.
-* **Pings longer than 1 ms** tells you how many pings took longer than 1 ms. By default, the value is set to 1 ms per [Microsoft's guidelines.](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements). This can be changed in [Settings ](latency-screen.md)-&gt; Intra-farm Latency Configuration
+* **Pings longer than 1 ms** tells you how many pings took longer than 1 ms. By default, the value is set to 1 ms per [Microsoft's guidelines.](https://docs.microsoft.com/en-us/sharepoint/install/hardware-and-software-requirements). This can be changed in [Settings](../how-to/customize-settings.md) -&gt; Intra-farm Latency Configuration
 * **Maximum Latency** tells you the maximum encountered latency in that interval.
 

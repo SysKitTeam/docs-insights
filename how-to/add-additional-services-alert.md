@@ -1,7 +1,3 @@
----
-description: This article explains how to add a custom Service alert to the application.
----
-
 # Add additional services to alerts
 
 If you wish to **track additional services**, this article explains how to add a custom Service alert into the application.  

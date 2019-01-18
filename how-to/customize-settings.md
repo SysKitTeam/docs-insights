@@ -1,7 +1,3 @@
----
-description: This article describes how to customize SysKit Insights settings.
----
-
 # Customize Settings
 
 To customize SysKit Insights settings click the **Settings button** located in the bottom left corner. 5. On the settings screen the available settings are divided into:

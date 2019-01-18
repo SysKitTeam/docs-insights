@@ -1,9 +1,3 @@
----
-description: >-
-  The SysKit Insights Health Overview gives you an overview on the health of
-  your farms.
----
-
 # Health Overview
 
 The SysKit Insights Health Overview gives you an instant overview on the health of your farms, which is based on the data gathered for a selected farm and time interval. An overview can be generated for two time intervals — “Yesterday” or “Last 7 days.” It shows trend comparisons for the current interval and for the previously completed time interval \(in percentages\). Each report is divided into the following sections:

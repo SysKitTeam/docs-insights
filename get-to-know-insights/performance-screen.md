@@ -1,8 +1,8 @@
 ---
 title: SysKit Insights Performance
 description: >-
-  This article describes how SysKit Insights collects and displays performance
-  data.
+  Detailed overview on how the SysKit Insights collects and presents farm
+  performance data.
 author: Hrvoje Bagarić
 date: 05/02/2018
 ---

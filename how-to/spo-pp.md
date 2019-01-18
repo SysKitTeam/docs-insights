@@ -1,8 +1,6 @@
 ---
 title: SharePoint Online Page Performance
-description: >-
-  This article will describe how to use SysKit Insights to monitor a SharePoint
-  Online pages.
+description: How to use SysKit Insights to monitor a SPO page.
 author: Tomislav Sirovec
 date: 25/10/2018
 ---

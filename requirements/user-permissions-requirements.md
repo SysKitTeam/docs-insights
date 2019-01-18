@@ -1,7 +1,7 @@
 ---
 title: User Permission Requirements
 description: >-
-  This article discusses the user permission requirements that are necessary in 
+  This article discusses the user permission requirements that are necessary in
   order to successfully use SysKit Insights.
 author: Tomislav Sirovec
 date: 17/01/2018
