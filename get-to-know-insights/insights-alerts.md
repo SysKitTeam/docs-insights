@@ -26,7 +26,8 @@ SharePoint Status tab will automatically be populated. By default SysKit Insight
 The columns we provide here are: Farm, Server, Source, Value, Time. See the [Manage Alerts](../how-to/manage-alerts.md) article to see how you can check the status of another site.
 
 {% hint style="warning" %}
-**Please note!** - To check \(ping\) a SharePoint site we are using the credentials of the service account you provided during the configuration of the SysKit Insights. Also, it is not possible to use forms authentication.
+**Please note!**   
+To check \(ping\) a SharePoint site we are using the credentials of the service account you provided during the configuration of the SysKit Insights. Also, it is not possible to use forms authentication.
 {% endhint %}
 
 
