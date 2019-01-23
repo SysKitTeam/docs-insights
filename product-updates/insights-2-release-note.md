@@ -22,11 +22,11 @@ Give it a try and let us know what you think!
 
 ## Features
 
-* The main new feature in this release is **Page Performance!** It allows you to monitor SharePoint pages, and gain valuable insights into their performance.  
-  **Receive alerts and spot critical metrics** for each monitored page. You can also export SharePoint page performance metrics and drill down to find trends and improve the experience for your users.  
-  Oh, SharePoint Online pages are also supported! :\)
+* The main new feature in this release is **Page Performance!** It allows you to monitor SharePoint pages, and gain valuable insights into their performance. **Receive alerts and spot critical metrics** for each monitored page. You can also export SharePoint page performance metrics and drill down to find trends and improve the experience for your users. Oh, SharePoint Online pages are also supported! :\)
 
-  > For detailed information about this feature, please see [this article.](../get-to-know-insights/page-performance-screen.md)
+{% hint style="info" %}
+For detailed information about this feature, please see [this article](../get-to-know-insights/page-performance-screen.md).
+{% endhint %}
 
 * **Full support for SharePoint 2019**
 
