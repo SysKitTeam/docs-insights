@@ -12,7 +12,7 @@ date: 17/12/2018
 This is a minor release and it brings some quality of life improvements.
 
 **Product version:** 3.1.0  
-**Build number:** 897  
+**Build number:** 905  
 **Release date:** Jan 10, 2019
 
 [Click here to download the new release.](https://www.syskit.com/products/insights/download/)
