@@ -19,7 +19,7 @@ date: 17/01/2018
 ## Hardware
 
 * CPU – any Windows 7, Windows 8 or Windows 10 capable CPU with at least two cores
-* Memory – up to 512 MB \(200 MB RAM while idle\)
+* Memory – 200 MB RAM while idle. Maximum RAM consumption depends on the workload and the number of monitored servers. 
 * Disk – 250MB of available hard disk space
 * Index – we recommend minimum of 200GB disk space required to store the index containing all the data \(ULS, SQL logs and Windows Event logs\). However, this largely depends on your infrastructure and how big your farm/s are. It is recommended to change the index location to a secondary drive.
 * 1366×768 or higher resolution video card
