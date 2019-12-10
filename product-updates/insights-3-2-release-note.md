@@ -9,7 +9,7 @@ date: 10/12/2019
 
 # SysKit Insights 3.2.0
 
-This is a minor release and it fixes critical bugs and brings some quality of life improvements.
+This is a minor release that comes with critical bug fixes and brings some quality of life improvements.
 
 **Product version:** 3.2.0  
 **Build number:** 922  
