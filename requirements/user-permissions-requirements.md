@@ -45,3 +45,4 @@ Only for performance counters:
 Only for Page Performance:
 
 * SysKit Insights service account must have at least **Read** permisison level on the page that SysKit Insights is monitoring.
+
