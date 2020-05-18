@@ -12,7 +12,7 @@ date: 10/12/2019
 This is a minor release that comes with critical bug fixes and brings some quality of life improvements.
 
 **Product version:** 3.2.0  
-**Build number:** 922  
+**Build number:** 929  
 **Release date:** Dec 10, 2019
 
 [Click here to download the new release.](https://www.syskit.com/products/insights/download/)
