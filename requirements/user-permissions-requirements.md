@@ -42,3 +42,7 @@ Only for performance counters:
 * TCP Any, the special rule in Windows Firewall \[performance logs and alerts \(DCOM-IN\)\]
 * RPC TCP 135 \[performance logs and alerts \(TCP-IN\)\]
 
+Only for Page Performance:
+
+* SysKit Insights service account must have at least **Read** permisison level on the page that SysKit Insights is monitoring.
+

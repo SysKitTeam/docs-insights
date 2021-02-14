@@ -14,12 +14,13 @@ date: 17/01/2018
 * Microsoft Windows 7 \(with Service Pack 1\), Windows 8, Windows 8.1, Windows 10 or later are supported \(64-bit only\)
 * **Windows Server** editions: Windows Server 2008 R2 – 2016, all editions
   * **Please note** that we do not recommend installing the application on a server which is part of a SharePoint farm.
+  * In case of Windows Server 2008 R2 you will need the latest update for [Windows Management Framework](https://www.microsoft.com/en-us/download/details.aspx?id=54616). 
 * Microsoft .NET Framework 4.5 or higher
 
 ## Hardware
 
 * CPU – any Windows 7, Windows 8 or Windows 10 capable CPU with at least two cores
-* Memory – up to 512 MB \(200 MB RAM while idle\)
+* Memory – 200 MB RAM while idle. Maximum RAM consumption depends on the workload and the number of monitored servers. 
 * Disk – 250MB of available hard disk space
 * Index – we recommend minimum of 200GB disk space required to store the index containing all the data \(ULS, SQL logs and Windows Event logs\). However, this largely depends on your infrastructure and how big your farm/s are. It is recommended to change the index location to a secondary drive.
 * 1366×768 or higher resolution video card

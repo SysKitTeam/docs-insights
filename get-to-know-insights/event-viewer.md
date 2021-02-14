@@ -9,6 +9,10 @@ date: 22/5/2017
 
 # Event Viewer Dashboard
 
+This article gives a basic overview of how to use Syskit Insights's Event Viewer.
+
+
+
 ![](../.gitbook/assets/event-viewer.png)
 
 ## Use Syskit Insights Event Viewer to search for events

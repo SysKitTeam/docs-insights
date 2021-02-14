@@ -2,6 +2,7 @@
 
 * [SysKit Insights](README.md)
 * [Product Updates](product-updates/README.md)
+  * [SysKit Insights 3.2.0](product-updates/insights-3-2-release-note.md)
   * [SysKit Insights 3.1.0](product-updates/insights-3-1-release-note.md)
   * [SysKit Insights 3.0.0](product-updates/insights-3-release-note.md)
   * [SysKit Insights 2.0.0](product-updates/insights-2-release-note.md)
