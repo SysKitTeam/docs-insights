@@ -1,10 +1,5 @@
 ---
-title: SysKit Insights Home
-description: >-
-  The SysKit Insights home page gives you an overview of your index's contents
-  as well as a general performance overview regarding your farm health.
-author: Tomislav Sirovec
-date: 25/10/2018
+description: The SysKit Insights home page gives you an overview of your index's contents as well as a general performance overview regarding your farm health.
 ---
 
 # Home Dashboard

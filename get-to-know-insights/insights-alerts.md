@@ -1,8 +1,5 @@
 ---
-title: SysKit Alerts
 description: The SysKit Insights Alerts page gives you an overview of your alerts.
-author: Tomislav Sirovec
-date: 19/02/2018
 ---
 
 # Alerts Dashboard

@@ -1,10 +1,5 @@
 ---
-title: SysKit Insights 3.1.0 - Release Note
-description: >-
-  This article describes what’s new and improved in the latest version of SysKit
-  Insights.
-author: Tomislav Sirovec
-date: 17/12/2018
+description: This article describes what’s new and improved in the latest version of SysKit Insights.
 ---
 
 # SysKit Insights 3.1.0

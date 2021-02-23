@@ -1,10 +1,5 @@
 ---
-title: SysKit Insights - SharePoint performance monitoring and troubleshooting
-description: >-
-  This article describes what is this new SharePoint performance monitoring and
-  troubleshooting tool bringing in the first release.
-author: Iva Novoselic
-date: 6/3/2018
+description: This article describes what is this new SharePoint performance monitoring and troubleshooting tool bringing in the first release.
 ---
 
 # SysKit Insights - SharePoint performance monitoring and troubleshooting

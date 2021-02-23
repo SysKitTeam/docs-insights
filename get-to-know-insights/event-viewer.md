@@ -1,10 +1,5 @@
 ---
-title: SysKit Insights Event Viewer
-description: >-
-  This article gives a basic overview of how to use Syskit Insights's Event
-  Viewer.
-author: Vinko Bedek
-date: 22/5/2017
+description: This article gives a basic overview of how to use Syskit Insights's Event Viewer.
 ---
 
 # Event Viewer Dashboard

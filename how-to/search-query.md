@@ -1,8 +1,5 @@
 ---
-title: Query SysKit Insights Event Viewer
 description: How to write search queries in SysKit Insights.
-author: Vinko Bedek
-date: 19/5/2017
 ---
 
 # Search Query

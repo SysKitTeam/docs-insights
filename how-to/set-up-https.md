@@ -1,8 +1,5 @@
 ---
-title: SysKit Insights Performance
 description: Detailed overview on how to set up SysKit Insights to use HTTPS.
-author: Hrvoje Bagarić
-date: 28/07/2018
 ---
 
 # Set up HTTPS

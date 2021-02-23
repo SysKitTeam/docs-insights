@@ -1,10 +1,5 @@
 ---
-title: SysKit Insights Farms Screen
-description: >-
-  Detailed overview farms and servers that are being tracked. Also, different
-  options on how to add a new farm or a server into existing farm.
-author: Tomislav Sirovec
-date: 28/02/2018
+description: Detailed overview farms and servers that are being tracked. Also, different options on how to add a new farm or a server into existing farm.
 ---
 
 # Farms Screen

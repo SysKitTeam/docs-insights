@@ -1,8 +1,5 @@
 ---
-title: SysKit Insights Frequently Asked Questions
 description: A list of commonly asked questions.
-author: Tomislav Sirovec
-date: 08/03/2018
 ---
 
 # Miscellaneous

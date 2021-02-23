@@ -1,8 +1,5 @@
 ---
-title: SysKit Insights Agent migration FAQ
 description: Article will explain how to change the index location.
-author: Tomislav Sirovec
-date: 21/08/2018
 ---
 
 # Index Location Migration

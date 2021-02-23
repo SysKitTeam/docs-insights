@@ -1,10 +1,5 @@
 ---
-title: Activation Privacy Statement
-description: >-
-  Read important info about the activation process. You need to activate your
-  SysKit Insights so we may verify if your product was purchased legally.
-author: Tomislav Sirovec
-date: 27/02/2018
+description: Read important info about the activation process. You need to activate your SysKit Insights so we may verify if your product was purchased legally.
 ---
 
 # Activation Privacy Statement

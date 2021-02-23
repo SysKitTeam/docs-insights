@@ -1,11 +1,5 @@
 ---
-title: SysKit Insights Performance
-description: >-
-  Starting with version 1.1, SysKit Insights includes a web interface. It
-  enables users to access all the functions of SysKit Insights using any web
-  browser.
-author: Hrvoje Bagarić
-date: 28/07/2018
+description: Starting with version 1.1, SysKit Insights includes a web interface. It enables users to access all the functions of SysKit Insights using any web browser.
 ---
 
 # Web Application

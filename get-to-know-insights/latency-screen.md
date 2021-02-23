@@ -1,10 +1,5 @@
 ---
-title: SysKit Insights Latency Screen
-description: >-
-  The SysKit Insights latency screen gives you a detailed overview of all the
-  ping intervals made.
-author: Tomislav Sirovec
-date: 24/07/2018
+description: The SysKit Insights latency screen gives you a detailed overview of all the ping intervals made.
 ---
 
 # Latency Screen

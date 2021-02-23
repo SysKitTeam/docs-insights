@@ -1,8 +1,5 @@
 ---
-title: Install SysKit Insights
 description: This article describes how to install SysKit Insights.
-author: Tomislav Sirovec
-date: 06/02/2018
 ---
 
 # Installation Guide

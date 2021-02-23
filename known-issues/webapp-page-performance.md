@@ -1,10 +1,5 @@
 ---
-title: Page Performance via Web App
-description: >-
-  SysKit Insights cannot add certain (SharePoint Online) pages when using the
-  web application.
-author: Tomislav Sirovec
-date: 22/10/2018
+description: SysKit Insights cannot add certain (SharePoint Online) pages when using the web application.
 ---
 
 # Page Performance via Web App
