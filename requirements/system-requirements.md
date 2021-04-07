@@ -7,7 +7,7 @@ description: This article discusses the hardware and software requirements that 
 ## Software
 
 * Microsoft Windows 7 \(with Service Pack 1\), Windows 8, Windows 8.1, Windows 10 or later are supported \(64-bit only\)
-* **Windows Server** editions: Windows Server 2008 R2 – 2016, all editions
+* **Windows Server** editions: Windows Server 2008 R2 – 2019, all editions
   * **Please note** that we do not recommend installing the application on a server which is part of a SharePoint farm.
   * In case of Windows Server 2008 R2 you will need the latest update for [Windows Management Framework](https://www.microsoft.com/en-us/download/details.aspx?id=54616). 
 * Microsoft .NET Framework 4.5 or higher
