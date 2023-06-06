@@ -13,7 +13,7 @@ Before we get started **please note!** We recommend installing the application o
 {% endhint %}
 
 1. [Download](https://www.syskit.com/products/insights/) Application.
-2. Unpack and run **SyskitInsightsSetup.exe.** The wizard will guide you through the installation steps, click Next &gt; to proceed.
+2. Unpack and run **SysKitInsightsSetup.exe.** The wizard will guide you through the installation steps, click Next &gt; to proceed.
 3. Click I Accept the terms of the license agreement to accept the license and then click Next &gt; to proceed.
 4. Choose the installation folder e.g. **C:\Program Files\SysKit\Insights.** Click **Next** &gt; to proceed.
 5. Select the location where to create application shortcuts and the preferred availability option \(**Anyone** or **Only me**\). Click **Next** &gt; to proceed.
