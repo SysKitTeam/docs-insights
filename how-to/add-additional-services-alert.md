@@ -9,7 +9,7 @@ SELECT Farm.ID,
    '{AlertName}',
    30,
    1,
-   '<SearchServiceCheckConfig xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Syskit.Insights.Business.Alerting.CreateConfigurations">
+   '<SearchServiceCheckConfig xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/SysKit.Insights.Business.Alerting.CreateConfigurations">
        <ServiceNameToCheck>-- SERVICE NAME HERE ---</ServiceNameToCheck>
    </SearchServiceCheckConfig>',
    1,
