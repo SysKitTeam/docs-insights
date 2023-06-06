@@ -1,5 +1,5 @@
 ---
-description: This section describes how to manage SysKit Insights Alerts.
+description: This section describes how to manage Syskit Insights Alerts.
 ---
 
 # Manage Alerts

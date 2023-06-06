@@ -1,8 +1,8 @@
 ---
-description: This article describes what’s new and improved in the latest version of SysKit Insights.
+description: This article describes what’s new and improved in the latest version of Syskit Insights.
 ---
 
-# SysKit Insights 3.2.0
+# Syskit Insights 3.2.0
 
 This is a minor release that comes with critical bug fixes and brings some quality of life improvements.
 

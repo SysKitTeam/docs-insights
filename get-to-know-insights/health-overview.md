@@ -1,12 +1,12 @@
 # Health Overview
 
-The SysKit Insights Health Overview gives you an instant overview on the health of your farms, which is based on the data gathered for a selected farm and time interval. An overview can be generated for two time intervals — “Yesterday” or “Last 7 days.” It shows trend comparisons for the current interval and for the previously completed time interval \(in percentages\). Each report is divided into the following sections:
+The Syskit Insights Health Overview gives you an instant overview on the health of your farms, which is based on the data gathered for a selected farm and time interval. An overview can be generated for two time intervals — “Yesterday” or “Last 7 days.” It shows trend comparisons for the current interval and for the previously completed time interval \(in percentages\). Each report is divided into the following sections:
 
 ## Events
 
 The Events section provides an overview of events and collected logs within a selected time interval. It has two categories:
 
-* Index size— the total disk space occupied by  SysKit Insights and how much it has grown since the start of the interval. Its growth depends upon the farm size. Insights will stop collecting data once a maximum limit has been reached.
+* Index size— the total disk space occupied by  Syskit Insights and how much it has grown since the start of the interval. Its growth depends upon the farm size. Insights will stop collecting data once a maximum limit has been reached.
 * Entries—an overview of entries for that interval. Entries are sorted by level \(Critical, Unexpected, Warning, Error and Exception\) and by type \(ULS, SQL and Event Log\).
 
 > For more details on Events, please [see this article.](event-viewer.md)

@@ -1,12 +1,12 @@
 ---
-description: Detailed overview on how the SysKit Insights collects and presents farm performance data.
+description: Detailed overview on how the Syskit Insights collects and presents farm performance data.
 ---
 
 # Performance Screen
 
-SysKit Insights collects performance data by default. This behaviour can be modified in the settings. Additionally user can change the performance data collection interval. The default value is 60 seconds.
+Syskit Insights collects performance data by default. This behaviour can be modified in the settings. Additionally user can change the performance data collection interval. The default value is 60 seconds.
 
-The SysKit Insights Agent relies on performance counters to monitor the server performance. The SysKit Insights calculates the following server status:
+The Syskit Insights Agent relies on performance counters to monitor the server performance. The Syskit Insights calculates the following server status:
 
 * Healthy – colored green
 * Warning – colored yellow
@@ -15,15 +15,15 @@ The SysKit Insights Agent relies on performance counters to monitor the server p
 
 The server is in critical state if at least one metric collected is in critical state, in warning state if at least one metric is in warning state and none of the other metrics are in critical state, and the server is in healthy state if there are no metrics in warning or critical state.
 
-The individual metrics are calculated based on their average value during the last 15 minutes. By using this approach the SysKit Insights can ignore short spikes in activity.
+The individual metrics are calculated based on their average value during the last 15 minutes. By using this approach the Syskit Insights can ignore short spikes in activity.
 
 You can filter servers using these statuses. While on Performance tab click on the **Filter icon**, located right of the search bar. Clicking on the desired status will filter servers. You can even combine more then one status. Such as Warning and Critical.
 
-When the user is located on Performance tab of SysKit Insights a help link will be show. Following that link user can see all the details about the metrics SysKit Insights Agent collects. The description of each metric, warning and error thresholds are listed \(where applicable\).
+When the user is located on Performance tab of Syskit Insights a help link will be show. Following that link user can see all the details about the metrics Syskit Insights Agent collects. The description of each metric, warning and error thresholds are listed \(where applicable\).
 
 ## Farms Performance Overview Dashboard
 
-The farms performance overview dashboard shows all farms currently monitored by SysKit Insights Agent. It shows status for each server in those farms. Additionally it displays main performance metrics \(CPU usage, RAM usage, network usage and disk usage\) for each server in a concise manner. Users can choose between three different views: Compact, Tiles, Grid. All views display the same data just in different format. The dashboards are continuously updated as the new data is collected.
+The farms performance overview dashboard shows all farms currently monitored by Syskit Insights Agent. It shows status for each server in those farms. Additionally it displays main performance metrics \(CPU usage, RAM usage, network usage and disk usage\) for each server in a concise manner. Users can choose between three different views: Compact, Tiles, Grid. All views display the same data just in different format. The dashboards are continuously updated as the new data is collected.
 
 There are four option by which you can **group** the servers. They are:
 
@@ -57,7 +57,7 @@ Hovering over any chart will show a **maximize button** in the top right corner.
 When the threshold lines are active the chart will scale to fit both the threshold lines and the values. When the threshold lines are turned off, the chart will be rescaled to optimally include only the collected chart values.  
 If the selected chart/counter has **more than one instance**, on the top right of the chart \(next to the show thresholds button\) there will be a **dropdown** where you can change the instance you wish to observe.
 
-The users can change the time range to view older data. By default SysKit Insights shows data collected during the last sixty minutes. The metric status is still calculated based on the last 15 minutes.
+The users can change the time range to view older data. By default Syskit Insights shows data collected during the last sixty minutes. The metric status is still calculated based on the last 15 minutes.
 
 ![](../.gitbook/assets/performance-dashboard.png)
 

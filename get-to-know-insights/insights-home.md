@@ -1,5 +1,5 @@
 ---
-description: The SysKit Insights home page gives you an overview of your index's contents as well as a general performance overview regarding your farm health.
+description: The Syskit Insights home page gives you an overview of your index's contents as well as a general performance overview regarding your farm health.
 ---
 
 # Home Dashboard

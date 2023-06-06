@@ -1,12 +1,12 @@
 ---
-description: How to use SysKit Insights to monitor a SPO page.
+description: How to use Syskit Insights to monitor a SPO page.
 ---
 
 # SharePoint Online Page Performance
 
 If you do not have any on-premises farms and you want to monitor the performance of your SharePoint Online \(SPO\) pages only, this is what you need to do:
 
-1. When you install and start the application, the farms tab will automatically open. Since you do not have any on-premises farms, click the button “Use SysKit Insights to monitor SharePoint Online.”
+1. When you install and start the application, the farms tab will automatically open. Since you do not have any on-premises farms, click the button “Use Syskit Insights to monitor SharePoint Online.”
 2. You will be automatically redirected to the **add page screen of Page Performance**.
 3. Once there, simply input the URL of a page you want to monitor or import URLs from a file. When importing from a file, put each page on a separate line.
 4. Click **Import** and the import check will start. A pop-up window will ask you to give consent and to provide your credentials. When prompted to “remember the login” make sure to click **yes**. The benefits are:

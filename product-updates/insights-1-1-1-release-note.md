@@ -1,8 +1,8 @@
 ---
-description: This article describes what’s new and improved in the latest version of SysKit Insights.
+description: This article describes what’s new and improved in the latest version of Syskit Insights.
 ---
 
-# SysKit Insights 1.1.1
+# Syskit Insights 1.1.1
 
 This is a service release and it brings only a couple of changes.
 
@@ -14,6 +14,6 @@ This is a service release and it brings only a couple of changes.
 
 ## Bug Fixes
 
-* Fixed an issues with **Manage Alerts form**. Before, SysKit Insights would not save any alert changes.  
+* Fixed an issues with **Manage Alerts form**. Before, Syskit Insights would not save any alert changes.  
 * Fixed an issue with Event Viewer **refiners**. The refiners are now showing the correct count of found issues, taking into account the query text, time and the log type.
 

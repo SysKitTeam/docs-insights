@@ -14,7 +14,7 @@ This article gives a basic overview of how to use Syskit Insights's Event Viewer
 
 1. Select the Event Viewer tab in the left navigation. 
 2. Select the farm for which you wish to perform the search.
-   * Selecting a farm is only available if multiple farms are used with the same  SysKit Insights database.
+   * Selecting a farm is only available if multiple farms are used with the same  Syskit Insights database.
 3. Select the time range in which to search for events.
    * Please limit the range as much as possible for optimal performance. 
    * First search will automatically be done with the "Last 10 Minutes" time interval. 
@@ -23,7 +23,7 @@ This article gives a basic overview of how to use Syskit Insights's Event Viewer
 
 ### Viewing results
 
-By default, SysKit Insights uses a layout similar to a search engine to display the results. This layout can be changed to a more compact grid layout by using the dropdown button just below the search button. The results can also be exported to an Excel file.
+By default, Syskit Insights uses a layout similar to a search engine to display the results. This layout can be changed to a more compact grid layout by using the dropdown button just below the search button. The results can also be exported to an Excel file.
 
 ### Refining your query
 
