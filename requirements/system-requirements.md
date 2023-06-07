@@ -1,5 +1,5 @@
 ---
-description: This article discusses the hardware and software requirements that are necessary in order to install the SysKit Insights.
+description: This article discusses the hardware and software requirements that are necessary in order to install the Syskit Insights.
 ---
 
 # System Requirements
@@ -22,7 +22,7 @@ description: This article discusses the hardware and software requirements that 
 
 ## Database System
 
-In order to run the SysKit Insights, you need a database. The SysKit Insights supports **SQL Server databases only**. SQL 2008 or better is supported.
+In order to run the Syskit Insights, you need a database. The Syskit Insights supports **SQL Server databases only**. SQL 2008 or better is supported.
 
 User must have [proper privileges](user-permissions-requirements.md) to successfully run the application.
 

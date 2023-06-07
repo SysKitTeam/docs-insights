@@ -1,19 +1,19 @@
 ---
-description: This article discusses the user permission requirements that are necessary in order to successfully use SysKit Insights.
+description: This article discusses the user permission requirements that are necessary in order to successfully use Syskit Insights.
 ---
 
 # User Permissions Requirements
 
-To run SysKit Insights and to retrieve all the data \(event logs and performance counters\) you want to document, SysKit Insights service account needs to have proper privileges. Here is the list of required privileges:
+To run Syskit Insights and to retrieve all the data \(event logs and performance counters\) you want to document, Syskit Insights service account needs to have proper privileges. Here is the list of required privileges:
 
 * **Local administrator** on all the machines you want to monitor. Both SharePoint and SQL server.
   * We are using Remote WMI to access performance metrics on SQL servers. As per [this Microsoft article](https://docs.microsoft.com/en-us/windows/desktop/wmisdk/connecting-to-wmi-on-a-remote-computer) local administrator privileges on a remote server are required to successfully access the performance data using Remote WMI approach. 
-  * SysKit Insights requires local administrator privileges to access logs \(ULS, Windows Event Log, SQL Log\) on remote machines as well. It is not possible to access those locations remotely without local administrators privileges \(Windows constraint\).
+  * Syskit Insights requires local administrator privileges to access logs \(ULS, Windows Event Log, SQL Log\) on remote machines as well. It is not possible to access those locations remotely without local administrators privileges \(Windows constraint\).
 * Minimum of **db\_datareader** on a SharePoint's Config database.
 * On a SQL server - **public** server role.
-* The account running the SysKit Insights Configuration Wizard must have **dbcreator** role on the SQL Server where the SysKit Insights database will be created.
+* The account running the Syskit Insights Configuration Wizard must have **dbcreator** role on the SQL Server where the Syskit Insights database will be created.
 
-SysKit Insights relies on Active Directory to reach the names/addresses of the computer. So, the Service Account needs to have permission to **read from AD.**
+Syskit Insights relies on Active Directory to reach the names/addresses of the computer. So, the Service Account needs to have permission to **read from AD.**
 
 After that it uses **WMI** to collect all the data.  
 **If you have a firewall between the machine hosting the application and the servers that are being monitored, you will need the following info**.
@@ -39,5 +39,5 @@ Only for performance counters:
 
 Only for Page Performance:
 
-* SysKit Insights service account must have at least **Read** permisison level on the page that SysKit Insights is monitoring.
+* Syskit Insights service account must have at least **Read** permisison level on the page that Syskit Insights is monitoring.
 

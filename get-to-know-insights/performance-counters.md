@@ -4,14 +4,14 @@ description: Performance Counters help page offers you a list of all the availab
 
 # Performance Counters help
 
-SysKit Insights monitors your server performance by periodically collecting performance counter values. The counters are split into several templates that are applied to your server based on the role it plays in your farm.
+Syskit Insights monitors your server performance by periodically collecting performance counter values. The counters are split into several templates that are applied to your server based on the role it plays in your farm.
 
 Most counters have a critical and warning threshold defined. When the counter value remains above the threshold for an extended period of time it will be classified with a critical or warning status. This in turn will affect the status of the server seen on the dashboards and it will cause an Alert to be sent - if you have that [option](../how-to/manage-alerts.md#performance-counters) turned on.  
 Please note that these threshold can be changed to suit your needs more reliably.
 
 See [this article](https://technet.microsoft.com/en-us/library/bb734903.aspx?f=255&MSPPError=-2147217396) for some guidelines on performance testing and tuning.
 
-Below are the counters that SysKit tracks with their corresponding \(default\) critical and warning thresholds.
+Below are the counters that Syskit tracks with their corresponding \(default\) critical and warning thresholds.
 
 ## **General**
 

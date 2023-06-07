@@ -1,5 +1,5 @@
 ---
-description: The SysKit Insights Alerts page gives you an overview of your alerts.
+description: The Syskit Insights Alerts page gives you an overview of your alerts.
 ---
 
 # Alerts Dashboard
@@ -19,12 +19,12 @@ The columns we provide here are: Farm, Server, Name, Query, Time. The square in 
 
 ## SharePoint Status
 
-SharePoint Status tab will automatically be populated. By default SysKit Insights checks the SharePoint Timer Service status and the Central Administration \(CA\) site status. If the Timer Service job is stopped or the CA is unavailable, you will be notified every 30 minutes.  
+SharePoint Status tab will automatically be populated. By default Syskit Insights checks the SharePoint Timer Service status and the Central Administration \(CA\) site status. If the Timer Service job is stopped or the CA is unavailable, you will be notified every 30 minutes.  
 The columns we provide here are: Farm, Server, Source, Value, Time. See the [Manage Alerts](../how-to/manage-alerts.md) article to see how you can check the status of another site.
 
 {% hint style="warning" %}
 **Please note!**   
-To check \(ping\) a SharePoint site we are using the credentials of the service account you provided during the configuration of the SysKit Insights. Also, it is not possible to use forms authentication.
+To check \(ping\) a SharePoint site we are using the credentials of the service account you provided during the configuration of the Syskit Insights. Also, it is not possible to use forms authentication.
 {% endhint %}
 
 

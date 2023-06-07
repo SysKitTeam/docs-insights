@@ -1,11 +1,11 @@
 ---
-description: This article describes what’s new and improved in the latest version of SysKit Insights.
+description: This article describes what’s new and improved in the latest version of Syskit Insights.
 ---
 
-# SysKit Insights 2.0.0
+# Syskit Insights 2.0.0
 
 This release is all about the **Page Performance!** From now on, you can monitor End-User Experience and proactively track if your SharePoint pages are slow for your users.  
-SysKit Insights now supports SharePoint on-premises, SharePoint Online, and hybrid SharePoint environments. You can easily monitor simple but essential information like page's uptime, load time, or more complex, like every loaded element of a page to find the cause of the slowdown.
+Syskit Insights now supports SharePoint on-premises, SharePoint Online, and hybrid SharePoint environments. You can easily monitor simple but essential information like page's uptime, load time, or more complex, like every loaded element of a page to find the cause of the slowdown.
 
 Give it a try and let us know what you think!
 
@@ -28,7 +28,7 @@ For detailed information about this feature, please see [this article](../get-to
 ## Improvements
 
 * The dashboard has been **redesigned and improved!** The left-hand side gives an overview of all your farms and the servers in them, while the right-hand side shows the content, with an overview of your logs, alerts, performance counters, SharePoint service status, farm latency, and page performance.
-* The SysKit Insights web application can now be started with a desktop shortcut. 
+* The Syskit Insights web application can now be started with a desktop shortcut. 
 * The SharePoint search service is now checked **only on a SP Search Server.** **The User Profile Service is disabled by default.**
 * It has come to our attention that latency alerts were being sent way too often. So, the **default period** for latency alerts **has been increased from 30 minutes to 12 hours.**
 * We have added a Event type \(SQL, ULS, Event Log\) column to the event log export. 
@@ -44,7 +44,7 @@ For detailed information about this feature, please see [this article](../get-to
 ## Discontinued Features
 
 * With the introduction of the Page Performance feature, the “Site Collections are unavailable” alert has become obsolete. See [this article](../get-to-know-insights/page-performance-screen.md) for more information on how to monitor your pages with the new Page Performance feature. 
-* The Express license has been discontinued. Instead, you can use the free tool [SysKit Insights Lite.](https://www.syskit.com/products/insights-lite/download) 
+* The Express license has been discontinued. Instead, you can use the free tool [Syskit Insights Lite.](https://www.syskit.com/products/insights-lite/download) 
 
 Your feedback and suggestions will help us build better SharePoint admin tools, so please feel free to [contact us](https://www.syskit.com/company/contact-us/) and send us your feedback and suggestions.
 

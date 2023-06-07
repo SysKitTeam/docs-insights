@@ -1,5 +1,5 @@
 ---
-description: How to write search queries in SysKit Insights.
+description: How to write search queries in Syskit Insights.
 ---
 
 # Search Query

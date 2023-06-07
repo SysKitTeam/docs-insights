@@ -6,10 +6,10 @@ description: Article will explain how to change the index location.
 
 ## Change the index location to a different server or **migrate the SPDocKit Insights Agent**
 
-If you wish to transfer the **SysKit Insights** application \(the agent that does the collection\) AND at the same time **keep the existing data** here is what you need to do:
+If you wish to transfer the **Syskit Insights** application \(the agent that does the collection\) AND at the same time **keep the existing data** here is what you need to do:
 
-1. **Stop** the SysKit Insights Agent service and the SysKit Insights Maintenance service.
-2. Install the SysKit Insights on a different server.
+1. **Stop** the Syskit Insights Agent service and the Syskit Insights Maintenance service.
+2. Install the Syskit Insights on a different server.
 3. Copy the entire index from the old to the new location.
 4. Start the Configuration Wizard and: 
    1. Connect to the "old", already used Syskit Insights database 
@@ -18,7 +18,7 @@ If you wish to transfer the **SysKit Insights** application \(the agent that doe
 
 ## Change the index location on the same server
 
-1. **Stop** the SysKit Insights Agent service and the SysKit Insights Maintenance service.
+1. **Stop** the Syskit Insights Agent service and the Syskit Insights Maintenance service.
 2. Copy the entire index from the old to the new location.
 3. Start the Configuration Wizard and:
    1. Connect to the "old", already used Syskit Insights database

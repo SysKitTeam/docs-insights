@@ -1,12 +1,12 @@
 ---
-description: This article describes how to install SysKit Insights.
+description: This article describes how to install Syskit Insights.
 ---
 
 # Installation Guide
 
-SysKit Insights provides continuous load of the SharePoint ULS, Windows Event logs and SQL logs in real-time. The SysKit Insights Agent will gather selected events and store them on **index location on your disk**. SysKit Insights presents a centralized place for you to explore, detect and prevent possible issues appearing on your SharePoint farm. Performance data is also collected and is stored in the **SysKit Insights database**.
+Syskit Insights provides continuous load of the SharePoint ULS, Windows Event logs and SQL logs in real-time. The Syskit Insights Agent will gather selected events and store them on **index location on your disk**. Syskit Insights presents a centralized place for you to explore, detect and prevent possible issues appearing on your SharePoint farm. Performance data is also collected and is stored in the **Syskit Insights database**.
 
-Use SysKit Insights to keep multiple farms under control and find problems more easily.
+Use Syskit Insights to keep multiple farms under control and find problems more easily.
 
 {% hint style="warning" %}
 Before we get started **please note!** We recommend installing the application on a machine outside of the SharePoint farm/s you wish to monitor.
@@ -19,9 +19,9 @@ Before we get started **please note!** We recommend installing the application o
 5. Select the location where to create application shortcuts and the preferred availability option \(**Anyone** or **Only me**\). Click **Next** &gt; to proceed.
 6. The installation wizard will unpack your files and you will be able to run the application from: **Start** &gt; **All Programs** &gt; **Syskit Insights.**
 
-And that is it. The application is installed. Now we need to setup the SysKit Agent. This is how:
+And that is it. The application is installed. Now we need to setup the Syskit Agent. This is how:
 
-After the installation is done, SysKit Insights - Configuration Wizard will automatically start. Alternatively, you can start it manually by running it from the installation folder \(default is C:\Program Files\SysKit\Insights\Service\SysKit.Insights.ConfigurationWizard.exe\)
+After the installation is done, Syskit Insights - Configuration Wizard will automatically start. Alternatively, you can start it manually by running it from the installation folder \(default is C:\Program Files\SysKit\Insights\Service\SysKit.Insights.ConfigurationWizard.exe\)
 
 1. **Database** - here you need to choose whether you want to create a new database or use an existing one. If this is your first time setting up the application choose 'Create new database'.
 2. **Database Configuration** - On the **Database Configuration** wizard page specify the **SQL Server, Database Name** and authentication. It is possible to overwrite the existing database under the same name.

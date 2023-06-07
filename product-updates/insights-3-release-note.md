@@ -1,10 +1,10 @@
 ---
-description: This article describes what’s new and improved in the latest version of SysKit Insights.
+description: This article describes what’s new and improved in the latest version of Syskit Insights.
 ---
 
-# SysKit Insights 3.0.0
+# Syskit Insights 3.0.0
 
-SysKit Insights 3.0 has arrived. This version will provide SharePoint admins and company managers with health overview of your environment. Receive simple report on your email regularly and browse it in minutes to spot trends and see the state of your environment.
+Syskit Insights 3.0 has arrived. This version will provide SharePoint admins and company managers with health overview of your environment. Receive simple report on your email regularly and browse it in minutes to spot trends and see the state of your environment.
 
 Give it a try and let us know what you think!
 

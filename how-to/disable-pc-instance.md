@@ -4,7 +4,7 @@ In case there is an instance or an entire hard drive you do not wish to track, h
 
 ## Disable the entire hard drive:
 
-To disable the entire hard drive, run the following scrip against the SysKit Insights database. Set the value of variable **Enabled** to 1 or 0 \(0 = Disabled, 1 = Enabled\).  
+To disable the entire hard drive, run the following scrip against the Syskit Insights database. Set the value of variable **Enabled** to 1 or 0 \(0 = Disabled, 1 = Enabled\).  
 Also, input the Server and Disk name **as they are seen in the application**.
 
 ```sql
@@ -23,7 +23,7 @@ WHERE
 ## Disable a specific instance:
 
 If there is an instance, for example - hard drive instance, that you do not wish to track, here is what you need to do in order to disable it.  
-Run the following scrip against the SysKit Insights database.
+Run the following scrip against the Syskit Insights database.
 
 Set the value to the variable **Enabled** to 1 or 0 \(0 = Disabled, 1 = Enabled\).  
 Also, input the Server, Counter and Instance name **as they are seen in the application**.

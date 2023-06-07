@@ -1,7 +1,7 @@
 # Add additional services to alerts
 
 If you wish to **track additional services**, this article explains how to add a custom Service alert into the application.  
-Run the following script against the SysKit Insights database.
+Run the following script against the Syskit Insights database.
 
 ```sql
 INSERT INTO [Alerts].[AlertDefinitions] (FarmId, Name, IgnorePeriod, Type, Configuration, Enabled, SendToDefaultEmail, SendToAdditionalEmails, AdditionalEmailRecipients)

@@ -1,5 +1,5 @@
 ---
-description: Detailed overview on how the SysKit Insights monitors Page Performance.
+description: Detailed overview on how the Syskit Insights monitors Page Performance.
 ---
 
 # Page Performance Screen
@@ -40,12 +40,12 @@ If you click on a page \(each entire row is clickable\), you will see detailed i
 
 ## File Requests
 
-The File Requests feature simulates real-world page usage. There is no caching and the numbers shown are what a real user might expect when accessing the page. SysKit Insights will try to load and emulate the browser opening the page.
+The File Requests feature simulates real-world page usage. There is no caching and the numbers shown are what a real user might expect when accessing the page. Syskit Insights will try to load and emulate the browser opening the page.
 
-The data shown are from the 20-second interval during which SysKit Insights monitors the page.
+The data shown are from the 20-second interval during which Syskit Insights monitors the page.
 
 You can monitor **Size, Load Time**, and **Item Count** for certain elements of the page. These elements are: **HTML, JavaScript, images, CSS, and Fonts**.  
-SysKit Insights uses **The Coach** to monitor performance of your pages, and from the information collected, we calculate the Page Score. For more information, please see [this link](https://www.sitespeed.io/documentation/coach/introduction/).
+Syskit Insights uses **The Coach** to monitor performance of your pages, and from the information collected, we calculate the Page Score. For more information, please see [this link](https://www.sitespeed.io/documentation/coach/introduction/).
 
 On the right-hand side, there is a waterfall model of a page, like the one you can find in Google Chrome's DevTools, showing you every element loaded.
 
