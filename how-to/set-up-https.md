@@ -32,5 +32,18 @@ C:\> netsh http add urlacl url=https://+:{insightsPort}/ user=Everyone
 C:\> netsh http add sslcert ipport=0.0.0.0:{insightsPort} certhash={certificate hash} appid='{{unique guid}}'
 ```
 
+## 3. Update SysKitInsights database
+
+Lastly, hostname in SyskitInsights database must be updated.
+
+The following SQL query should be executed:
+
+```
+/****** CHANGE VALUES FOR {NewHostname} AND {OldHostname} BEFORE RUNNING THE SCRIPT ******/
+UPDATE [EventCollection].[Agents]
+   SET [HostName] = '{NewHostname}'
+ WHERE [HostName] = '{OldHostname}'
+```
+
 **Note:** When using HTTPS, Syskit Insights requires you to confirm the agent URL on each startup. If no changes were made, click the Set button, and you are good to go.
 
